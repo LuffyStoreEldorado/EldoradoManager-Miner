@@ -104,10 +104,6 @@ async function main() {
   // Ensure necessary directories exist
   await ensureDir(TEMP_DIR);
   await ensureDir(OUTPUT_DIR);
-  
-  // Clear the output directory before generating new files
-  await clearDirectory(OUTPUT_DIR);
-
   // --- Step 1: Fetch and filter the initial list of games ---
   const initialGamesData = await fetchAndFilterAccountsData();
 
