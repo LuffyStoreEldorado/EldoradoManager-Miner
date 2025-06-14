@@ -4,20 +4,15 @@ on:
   workflow_dispatch:
 
 jobs:
-  fetch_and_process_data:
+  main:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Bun
-        uses: oven-sh/setup-bun@v1
-        with:
-          bun-version: '1.1.8'
-
       - name: Run data fetching and merging script
-        run: bun run generateGames.js
+        run: node generateGames.mjs
 
       - name: Configure Git
         run: |
@@ -27,7 +22,7 @@ jobs:
       - name: Commit and push changes
         run: |
           # Add the output directory and its contents
-          git add ./output -f
+          git add ./output
 
           # Check if there are any changes to commit
           git diff --quiet --exit-code || \
