@@ -19,7 +19,7 @@ export const MESSAGES = {
   initialGamesSaveError: "Error saving initial games to games.json:",
   processingBatch: (currentBatchNum, totalBatches, gameIds) =>
     `[${currentBatchNum}/${totalBatches}] ${gameIds.join(", ")}`,
-  batchCompleteWaiting: `Batch complete. Waiting ${CONFIG.batchDelayMs} miliseconds before processing the next batch...`,
+  batchCompleteWaiting: `Batch complete. Waiting ${CONFIG.batchDelayMs}...`,
   fetchDetailsError: (gameId, status, statusText) =>
     `Error fetching ${gameId}: ${status} - ${statusText}`,
   fetchErrorGeneric: (gameId) => `Fetch error ${gameId}:`,
