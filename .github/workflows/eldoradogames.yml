@@ -17,7 +17,7 @@ jobs:
           bun-version: '1.1.8'
 
       - name: Run data fetching and merging script
-        run: bun run fetchDetails.js
+        run: bun run generateGames.js
 
       - name: Configure Git
         run: |
