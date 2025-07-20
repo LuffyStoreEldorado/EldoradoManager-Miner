@@ -25,5 +25,6 @@ export const config = {
  * This makes it easier to manage and update log messages.
  */
 export const messages = {
+  a: "a",
   // TO DO
 };
