@@ -21,14 +21,14 @@ jobs:
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
 
-      - name: Generate ISO Timestamp # New step to generate timestamp
-        id: generate_timestamp # Assign an ID to this step to reference its outputs
+      - name: Generate ISO Timestamp
+        id: generate_timestamp
         run: echo "ISO_TIME=$(date -u +'%Y-%m-%dT%H-%M-%SZ')" >> $GITHUB_OUTPUT
 
       - name: Commit and push changes
         run: |
           git add ./output -f
-          git commit -m "Eldorado Games (${‌{ steps.generate_timestamp.outputs.ISO_TIME }})" || echo "No changes to commit"
+          git commit -m "Eldorado Games (${{ steps.generate_timestamp.outputs.ISO_TIME }})" || echo "No changes to commit"
           git push
         env:
-          GITHUB_TOKEN: ${‌{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
