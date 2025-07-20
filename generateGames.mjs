@@ -1,5 +1,5 @@
 import * as fs from "node:fs/promises";
-import { config } from "./config.mjs"; // Removed MESSAGES import
+import { config } from "./config.mjs";
 
 // Define output directory using the configurable value
 const OUTPUT_DIR = config.outputDirectory;
@@ -68,6 +68,31 @@ async function fetchGameDetails(gameId) {
 		}
 		const data = await response.json();
 		return data;
+	} catch (error) {
+		console.error(`Generic fetch error for game ID ${gameId}:`, error);
+		return null;
+	}
+}
+
+/**
+ * Fetches tags for a specific game ID.
+ * @param {string} gameId - The ID of the game to fetch tags for.
+ * @returns {Promise<Object|null>} A promise that resolves to the tags object, or null if an error occurs.
+ */
+async function fetchGameTags(gameId) {
+	// IMPORTANT: This URL is a placeholder. You'll need to confirm the actual API endpoint for tags.
+	// Example: Maybe it's `https://www.eldorado.gg/api/library/${gameId}/tags/` or `https://www.eldorado.gg/api/game/${gameId}/tags`
+	const url = `${config.url}/${gameId}/filters/`; // Adjust this URL based on actual API
+	try {
+		const response = await fetch(url);
+		if (!response.ok) {
+			console.error(
+				`Error fetching tags for game ID ${gameId}: ${response.status} - ${response.statusText}`,
+			);
+			return null;
+		}
+		const data = await response.json();
+		return { gameId, tags: data }; // Assuming tags come as an array or object directly
 	} catch (error) {
 		console.error(`Generic fetch error for game ID ${gameId}:`, error);
 		return null;
@@ -166,6 +191,71 @@ async function runFetchDetails() {
 }
 
 /**
+ * Fetches game tags in batches and saves them. This is the functionality for 'tags' command.
+ */
+async function runFetchTags() {
+	await ensureDir(OUTPUT_DIR); // Ensure output directory exists
+
+	// Read games data from OUTPUT_DIR (where 'games' command saves it)
+	let initialGamesData;
+	const gamesFilePath = `${OUTPUT_DIR}/${config.games.name}`;
+	try {
+		const gamesContent = await fs.readFile(gamesFilePath, { encoding: "utf8" });
+		initialGamesData = JSON.parse(gamesContent);
+	} catch (error) {
+		console.error(
+			`Could not read ${gamesFilePath}. Please ensure 'games' data is available.`,
+		);
+		process.exit(1);
+	}
+
+	const gameIds = initialGamesData
+		.map((game) => game.gameId)
+		.filter((id) => id);
+	if (gameIds.length === 0) {
+		console.log("No game IDs found to fetch tags for. Exiting.");
+		return;
+	}
+
+	console.log("Starting tags fetch...");
+	const allTags = [];
+	const batchSize = config.tags.batchSize;
+
+	for (let i = 0; i < gameIds.length; i += batchSize) {
+		const batch = gameIds.slice(i, i + batchSize);
+		const currentBatchNum = Math.floor(i / batchSize) + 1;
+		const totalBatches = Math.ceil(gameIds.length / batchSize);
+		console.log(
+			`[${currentBatchNum}/${totalBatches}] Processing batch of game IDs: ${batch.join(", ")}`,
+		);
+
+		const batchPromises = batch.map((gameId) => fetchGameTags(gameId));
+		const results = await Promise.all(batchPromises);
+		allTags.push(...results.filter((tag) => tag !== null));
+
+		if (i + batchSize < gameIds.length) {
+			const delayMinutes = config.tags.batchDelayMs / (60 * 1000);
+			console.log(
+				`Batch complete. Waiting ${delayMinutes} minutes before next batch...`,
+			);
+			await delay(config.tags.batchDelayMs);
+		}
+	}
+
+	// Save tags data directly to OUTPUT_DIR
+	const tagsFilePath = `${OUTPUT_DIR}/${config.tags.name}`;
+	try {
+		await fs.writeFile(tagsFilePath, JSON.stringify(allTags, null, 2));
+		console.log(
+			`Successfully saved tags for ${allTags.length} games to ${tagsFilePath}`,
+		);
+	} catch (error) {
+		console.error(`Error saving tags to ${tagsFilePath}:`, error);
+		process.exit(1);
+	}
+}
+
+/**
  * Main function to act as a CLI dispatcher.
  */
 async function main() {
@@ -180,12 +270,15 @@ async function main() {
 			case "details":
 				await runFetchDetails();
 				break;
-			// Other cases (tags, all, merge) will be added later
+			case "tags": // New case for 'tags'
+				await runFetchTags();
+				break;
+			// 'all', 'merge' will be added later
 			default:
 				console.error(
-					`Error: Invalid command '${command || "No command provided"}'. Supported commands: 'games', 'details'.`,
+					`Error: Invalid command '${command || "No command provided"}'. Supported commands: 'games', 'details', 'tags'.`,
 				);
-				console.log("Usage: node generateGames.mjs <games|details>");
+				console.log("Usage: node generateGames.mjs <games|details|tags>");
 				process.exit(1);
 		}
 		console.log(`Command '${command}' executed successfully.`);
