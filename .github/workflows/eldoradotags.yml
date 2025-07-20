@@ -1,4 +1,4 @@
-name: EldoradoGames
+name: EldoradoTags
 
 on:
   workflow_dispatch:
