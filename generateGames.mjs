@@ -82,7 +82,7 @@ async function fetchGameDetails(gameId) {
 async function fetchGameTags(gameId) {
 	// IMPORTANT: This URL is a placeholder. You'll need to confirm the actual API endpoint for tags.
 	// Example: Maybe it's `https://www.eldorado.gg/api/library/${gameId}/tags/` or `https://www.eldorado.gg/api/game/${gameId}/tags`
-	const url = `${config.url}/${gameId}/filters/`; // Adjust this URL based on actual API
+	const url = `${config.url}/${gameId}/Account/filters/`; // Adjust this URL based on actual API
 	try {
 		const response = await fetch(url);
 		if (!response.ok) {
