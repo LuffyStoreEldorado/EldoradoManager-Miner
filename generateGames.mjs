@@ -1,8 +1,8 @@
 import * as fs from "node:fs/promises";
-import { config } from "./config.mjs";
+import { config } from "./config.mjs"; // Removed MESSAGES import
 
 // Define output directory using the configurable value
-const OUTPUT_DIR = config.outputDirectory; // Now reads from config
+const OUTPUT_DIR = config.outputDirectory;
 
 /**
  * Ensures a directory exists, creating it if necessary.
@@ -11,11 +11,20 @@ const OUTPUT_DIR = config.outputDirectory; // Now reads from config
 async function ensureDir(dirPath) {
 	try {
 		await fs.mkdir(dirPath, { recursive: true });
-		// console.log(`Ensured directory exists: ${dirPath}`); // Removed as MESSAGES is empty
+		console.log(`Ensured directory exists: ${dirPath}`);
 	} catch (error) {
 		console.error(`Error ensuring directory ${dirPath}:`, error);
 		throw error;
 	}
+}
+
+/**
+ * Delays execution for a specified number of milliseconds.
+ * @param {number} ms - The number of milliseconds to wait.
+ * @returns {Promise<void>} A promise that resolves after the specified delay.
+ */
+async function delay(ms) {
+	return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
 /**
@@ -25,7 +34,7 @@ async function ensureDir(dirPath) {
 async function fetchGamesData() {
 	const url = `${config.url}/?locale=en-US`; // Use base URL from config
 	try {
-		// console.log(MESSAGES.initialFetchStart); // Removed as MESSAGES is empty
+		console.log("Fetching initial games data (category: Account)...");
 		const response = await fetch(url);
 
 		if (!response.ok) {
@@ -34,11 +43,34 @@ async function fetchGamesData() {
 
 		const data = await response.json();
 		const accounts = data.filter((item) => item.category === "Account");
-		// console.log(MESSAGES.initialFetchFound(accounts.length)); // Removed as MESSAGES is empty
+		console.log(`Found ${accounts.length} account games.`);
 		return accounts;
 	} catch (error) {
-		console.error("Error fetching initial games data:", error); // Simple error message
+		console.error("Error fetching initial games data:", error);
 		return [];
+	}
+}
+
+/**
+ * Fetches detailed information for a specific game ID.
+ * @param {string} gameId - The ID of the game to fetch details for.
+ * @returns {Promise<Object|null>} A promise that resolves to the game details object, or null if an error occurs.
+ */
+async function fetchGameDetails(gameId) {
+	const url = `${config.url}/${gameId}/Account/`; // Use base URL from config
+	try {
+		const response = await fetch(url);
+		if (!response.ok) {
+			console.error(
+				`Error fetching details for game ID ${gameId}: ${response.status} - ${response.statusText}`,
+			);
+			return null;
+		}
+		const data = await response.json();
+		return data;
+	} catch (error) {
+		console.error(`Generic fetch error for game ID ${gameId}:`, error);
+		return null;
 	}
 }
 
@@ -46,12 +78,12 @@ async function fetchGamesData() {
  * Fetches initial game list and saves it. This is the functionality for 'games' command.
  */
 async function runFetchGames() {
-	await ensureDir(OUTPUT_DIR); // Ensure temporary directory exists
+	await ensureDir(OUTPUT_DIR); // Ensure output directory exists
 
 	const initialGamesData = await fetchGamesData();
 
 	if (initialGamesData.length === 0) {
-		console.log("Found 0 account games. Exiting."); // Simple message
+		console.log("Found 0 account games. Exiting.");
 		return;
 	}
 
@@ -61,9 +93,74 @@ async function runFetchGames() {
 			gamesFilePath,
 			JSON.stringify(initialGamesData, null, 2),
 		);
-		console.log(`Initial game list saved to ${gamesFilePath}`); // Simple success message
+		console.log(`Initial game list saved to ${gamesFilePath}`);
 	} catch (error) {
-		console.error(`Error saving initial games to ${gamesFilePath}:`, error); // Simple error message
+		console.error(`Error saving initial games to ${gamesFilePath}:`, error);
+		process.exit(1);
+	}
+}
+
+/**
+ * Fetches game details in batches and saves them. This is the functionality for 'details' command.
+ */
+async function runFetchDetails() {
+	await ensureDir(OUTPUT_DIR); // Ensure output directory exists
+
+	// Read games data from OUTPUT_DIR (where 'games' command now saves it)
+	let initialGamesData;
+	const gamesFilePath = `${OUTPUT_DIR}/${config.games.name}`;
+	try {
+		const gamesContent = await fs.readFile(gamesFilePath, { encoding: "utf8" });
+		initialGamesData = JSON.parse(gamesContent);
+	} catch (error) {
+		console.error(
+			`Could not read ${gamesFilePath}. Please ensure 'games' data is available.`,
+		);
+		process.exit(1);
+	}
+
+	const gameIds = initialGamesData
+		.map((game) => game.gameId)
+		.filter((id) => id);
+	if (gameIds.length === 0) {
+		console.log("No game IDs found to fetch details for. Exiting.");
+		return;
+	}
+
+	console.log("Starting details fetch...");
+	const allDetails = [];
+	const batchSize = config.details.batchSize;
+
+	for (let i = 0; i < gameIds.length; i += batchSize) {
+		const batch = gameIds.slice(i, i + batchSize);
+		const currentBatchNum = Math.floor(i / batchSize) + 1;
+		const totalBatches = Math.ceil(gameIds.length / batchSize);
+		console.log(
+			`[${currentBatchNum}/${totalBatches}] Processing batch of game IDs: ${batch.join(", ")}`,
+		);
+
+		const batchPromises = batch.map((gameId) => fetchGameDetails(gameId));
+		const results = await Promise.all(batchPromises);
+		allDetails.push(...results.filter((detail) => detail !== null));
+
+		if (i + batchSize < gameIds.length) {
+			const delayMinutes = config.details.batchDelayMs / (60 * 1000);
+			console.log(
+				`Batch complete. Waiting ${delayMinutes} minutes before next batch...`,
+			);
+			await delay(config.details.batchDelayMs);
+		}
+	}
+
+	// Save details data directly to OUTPUT_DIR
+	const detailsFilePath = `${OUTPUT_DIR}/${config.details.name}`;
+	try {
+		await fs.writeFile(detailsFilePath, JSON.stringify(allDetails, null, 2));
+		console.log(
+			`Successfully saved details for ${allDetails.length} games to ${detailsFilePath}`,
+		);
+	} catch (error) {
+		console.error(`Error saving details to ${detailsFilePath}:`, error);
 		process.exit(1);
 	}
 }
@@ -80,19 +177,20 @@ async function main() {
 			case "games":
 				await runFetchGames();
 				break;
-			// Other cases (details, tags, all, merge) will be added later
+			case "details":
+				await runFetchDetails();
+				break;
+			// Other cases (tags, all, merge) will be added later
 			default:
 				console.error(
-					`Error: Invalid command '${
-						command || "No command provided"
-					}'. Only 'games' is supported for now.`,
+					`Error: Invalid command '${command || "No command provided"}'. Supported commands: 'games', 'details'.`,
 				);
-				console.log("Usage: node generateGames.mjs games");
+				console.log("Usage: node generateGames.mjs <games|details>");
 				process.exit(1);
 		}
 		console.log(`Command '${command}' executed successfully.`);
 	} catch (err) {
-		console.error("An unexpected error occurred during script execution:", err); // Simple error message
+		console.error("An unexpected error occurred during script execution:", err);
 		process.exit(1);
 	}
 }
