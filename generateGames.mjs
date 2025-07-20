@@ -1,4 +1,4 @@
-import { config, MESSAGES } from "./config.mjs"; // Import configuration and messages
+import { config } from "./config.mjs"; // Import configuration and messages
 import * as fs from "fs/promises"; // Import Node.js file system promises API
 
 // Define temporary directory (remains constant)
