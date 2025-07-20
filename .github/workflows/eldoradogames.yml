@@ -4,7 +4,63 @@ on:
   workflow_dispatch:
 
 jobs:
-  main:
+  games:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run script
+        run: node generateGames.mjs games
+
+      - name: Configure Git
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+
+      - name: Generate ISO Timestamp
+        id: generate_timestamp
+        run: echo "ISO_TIME=$(date -u +'%Y-%m-%dT%H-%M-%SZ')" >> $GITHUB_OUTPUT
+
+      - name: Commit and push changes
+        run: |
+          git add ./output -f
+          git commit -m "Eldorado Games (${{ steps.generate_timestamp.outputs.ISO_TIME }})" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  details:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run data fetching and merging script
+        run: node generateGames.mjs
+
+      - name: Configure Git
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+
+      - name: Generate ISO Timestamp
+        id: generate_timestamp
+        run: echo "ISO_TIME=$(date -u +'%Y-%m-%dT%H-%M-%SZ')" >> $GITHUB_OUTPUT
+
+      - name: Commit and push changes
+        run: |
+          git add ./output -f
+          git commit -m "Eldorado Games (${{ steps.generate_timestamp.outputs.ISO_TIME }})" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  tags:
     runs-on: ubuntu-latest
     permissions:
       contents: write
