@@ -1,9 +1,10 @@
 import { CONFIG, MESSAGES } from './config.mjs'; // Import configuration and messages
 import * as fs from 'fs/promises'; // Import Node.js file system promises API
 
-// Define temporary and output directories
+// Define temporary directory (remains constant)
 const TEMP_DIR = './tmp';
-const OUTPUT_DIR = './output';
+// Define output directory using the configurable value
+const OUTPUT_DIR = CONFIG.outputDirectory; // Now reads from CONFIG
 
 /**
  * Ensures a directory exists, creating it if necessary.
@@ -27,7 +28,7 @@ async function ensureDir(dirPath) {
 async function clearDirectory(dirPath) {
   try {
     // Check if the directory exists before attempting to read it
-    await fs.access(dirPath); 
+    await fs.access(dirPath);
     const files = await fs.readdir(dirPath);
     for (const file of files) {
       await fs.unlink(`${dirPath}/${file}`); // Delete file
@@ -103,6 +104,7 @@ async function delay(ms) {
 async function main() {
   // Ensure necessary directories exist
   await ensureDir(TEMP_DIR);
+  // Use the configurable OUTPUT_DIR
   await ensureDir(OUTPUT_DIR);
   // --- Step 1: Fetch and filter the initial list of games ---
   const initialGamesData = await fetchAndFilterAccountsData();
@@ -141,7 +143,7 @@ async function main() {
 
     // Initiate all fetch requests concurrently for the current batch.
     const batchPromises = batch.map((gameId) => fetchDetails(gameId));
-    
+
     // Wait until all requests in the current batch complete.
     const results = await Promise.all(batchPromises);
 
@@ -166,7 +168,7 @@ async function main() {
     return; // Exit if details cannot be saved
   }
 
-  // --- Step 4: Merge the details based on gameId and save to EldoradoGames-{isotime}.json in the output directory ---
+  // --- Step 4: Merge the details based on gameId and save to EldoradoGames.json in the output directory ---
   console.log(MESSAGES.mergingStart);
 
   // Read and parse the games.json and details.json files from the temporary directory.
@@ -180,7 +182,7 @@ async function main() {
     console.error(MESSAGES.readFilesError, error);
     return;
   }
-  
+
   const games = JSON.parse(gamesContent);
   const details = JSON.parse(detailsContent);
 
@@ -202,10 +204,10 @@ async function main() {
     return game;
   });
 
-  // Generate ISO timestamp for the output file
-  const isoTime = new Date().toISOString().replace(/:/g, '-').replace(/\..+/, ''); //YYYY-MM-DDTHH-MM-SS
-  const finalOutputFileName = `EldoradoGames-${isoTime}.json`;
-  const finalOutputFilePath = `${OUTPUT_DIR}/${finalOutputFileName}`;
+  // Use the configurable output filename
+  const finalOutputFileName = CONFIG.outputFileName;
+  // Use the configurable output directory and filename
+  const finalOutputFilePath = `${CONFIG.outputDirectory}/${finalOutputFileName}`;
 
   // Write the merged result to the final output file
   try {
