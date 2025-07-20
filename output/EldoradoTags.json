@@ -1,0 +1,675 @@
+[
+  {
+    "gameId": "0",
+    "tags": []
+  },
+  {
+    "gameId": "1",
+    "tags": []
+  },
+  {
+    "gameId": "10",
+    "tags": []
+  },
+  {
+    "gameId": "103",
+    "tags": []
+  },
+  {
+    "gameId": "104",
+    "tags": []
+  },
+  {
+    "gameId": "106",
+    "tags": []
+  },
+  {
+    "gameId": "108",
+    "tags": []
+  },
+  {
+    "gameId": "11",
+    "tags": []
+  },
+  {
+    "gameId": "111",
+    "tags": []
+  },
+  {
+    "gameId": "115",
+    "tags": []
+  },
+  {
+    "gameId": "119",
+    "tags": []
+  },
+  {
+    "gameId": "124",
+    "tags": []
+  },
+  {
+    "gameId": "128",
+    "tags": []
+  },
+  {
+    "gameId": "130",
+    "tags": []
+  },
+  {
+    "gameId": "132",
+    "tags": []
+  },
+  {
+    "gameId": "133",
+    "tags": []
+  },
+  {
+    "gameId": "134",
+    "tags": []
+  },
+  {
+    "gameId": "135",
+    "tags": []
+  },
+  {
+    "gameId": "137",
+    "tags": []
+  },
+  {
+    "gameId": "138",
+    "tags": []
+  },
+  {
+    "gameId": "139",
+    "tags": []
+  },
+  {
+    "gameId": "14",
+    "tags": []
+  },
+  {
+    "gameId": "142",
+    "tags": []
+  },
+  {
+    "gameId": "143",
+    "tags": []
+  },
+  {
+    "gameId": "148",
+    "tags": []
+  },
+  {
+    "gameId": "149",
+    "tags": []
+  },
+  {
+    "gameId": "150",
+    "tags": []
+  },
+  {
+    "gameId": "151",
+    "tags": []
+  },
+  {
+    "gameId": "153",
+    "tags": []
+  },
+  {
+    "gameId": "154",
+    "tags": []
+  },
+  {
+    "gameId": "155",
+    "tags": []
+  },
+  {
+    "gameId": "156",
+    "tags": []
+  },
+  {
+    "gameId": "157",
+    "tags": []
+  },
+  {
+    "gameId": "158",
+    "tags": []
+  },
+  {
+    "gameId": "159",
+    "tags": []
+  },
+  {
+    "gameId": "16",
+    "tags": [
+      {
+        "gameId": "16",
+        "category": "Account",
+        "name": "Backpacks",
+        "sortOrder": 5,
+        "maxValue": 999
+      },
+      {
+        "gameId": "16",
+        "category": "Account",
+        "name": "Emotes",
+        "sortOrder": 3,
+        "maxValue": 999
+      },
+      {
+        "gameId": "16",
+        "category": "Account",
+        "name": "Pickaxes",
+        "sortOrder": 4,
+        "maxValue": 999
+      },
+      {
+        "gameId": "16",
+        "category": "Account",
+        "name": "Skins",
+        "sortOrder": 1,
+        "maxValue": 999
+      },
+      {
+        "gameId": "16",
+        "category": "Account",
+        "name": "V-Bucks",
+        "sortOrder": 2,
+        "maxValue": 200000
+      }
+    ]
+  },
+  {
+    "gameId": "160",
+    "tags": []
+  },
+  {
+    "gameId": "161",
+    "tags": []
+  },
+  {
+    "gameId": "162",
+    "tags": []
+  },
+  {
+    "gameId": "163",
+    "tags": []
+  },
+  {
+    "gameId": "164",
+    "tags": []
+  },
+  {
+    "gameId": "165",
+    "tags": []
+  },
+  {
+    "gameId": "166",
+    "tags": []
+  },
+  {
+    "gameId": "168",
+    "tags": []
+  },
+  {
+    "gameId": "17",
+    "tags": []
+  },
+  {
+    "gameId": "171",
+    "tags": []
+  },
+  {
+    "gameId": "172",
+    "tags": []
+  },
+  {
+    "gameId": "173",
+    "tags": []
+  },
+  {
+    "gameId": "174",
+    "tags": []
+  },
+  {
+    "gameId": "175",
+    "tags": []
+  },
+  {
+    "gameId": "176",
+    "tags": []
+  },
+  {
+    "gameId": "177",
+    "tags": []
+  },
+  {
+    "gameId": "178",
+    "tags": []
+  },
+  {
+    "gameId": "179",
+    "tags": []
+  },
+  {
+    "gameId": "18",
+    "tags": [
+      {
+        "gameId": "18",
+        "category": "Account",
+        "name": "AQ",
+        "sortOrder": 5,
+        "maxValue": 999
+      },
+      {
+        "gameId": "18",
+        "category": "Account",
+        "name": "BK",
+        "sortOrder": 3,
+        "maxValue": 999
+      },
+      {
+        "gameId": "18",
+        "category": "Account",
+        "name": "Gems",
+        "sortOrder": 8,
+        "maxValue": 999999
+      },
+      {
+        "gameId": "18",
+        "category": "Account",
+        "name": "GW",
+        "sortOrder": 6,
+        "maxValue": 999
+      },
+      {
+        "gameId": "18",
+        "category": "Account",
+        "name": "Level",
+        "sortOrder": 2,
+        "maxValue": 999
+      },
+      {
+        "gameId": "18",
+        "category": "Account",
+        "name": "MP",
+        "sortOrder": 4,
+        "maxValue": 999
+      },
+      {
+        "gameId": "18",
+        "category": "Account",
+        "name": "RC",
+        "sortOrder": 7,
+        "maxValue": 999
+      },
+      {
+        "gameId": "18",
+        "category": "Account",
+        "name": "TH",
+        "sortOrder": 1,
+        "maxValue": 999
+      }
+    ]
+  },
+  {
+    "gameId": "180",
+    "tags": []
+  },
+  {
+    "gameId": "181",
+    "tags": []
+  },
+  {
+    "gameId": "182",
+    "tags": []
+  },
+  {
+    "gameId": "183",
+    "tags": []
+  },
+  {
+    "gameId": "184",
+    "tags": []
+  },
+  {
+    "gameId": "185",
+    "tags": []
+  },
+  {
+    "gameId": "186",
+    "tags": []
+  },
+  {
+    "gameId": "188",
+    "tags": []
+  },
+  {
+    "gameId": "19",
+    "tags": []
+  },
+  {
+    "gameId": "190",
+    "tags": []
+  },
+  {
+    "gameId": "194",
+    "tags": []
+  },
+  {
+    "gameId": "2",
+    "tags": []
+  },
+  {
+    "gameId": "20",
+    "tags": []
+  },
+  {
+    "gameId": "200",
+    "tags": []
+  },
+  {
+    "gameId": "201",
+    "tags": []
+  },
+  {
+    "gameId": "202",
+    "tags": []
+  },
+  {
+    "gameId": "21",
+    "tags": []
+  },
+  {
+    "gameId": "212",
+    "tags": []
+  },
+  {
+    "gameId": "217",
+    "tags": []
+  },
+  {
+    "gameId": "219",
+    "tags": []
+  },
+  {
+    "gameId": "22",
+    "tags": []
+  },
+  {
+    "gameId": "220",
+    "tags": []
+  },
+  {
+    "gameId": "223",
+    "tags": []
+  },
+  {
+    "gameId": "226",
+    "tags": []
+  },
+  {
+    "gameId": "227",
+    "tags": []
+  },
+  {
+    "gameId": "231",
+    "tags": []
+  },
+  {
+    "gameId": "232",
+    "tags": []
+  },
+  {
+    "gameId": "24",
+    "tags": []
+  },
+  {
+    "gameId": "240",
+    "tags": []
+  },
+  {
+    "gameId": "241",
+    "tags": []
+  },
+  {
+    "gameId": "243",
+    "tags": []
+  },
+  {
+    "gameId": "244",
+    "tags": []
+  },
+  {
+    "gameId": "245",
+    "tags": []
+  },
+  {
+    "gameId": "247",
+    "tags": []
+  },
+  {
+    "gameId": "248",
+    "tags": []
+  },
+  {
+    "gameId": "25",
+    "tags": []
+  },
+  {
+    "gameId": "251",
+    "tags": []
+  },
+  {
+    "gameId": "252",
+    "tags": []
+  },
+  {
+    "gameId": "253",
+    "tags": []
+  },
+  {
+    "gameId": "255",
+    "tags": []
+  },
+  {
+    "gameId": "258",
+    "tags": []
+  },
+  {
+    "gameId": "259",
+    "tags": []
+  },
+  {
+    "gameId": "27",
+    "tags": []
+  },
+  {
+    "gameId": "29",
+    "tags": []
+  },
+  {
+    "gameId": "3",
+    "tags": []
+  },
+  {
+    "gameId": "32",
+    "tags": []
+  },
+  {
+    "gameId": "33",
+    "tags": []
+  },
+  {
+    "gameId": "34",
+    "tags": []
+  },
+  {
+    "gameId": "35",
+    "tags": [
+      {
+        "gameId": "35",
+        "category": "Account",
+        "name": "Camos",
+        "sortOrder": 4,
+        "maxValue": 999
+      },
+      {
+        "gameId": "35",
+        "category": "Account",
+        "name": "Level",
+        "sortOrder": 1,
+        "maxValue": 999
+      },
+      {
+        "gameId": "35",
+        "category": "Account",
+        "name": "Operators",
+        "sortOrder": 3,
+        "maxValue": 999
+      },
+      {
+        "gameId": "35",
+        "category": "Account",
+        "name": "Prestige",
+        "sortOrder": 2,
+        "maxValue": 999
+      },
+      {
+        "gameId": "35",
+        "category": "Account",
+        "name": "Weapons",
+        "sortOrder": 5,
+        "maxValue": 999
+      }
+    ]
+  },
+  {
+    "gameId": "36",
+    "tags": []
+  },
+  {
+    "gameId": "37",
+    "tags": []
+  },
+  {
+    "gameId": "39",
+    "tags": []
+  },
+  {
+    "gameId": "41",
+    "tags": []
+  },
+  {
+    "gameId": "42",
+    "tags": []
+  },
+  {
+    "gameId": "43",
+    "tags": []
+  },
+  {
+    "gameId": "44",
+    "tags": []
+  },
+  {
+    "gameId": "45",
+    "tags": []
+  },
+  {
+    "gameId": "46",
+    "tags": []
+  },
+  {
+    "gameId": "47",
+    "tags": []
+  },
+  {
+    "gameId": "48",
+    "tags": []
+  },
+  {
+    "gameId": "50",
+    "tags": []
+  },
+  {
+    "gameId": "52",
+    "tags": []
+  },
+  {
+    "gameId": "53",
+    "tags": []
+  },
+  {
+    "gameId": "55",
+    "tags": []
+  },
+  {
+    "gameId": "56",
+    "tags": []
+  },
+  {
+    "gameId": "57",
+    "tags": []
+  },
+  {
+    "gameId": "59",
+    "tags": []
+  },
+  {
+    "gameId": "61",
+    "tags": []
+  },
+  {
+    "gameId": "64",
+    "tags": []
+  },
+  {
+    "gameId": "65",
+    "tags": []
+  },
+  {
+    "gameId": "7",
+    "tags": []
+  },
+  {
+    "gameId": "70",
+    "tags": []
+  },
+  {
+    "gameId": "73",
+    "tags": []
+  },
+  {
+    "gameId": "74",
+    "tags": []
+  },
+  {
+    "gameId": "75",
+    "tags": []
+  },
+  {
+    "gameId": "77",
+    "tags": []
+  },
+  {
+    "gameId": "80",
+    "tags": []
+  },
+  {
+    "gameId": "82",
+    "tags": []
+  },
+  {
+    "gameId": "9",
+    "tags": []
+  },
+  {
+    "gameId": "92",
+    "tags": []
+  },
+  {
+    "gameId": "94",
+    "tags": []
+  }
+]
