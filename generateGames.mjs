@@ -1,40 +1,26 @@
 import * as fs from "node:fs/promises";
-import { config } from "./config.mjs";
+import { config, messages } from "./config.mjs";
 
-// Define output directory using the configurable value
 const OUTPUT_DIR = config.outputDirectory;
 
-/**
- * Ensures a directory exists, creating it if necessary.
- * @param {string} dirPath - The path of the directory to ensure.
- */
 async function ensureDir(dirPath) {
 	try {
 		await fs.mkdir(dirPath, { recursive: true });
-		console.log(`Ensured directory exists: ${dirPath}`);
+		console.log(messages.ensuredDirectory(dirPath));
 	} catch (error) {
 		console.error(`Error ensuring directory ${dirPath}:`, error);
 		throw error;
 	}
 }
 
-/**
- * Delays execution for a specified number of milliseconds.
- * @param {number} ms - The number of milliseconds to wait.
- * @returns {Promise<void>} A promise that resolves after the specified delay.
- */
 async function delay(ms) {
 	return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
-/**
- * Fetches the initial list of games from eldorado.gg API and filters for "Account" category.
- * @returns {Promise<Array<Object>>} A promise that resolves to an array of game objects, or an empty array on error.
- */
 async function fetchGamesData() {
-	const url = `${config.url}/?locale=en-US`; // Use base URL from config
+	const url = `${config.url}/?locale=en-US`;
 	try {
-		console.log("Fetching initial games data (category: Account)...");
+		console.log(messages.initialFetchStart);
 		const response = await fetch(url);
 
 		if (!response.ok) {
@@ -43,72 +29,61 @@ async function fetchGamesData() {
 
 		const data = await response.json();
 		const accounts = data.filter((item) => item.category === "Account");
-		console.log(`Found ${accounts.length} account games.`);
+		console.log(messages.initialFetchFound(accounts.length));
 		return accounts;
 	} catch (error) {
-		console.error("Error fetching initial games data:", error);
+		console.error(messages.initialFetchError, error);
 		return [];
 	}
 }
 
-/**
- * Fetches detailed information for a specific game ID.
- * @param {string} gameId - The ID of the game to fetch details for.
- * @returns {Promise<Object|null>} A promise that resolves to the game details object, or null if an error occurs.
- */
 async function fetchGameDetails(gameId) {
-	const url = `${config.url}/${gameId}/Account/`; // Use base URL from config
+	const url = `${config.url}/${gameId}/Account/`;
 	try {
 		const response = await fetch(url);
 		if (!response.ok) {
 			console.error(
-				`Error fetching details for game ID ${gameId}: ${response.status} - ${response.statusText}`,
+				messages.fetchDetailsError(
+					gameId,
+					response.status,
+					response.statusText,
+				),
 			);
 			return null;
 		}
 		const data = await response.json();
 		return data;
 	} catch (error) {
-		console.error(`Generic fetch error for game ID ${gameId}:`, error);
+		console.error(messages.fetchErrorGeneric(gameId), error);
 		return null;
 	}
 }
 
-/**
- * Fetches tags for a specific game ID.
- * @param {string} gameId - The ID of the game to fetch tags for.
- * @returns {Promise<Object|null>} A promise that resolves to the tags object, or null if an error occurs.
- */
 async function fetchGameTags(gameId) {
-	// IMPORTANT: This URL is a placeholder. You'll need to confirm the actual API endpoint for tags.
-	// Example: Maybe it's `https://www.eldorado.gg/api/library/${gameId}/tags/` or `https://www.eldorado.gg/api/game/${gameId}/tags`
-	const url = `${config.url}/${gameId}/Account/filters/`; // Adjust this URL based on actual API
+	const url = `${config.url}/${gameId}/Account/filters/`;
 	try {
 		const response = await fetch(url);
 		if (!response.ok) {
 			console.error(
-				`Error fetching tags for game ID ${gameId}: ${response.status} - ${response.statusText}`,
+				messages.fetchTagsError(gameId, response.status, response.statusText),
 			);
 			return null;
 		}
 		const data = await response.json();
-		return { gameId, tags: data }; // Assuming tags come as an array or object directly
+		return { gameId, tags: data };
 	} catch (error) {
-		console.error(`Generic fetch error for game ID ${gameId}:`, error);
+		console.error(messages.fetchErrorGeneric(gameId), error);
 		return null;
 	}
 }
 
-/**
- * Fetches initial game list and saves it. This is the functionality for 'games' command.
- */
 async function runFetchGames() {
-	await ensureDir(OUTPUT_DIR); // Ensure output directory exists
+	await ensureDir(OUTPUT_DIR);
 
 	const initialGamesData = await fetchGamesData();
 
 	if (initialGamesData.length === 0) {
-		console.log("Found 0 account games. Exiting.");
+		console.log(messages.noAccountGames);
 		return;
 	}
 
@@ -118,29 +93,23 @@ async function runFetchGames() {
 			gamesFilePath,
 			JSON.stringify(initialGamesData, null, 2),
 		);
-		console.log(`Initial game list saved to ${gamesFilePath}`);
+		console.log(messages.initialGamesSaveSuccess(gamesFilePath));
 	} catch (error) {
-		console.error(`Error saving initial games to ${gamesFilePath}:`, error);
+		console.error(messages.initialGamesSaveError(gamesFilePath), error);
 		process.exit(1);
 	}
 }
 
-/**
- * Fetches game details in batches and saves them. This is the functionality for 'details' command.
- */
 async function runFetchDetails() {
-	await ensureDir(OUTPUT_DIR); // Ensure output directory exists
+	await ensureDir(OUTPUT_DIR);
 
-	// Read games data from OUTPUT_DIR (where 'games' command now saves it)
 	let initialGamesData;
 	const gamesFilePath = `${OUTPUT_DIR}/${config.games.name}`;
 	try {
 		const gamesContent = await fs.readFile(gamesFilePath, { encoding: "utf8" });
 		initialGamesData = JSON.parse(gamesContent);
-	} catch (error) {
-		console.error(
-			`Could not read ${gamesFilePath}. Please ensure 'games' data is available.`,
-		);
+	} catch (_error) {
+		console.error(messages.couldNotReadGamesFile(gamesFilePath));
 		process.exit(1);
 	}
 
@@ -148,11 +117,11 @@ async function runFetchDetails() {
 		.map((game) => game.gameId)
 		.filter((id) => id);
 	if (gameIds.length === 0) {
-		console.log("No game IDs found to fetch details for. Exiting.");
+		console.log(messages.noGameIdsForFetch("details"));
 		return;
 	}
 
-	console.log("Starting details fetch...");
+	console.log(messages.fetchDetailsStart);
 	const allDetails = [];
 	const batchSize = config.details.batchSize;
 
@@ -160,9 +129,7 @@ async function runFetchDetails() {
 		const batch = gameIds.slice(i, i + batchSize);
 		const currentBatchNum = Math.floor(i / batchSize) + 1;
 		const totalBatches = Math.ceil(gameIds.length / batchSize);
-		console.log(
-			`[${currentBatchNum}/${totalBatches}] Processing batch of game IDs: ${batch.join(", ")}`,
-		);
+		console.log(messages.processingBatch(currentBatchNum, totalBatches, batch));
 
 		const batchPromises = batch.map((gameId) => fetchGameDetails(gameId));
 		const results = await Promise.all(batchPromises);
@@ -170,42 +137,33 @@ async function runFetchDetails() {
 
 		if (i + batchSize < gameIds.length) {
 			const delayMinutes = config.details.batchDelayMs / (60 * 1000);
-			console.log(
-				`Batch complete. Waiting ${delayMinutes} minutes before next batch...`,
-			);
+			console.log(messages.batchCompleteWaiting(delayMinutes));
 			await delay(config.details.batchDelayMs);
 		}
 	}
 
-	// Save details data directly to OUTPUT_DIR
 	const detailsFilePath = `${OUTPUT_DIR}/${config.details.name}`;
 	try {
 		await fs.writeFile(detailsFilePath, JSON.stringify(allDetails, null, 2));
 		console.log(
-			`Successfully saved details for ${allDetails.length} games to ${detailsFilePath}`,
+			messages.detailsSaveSuccess(allDetails.length, detailsFilePath),
 		);
 	} catch (error) {
-		console.error(`Error saving details to ${detailsFilePath}:`, error);
+		console.error(messages.detailsSaveError(detailsFilePath), error);
 		process.exit(1);
 	}
 }
 
-/**
- * Fetches game tags in batches and saves them. This is the functionality for 'tags' command.
- */
 async function runFetchTags() {
-	await ensureDir(OUTPUT_DIR); // Ensure output directory exists
+	await ensureDir(OUTPUT_DIR);
 
-	// Read games data from OUTPUT_DIR (where 'games' command saves it)
 	let initialGamesData;
 	const gamesFilePath = `${OUTPUT_DIR}/${config.games.name}`;
 	try {
 		const gamesContent = await fs.readFile(gamesFilePath, { encoding: "utf8" });
 		initialGamesData = JSON.parse(gamesContent);
-	} catch (error) {
-		console.error(
-			`Could not read ${gamesFilePath}. Please ensure 'games' data is available.`,
-		);
+	} catch (_error) {
+		console.error(messages.couldNotReadGamesFile(gamesFilePath));
 		process.exit(1);
 	}
 
@@ -213,11 +171,11 @@ async function runFetchTags() {
 		.map((game) => game.gameId)
 		.filter((id) => id);
 	if (gameIds.length === 0) {
-		console.log("No game IDs found to fetch tags for. Exiting.");
+		console.log(messages.noGameIdsForFetch("tags"));
 		return;
 	}
 
-	console.log("Starting tags fetch...");
+	console.log(messages.fetchTagsStart);
 	const allTags = [];
 	const batchSize = config.tags.batchSize;
 
@@ -225,9 +183,7 @@ async function runFetchTags() {
 		const batch = gameIds.slice(i, i + batchSize);
 		const currentBatchNum = Math.floor(i / batchSize) + 1;
 		const totalBatches = Math.ceil(gameIds.length / batchSize);
-		console.log(
-			`[${currentBatchNum}/${totalBatches}] Processing batch of game IDs: ${batch.join(", ")}`,
-		);
+		console.log(messages.processingBatch(currentBatchNum, totalBatches, batch));
 
 		const batchPromises = batch.map((gameId) => fetchGameTags(gameId));
 		const results = await Promise.all(batchPromises);
@@ -235,31 +191,23 @@ async function runFetchTags() {
 
 		if (i + batchSize < gameIds.length) {
 			const delayMinutes = config.tags.batchDelayMs / (60 * 1000);
-			console.log(
-				`Batch complete. Waiting ${delayMinutes} minutes before next batch...`,
-			);
+			console.log(messages.batchCompleteWaiting(delayMinutes));
 			await delay(config.tags.batchDelayMs);
 		}
 	}
 
-	// Save tags data directly to OUTPUT_DIR
 	const tagsFilePath = `${OUTPUT_DIR}/${config.tags.name}`;
 	try {
 		await fs.writeFile(tagsFilePath, JSON.stringify(allTags, null, 2));
-		console.log(
-			`Successfully saved tags for ${allTags.length} games to ${tagsFilePath}`,
-		);
+		console.log(messages.tagsSaveSuccess(allTags.length, tagsFilePath));
 	} catch (error) {
-		console.error(`Error saving tags to ${tagsFilePath}:`, error);
+		console.error(messages.tagsSaveError(tagsFilePath), error);
 		process.exit(1);
 	}
 }
 
-/**
- * Main function to act as a CLI dispatcher.
- */
 async function main() {
-	const args = process.argv.slice(2); // Get command-line arguments
+	const args = process.argv.slice(2);
 	const command = args[0];
 
 	try {
@@ -270,23 +218,21 @@ async function main() {
 			case "details":
 				await runFetchDetails();
 				break;
-			case "tags": // New case for 'tags'
+			case "tags":
 				await runFetchTags();
 				break;
-			// 'all', 'merge' will be added later
 			default:
 				console.error(
-					`Error: Invalid command '${command || "No command provided"}'. Supported commands: 'games', 'details', 'tags'.`,
+					messages.invalidCommand(command || messages.noCommandProvided),
 				);
-				console.log("Usage: node generateGames.mjs <games|details|tags>");
+				console.log(messages.usageHint);
 				process.exit(1);
 		}
-		console.log(`Command '${command}' executed successfully.`);
+		console.log(messages.commandSuccess(command));
 	} catch (err) {
-		console.error("An unexpected error occurred during script execution:", err);
+		console.error(messages.unexpectedError, err);
 		process.exit(1);
 	}
 }
 
-// Run the main function.
 main();

@@ -28,7 +28,7 @@ jobs:
       - name: Commit and push EldoradoTags.json
         run: |
           git add ./output/EldoradoTags.json -f
-          git commit -m "EldoradoTags.json (${{ steps.generate_timestamp.outputs.ISO_TIME }}) - Tags data update" || echo "No changes to commit for tags data"
+          git commit -m "Eldorado Tags (${{ steps.generate_timestamp.outputs.ISO_TIME }})" || echo "No changes to commit for tags data"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
