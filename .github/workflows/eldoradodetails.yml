@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  games:
+  details:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -13,8 +13,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Run script
-        run: node generateGames.mjs games
+      - name: Run data fetching and merging script
+        run: node generateGames.mjs
 
       - name: Configure Git
         run: |
