@@ -5,6 +5,8 @@
 export const CONFIG = {
   batchSize: 10,
   batchDelayMs: 1 * 60 * 1000, // Default: 5 minutes
+  outputFileName: "EldoradoGames.json",
+  outputDirectory: "./output", // New: Specify the desired output directory path
 };
 /**
  * Centralized console messages used throughout the script.
