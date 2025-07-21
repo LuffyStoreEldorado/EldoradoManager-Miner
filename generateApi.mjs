@@ -28,7 +28,7 @@ async function fetchSwaggerJson() {
 	if (!SWAGGER_FETCH_CONFIG.eldoradoIdToken) {
 		console.error(
 			messages.unexpectedError,
-			"ELDORADO_ID_TOKEN environment variable is not set. Please set it.",
+			"ELDORADO_TOKEN environment variable is not set. Please set it.",
 		);
 		return null;
 	}
