@@ -13,10 +13,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Run Swagger fetch script
+      - name: Run script
         run: node generateApi.mjs
         env:
-          ELDORADO_ID_TOKEN: ${{ secrets.ELDORADO_TOKEN }}
+          ELDORADO_TOKEN: ${{ secrets.ELDORADO_TOKEN }}
 
       - name: Configure Git
         run: |
