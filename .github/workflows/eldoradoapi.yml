@@ -1,0 +1,36 @@
+name: EldoradoAPI
+
+on:
+  workflow_dispatch:
+
+jobs:
+  api:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run Swagger fetch script
+        run: node generateApi.mjs
+        env:
+          ELDORADO_ID_TOKEN: ${{ secrets.ELDORADO_TOKEN }}
+
+      - name: Configure Git
+        run: |
+          git config user.name "GitHub Actions Bot (Swagger Fetch)" # Sets the commit author name
+          git config user.email "actions@github.com" # Sets the commit author email
+
+      - name: Generate ISO Timestamp
+        id: generate_timestamp
+        run: echo "ISO_TIME=$(date -u +'%Y-%m-%dT%H-%M-%SZ')" >> $GITHUB_OUTPUT
+
+      - name: Commit and push fetched_swagger.json
+        run: |
+          git add ./output/api.json -f # Adds the file to staging, even if ignored
+          git commit -m "Eldorado API (${{ steps.generate_timestamp.outputs.ISO_TIME }})" || echo "No changes to commit for Swagger data"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
