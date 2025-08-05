@@ -2179,6 +2179,25 @@
     "filterGroups": []
   },
   {
+    "menuGameTitle": "Silver and Blood",
+    "gameId": "262",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "Silver and Blood",
+    "gameGroup": null,
+    "legacyUrlId": null,
+    "imageAlt": "silver and blood accounts",
+    "seoAlias": "silver-and-blood-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "Silver and Blood"
+    ],
+    "createdDate": "2025-08-05T09:51:25.8812561Z",
+    "popularGameSortOrder": null,
+    "filterGroups": []
+  },
+  {
     "menuGameTitle": "Overwatch 2",
     "gameId": "27",
     "category": "Account",
