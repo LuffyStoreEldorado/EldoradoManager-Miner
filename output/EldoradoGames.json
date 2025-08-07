@@ -2198,6 +2198,27 @@
     "filterGroups": []
   },
   {
+    "menuGameTitle": "Etheria: Restart",
+    "gameId": "266",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "Etheria: Restart",
+    "gameGroup": null,
+    "legacyUrlId": null,
+    "imageAlt": "etheria restart accounts",
+    "seoAlias": "etheria-restart-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "Etheria: Restart",
+      "イザリア",
+      "イザリアreスタート"
+    ],
+    "createdDate": "2025-08-07T07:31:19.8205355Z",
+    "popularGameSortOrder": null,
+    "filterGroups": []
+  },
+  {
     "menuGameTitle": "Overwatch 2",
     "gameId": "27",
     "category": "Account",
