@@ -1827,6 +1827,26 @@
     "filterGroups": []
   },
   {
+    "menuGameTitle": "Delta Force",
+    "gameId": "233",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "Delta Force",
+    "gameGroup": null,
+    "legacyUrlId": null,
+    "imageAlt": "delta force accounts",
+    "seoAlias": "delta-force-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "Delta Force",
+      "デルタフォース"
+    ],
+    "createdDate": "2025-08-11T07:13:45.3913957Z",
+    "popularGameSortOrder": null,
+    "filterGroups": []
+  },
+  {
     "menuGameTitle": "Black Desert Online",
     "gameId": "24",
     "category": "Account",
