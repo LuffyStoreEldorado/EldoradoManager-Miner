@@ -1048,7 +1048,7 @@
       "レジェンドオブリーグ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151712Z",
-    "popularGameSortOrder": 20,
+    "popularGameSortOrder": 21,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -1592,7 +1592,7 @@
       "CS GO"
     ],
     "createdDate": "2021-07-01T06:40:33.1150134Z",
-    "popularGameSortOrder": 27,
+    "popularGameSortOrder": 26,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -2014,7 +2014,7 @@
       "庭を成長させる"
     ],
     "createdDate": "2025-05-20T06:36:21.7379727Z",
-    "popularGameSortOrder": 15,
+    "popularGameSortOrder": 20,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -2106,7 +2106,8 @@
       "BF1",
       "BF4",
       "BF5",
-      "バトルフィールド "
+      "バトルフィールド ",
+      "BF6"
     ],
     "createdDate": "2025-05-05T11:38:25.5172626Z",
     "popularGameSortOrder": null,
@@ -2428,7 +2429,7 @@
       "ヴァロ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151106Z",
-    "popularGameSortOrder": 5,
+    "popularGameSortOrder": 6,
     "filterGroups": [],
     "isHighRisk": true
   },
@@ -2544,7 +2545,7 @@
       "Rust"
     ],
     "createdDate": "2021-07-01T06:40:33.1151055Z",
-    "popularGameSortOrder": 26,
+    "popularGameSortOrder": 28,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -2801,7 +2802,7 @@
       "クラロワ"
     ],
     "createdDate": "2021-07-01T06:40:33.115087Z",
-    "popularGameSortOrder": 19,
+    "popularGameSortOrder": 16,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -3081,7 +3082,7 @@
       "bgsi"
     ],
     "createdDate": "2021-07-01T06:40:33.1149892Z",
-    "popularGameSortOrder": 10,
+    "popularGameSortOrder": 11,
     "filterGroups": [],
     "isHighRisk": false
   },
