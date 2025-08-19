@@ -593,6 +593,91 @@
     "isActive": true,
     "imageLocation": null,
     "unitSystem": "1",
+    "seoMetaDescription": "Buy Warframe accounts with rare Warframes, exclusive gear, and high levels. Fast delivery and verified sellers ensure a smooth experience.",
+    "seoTitle": "Warframe Accounts For Sale | Eldorado.gg",
+    "gameAccountDetailsLabels": [],
+    "tradeEnvironments": [
+      {
+        "gameId": "11",
+        "category": "Account",
+        "id": "0",
+        "parentGameId": null,
+        "parentCategory": null,
+        "parentId": null,
+        "isDefault": false,
+        "name": "Device",
+        "value": "PC",
+        "imageLocation": null,
+        "childTradeEnvironments": null
+      },
+      {
+        "gameId": "11",
+        "category": "Account",
+        "id": "1",
+        "parentGameId": null,
+        "parentCategory": null,
+        "parentId": null,
+        "isDefault": false,
+        "name": "Device",
+        "value": "PlayStation",
+        "imageLocation": null,
+        "childTradeEnvironments": null
+      },
+      {
+        "gameId": "11",
+        "category": "Account",
+        "id": "2",
+        "parentGameId": null,
+        "parentCategory": null,
+        "parentId": null,
+        "isDefault": false,
+        "name": "Device",
+        "value": "Xbox",
+        "imageLocation": null,
+        "childTradeEnvironments": null
+      },
+      {
+        "gameId": "11",
+        "category": "Account",
+        "id": "3",
+        "parentGameId": null,
+        "parentCategory": null,
+        "parentId": null,
+        "isDefault": false,
+        "name": "Device",
+        "value": "Nintendo Switch",
+        "imageLocation": null,
+        "childTradeEnvironments": null
+      }
+    ],
+    "attributes": [],
+    "boostingCategories": [],
+    "menuGameTitle": "Warframe",
+    "gameId": "11",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "Warframe",
+    "gameGroup": null,
+    "legacyUrlId": "11-1-0",
+    "imageAlt": "warframe accounts",
+    "seoAlias": "warframe-accounts-for-sale",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "Warframe",
+      "wf",
+      "ワーフレイム",
+      "ウォーフレーム"
+    ],
+    "createdDate": "2021-07-01T06:40:33.1152186Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false
+  },
+  {
+    "isActive": true,
+    "imageLocation": null,
+    "unitSystem": "1",
     "seoMetaDescription": "Elden Ring accounts for sale with maxed characters & rare gear. Fast delivery & secure transactions. Conquer bosses & explore new content now!",
     "seoTitle": "Elden Ring Accounts For Sale | Eldorado.gg",
     "gameAccountDetailsLabels": [],
@@ -2499,6 +2584,69 @@
     "isActive": true,
     "imageLocation": null,
     "unitSystem": "1",
+    "seoMetaDescription": "Buy cheap OPBR accounts for iOS & Android. Get high-end One Piece Bounty Rush accounts with fast delivery and competitive prices.",
+    "seoTitle": "One Piece Bounty Rush Accounts For Sale | Eldorado.gg",
+    "gameAccountDetailsLabels": [],
+    "tradeEnvironments": [
+      {
+        "gameId": "135",
+        "category": "Account",
+        "id": "0",
+        "parentGameId": null,
+        "parentCategory": null,
+        "parentId": null,
+        "isDefault": false,
+        "name": "Device",
+        "value": "iOS",
+        "imageLocation": null,
+        "childTradeEnvironments": null
+      },
+      {
+        "gameId": "135",
+        "category": "Account",
+        "id": "1",
+        "parentGameId": null,
+        "parentCategory": null,
+        "parentId": null,
+        "isDefault": false,
+        "name": "Device",
+        "value": "Android",
+        "imageLocation": null,
+        "childTradeEnvironments": null
+      }
+    ],
+    "attributes": [],
+    "boostingCategories": [],
+    "menuGameTitle": "One Piece Bounty Rush",
+    "gameId": "135",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "One Piece Bounty Rush",
+    "gameGroup": null,
+    "legacyUrlId": "135-1-0",
+    "imageAlt": "opbr accounts",
+    "seoAlias": "one-piece-bounty-rush-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "One Piece Bounty Rush",
+      "OPBR",
+      "ワンピースバウンティラッシュ",
+      "バウンティ",
+      "バウンティラッシュ",
+      "バウンティイラッシュ",
+      "ばんてぃーらっしゅ",
+      "ばうんてぃーらっしゅ"
+    ],
+    "createdDate": "2023-04-24T12:51:32.3788047Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false
+  },
+  {
+    "isActive": true,
+    "imageLocation": null,
+    "unitSystem": "1",
     "seoMetaDescription": "Honkai: Star Rail Accounts for sale with 5-star characters & exclusive gear. Fast delivery & 24/7 support from trusted sellers. Start your journey now!",
     "seoTitle": "Honkai: Star Rail Accounts For Sale | Eldorado.gg",
     "gameAccountDetailsLabels": [],
@@ -3449,6 +3597,171 @@
     "isActive": true,
     "imageLocation": null,
     "unitSystem": "1",
+    "seoMetaDescription": "Buy Fortnite accounts with rare skins and emotes. Get OG accounts, including Renegade Raider and Galaxy skins. 100% safe with 24/7 support!",
+    "seoTitle": "Fortnite Accounts For Sale | Eldorado.gg",
+    "gameAccountDetailsLabels": [],
+    "tradeEnvironments": [
+      {
+        "gameId": "16",
+        "category": "Account",
+        "id": "0",
+        "parentGameId": null,
+        "parentCategory": null,
+        "parentId": null,
+        "isDefault": false,
+        "name": "Device",
+        "value": "PC",
+        "imageLocation": null,
+        "childTradeEnvironments": null
+      },
+      {
+        "gameId": "16",
+        "category": "Account",
+        "id": "1",
+        "parentGameId": null,
+        "parentCategory": null,
+        "parentId": null,
+        "isDefault": false,
+        "name": "Device",
+        "value": "PlayStation",
+        "imageLocation": null,
+        "childTradeEnvironments": null
+      },
+      {
+        "gameId": "16",
+        "category": "Account",
+        "id": "2",
+        "parentGameId": null,
+        "parentCategory": null,
+        "parentId": null,
+        "isDefault": false,
+        "name": "Device",
+        "value": "Xbox",
+        "imageLocation": null,
+        "childTradeEnvironments": null
+      },
+      {
+        "gameId": "16",
+        "category": "Account",
+        "id": "3",
+        "parentGameId": null,
+        "parentCategory": null,
+        "parentId": null,
+        "isDefault": false,
+        "name": "Device",
+        "value": "Android",
+        "imageLocation": null,
+        "childTradeEnvironments": null
+      },
+      {
+        "gameId": "16",
+        "category": "Account",
+        "id": "4",
+        "parentGameId": null,
+        "parentCategory": null,
+        "parentId": null,
+        "isDefault": false,
+        "name": "Device",
+        "value": "iOS",
+        "imageLocation": null,
+        "childTradeEnvironments": null
+      },
+      {
+        "gameId": "16",
+        "category": "Account",
+        "id": "5",
+        "parentGameId": null,
+        "parentCategory": null,
+        "parentId": null,
+        "isDefault": false,
+        "name": "Device",
+        "value": "Switch",
+        "imageLocation": null,
+        "childTradeEnvironments": null
+      }
+    ],
+    "attributes": [
+      {
+        "gameId": "16",
+        "category": "Account",
+        "attributeId": "0",
+        "name": "Account Type",
+        "attributeValues": [
+          {
+            "gameId": "16",
+            "category": "Account",
+            "attributeId": "0",
+            "attributeValueId": "0-0",
+            "name": "OG Account",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "gameId": "16",
+            "category": "Account",
+            "attributeId": "0",
+            "attributeValueId": "0-1",
+            "name": "Stacked",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "gameId": "16",
+            "category": "Account",
+            "attributeId": "0",
+            "attributeValueId": "0-2",
+            "name": "Original Email",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "gameId": "16",
+            "category": "Account",
+            "attributeId": "0",
+            "attributeValueId": "0-3",
+            "name": "Save The World",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "gameId": "16",
+            "category": "Account",
+            "attributeId": "0",
+            "attributeValueId": "0-999",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ]
+      }
+    ],
+    "boostingCategories": [],
+    "menuGameTitle": "Fortnite",
+    "gameId": "16",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "Fortnite",
+    "gameGroup": null,
+    "legacyUrlId": "16-1-0",
+    "imageAlt": "Fortnite Accounts For Sale",
+    "seoAlias": "fortnite-accounts-for-sale",
+    "isSingleOfferGame": false,
+    "isPopularGame": true,
+    "synonymNames": [
+      "Fortnite",
+      "fn",
+      "フォートナイト",
+      "フォトナ"
+    ],
+    "createdDate": "2021-07-01T06:40:33.1151738Z",
+    "popularGameSortOrder": 3,
+    "filterGroups": [],
+    "isHighRisk": true
+  },
+  {
+    "isActive": true,
+    "imageLocation": null,
+    "unitSystem": "1",
     "seoMetaDescription": "Buy Professional Baseball Spirits A accounts with top S-tier players & tons of energy. Fast delivery, 24/7 support. Get in the game now!",
     "seoTitle": "Buy Prospi A Accounts | Fast & Secure | 24/7 Support",
     "gameAccountDetailsLabels": [],
@@ -4311,7 +4624,7 @@
       "レジェンドオブリーグ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151712Z",
-    "popularGameSortOrder": 20,
+    "popularGameSortOrder": 21,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -4514,6 +4827,116 @@
       "アイデンティティ5"
     ],
     "createdDate": "2024-02-12T09:31:35.9290306Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false
+  },
+  {
+    "isActive": true,
+    "imageLocation": null,
+    "unitSystem": "1",
+    "seoMetaDescription": "Buy Knives Out accounts with Gold Car & Weapon Skins. Instant delivery, secure payments, & 24/7 support. Dominate the battlefield!",
+    "seoTitle": "Knives Out Accounts For Sale | Buy Knives Out Account | Eldorado.gg",
+    "gameAccountDetailsLabels": [],
+    "tradeEnvironments": [
+      {
+        "gameId": "174",
+        "category": "Account",
+        "id": "0",
+        "parentGameId": null,
+        "parentCategory": null,
+        "parentId": null,
+        "isDefault": false,
+        "name": "Region",
+        "value": "Global",
+        "imageLocation": null,
+        "childTradeEnvironments": null
+      },
+      {
+        "gameId": "174",
+        "category": "Account",
+        "id": "1",
+        "parentGameId": null,
+        "parentCategory": null,
+        "parentId": null,
+        "isDefault": false,
+        "name": "Region",
+        "value": "NA",
+        "imageLocation": null,
+        "childTradeEnvironments": null
+      },
+      {
+        "gameId": "174",
+        "category": "Account",
+        "id": "2",
+        "parentGameId": null,
+        "parentCategory": null,
+        "parentId": null,
+        "isDefault": false,
+        "name": "Region",
+        "value": "JP",
+        "imageLocation": null,
+        "childTradeEnvironments": null
+      },
+      {
+        "gameId": "174",
+        "category": "Account",
+        "id": "3",
+        "parentGameId": null,
+        "parentCategory": null,
+        "parentId": null,
+        "isDefault": false,
+        "name": "Region",
+        "value": "PC Asia",
+        "imageLocation": null,
+        "childTradeEnvironments": null
+      },
+      {
+        "gameId": "174",
+        "category": "Account",
+        "id": "4",
+        "parentGameId": null,
+        "parentCategory": null,
+        "parentId": null,
+        "isDefault": false,
+        "name": "Region",
+        "value": "PC America",
+        "imageLocation": null,
+        "childTradeEnvironments": null
+      },
+      {
+        "gameId": "174",
+        "category": "Account",
+        "id": "5",
+        "parentGameId": null,
+        "parentCategory": null,
+        "parentId": null,
+        "isDefault": false,
+        "name": "Region",
+        "value": "PC Japan",
+        "imageLocation": null,
+        "childTradeEnvironments": null
+      }
+    ],
+    "attributes": [],
+    "boostingCategories": [],
+    "menuGameTitle": "Knives Out",
+    "gameId": "174",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "Knives Out",
+    "gameGroup": null,
+    "legacyUrlId": "174-1-0",
+    "imageAlt": "knives out accounts",
+    "seoAlias": "knives-out-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "Knives Out",
+      "荒野行動",
+      "こうやこうど"
+    ],
+    "createdDate": "2024-02-12T09:44:11.1606263Z",
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false
@@ -4742,6 +5165,36 @@
       "リヴリー"
     ],
     "createdDate": "2024-02-12T11:17:35.0156976Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false
+  },
+  {
+    "isActive": true,
+    "imageLocation": null,
+    "unitSystem": "1",
+    "seoMetaDescription": "Buy #Compass Accounts with top UR characters and Bit Money. Verified sellers ensure quick delivery and secure transactions. Get your winning team now!",
+    "seoTitle": "Buy #Compass Accounts | Fast & Secure | 24/7 Support",
+    "gameAccountDetailsLabels": [],
+    "tradeEnvironments": [],
+    "attributes": [],
+    "boostingCategories": [],
+    "menuGameTitle": "#Compass",
+    "gameId": "181",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "#Compass",
+    "gameGroup": null,
+    "legacyUrlId": "181-1-0",
+    "imageAlt": "compass accounts",
+    "seoAlias": "compass-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "#Compass",
+      "#コンパス"
+    ],
+    "createdDate": "2024-02-12T11:30:20.1835373Z",
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false
@@ -5401,6 +5854,238 @@
     "isActive": true,
     "imageLocation": null,
     "unitSystem": "1",
+    "seoMetaDescription": "Purchase CS2 accounts and jump into action! Get ranked, smurf, or Prime accounts with 4.9/5 ratings. Instant delivery and secure payments from trusted sellers.",
+    "seoTitle": "Buy Counter-Strike 2 Accounts | CS2 Accounts | Eldorado.gg",
+    "gameAccountDetailsLabels": [],
+    "tradeEnvironments": [
+      {
+        "gameId": "20",
+        "category": "Account",
+        "id": "0",
+        "parentGameId": null,
+        "parentCategory": null,
+        "parentId": null,
+        "isDefault": false,
+        "name": "Premier Rating",
+        "value": "Unrated",
+        "imageLocation": null,
+        "childTradeEnvironments": null
+      },
+      {
+        "gameId": "20",
+        "category": "Account",
+        "id": "1",
+        "parentGameId": null,
+        "parentCategory": null,
+        "parentId": null,
+        "isDefault": false,
+        "name": "Premier Rating",
+        "value": "0-4,999",
+        "imageLocation": null,
+        "childTradeEnvironments": null
+      },
+      {
+        "gameId": "20",
+        "category": "Account",
+        "id": "2",
+        "parentGameId": null,
+        "parentCategory": null,
+        "parentId": null,
+        "isDefault": false,
+        "name": "Premier Rating",
+        "value": "5,000-9,999",
+        "imageLocation": null,
+        "childTradeEnvironments": null
+      },
+      {
+        "gameId": "20",
+        "category": "Account",
+        "id": "3",
+        "parentGameId": null,
+        "parentCategory": null,
+        "parentId": null,
+        "isDefault": false,
+        "name": "Premier Rating",
+        "value": "10,000-14,999",
+        "imageLocation": null,
+        "childTradeEnvironments": null
+      },
+      {
+        "gameId": "20",
+        "category": "Account",
+        "id": "4",
+        "parentGameId": null,
+        "parentCategory": null,
+        "parentId": null,
+        "isDefault": false,
+        "name": "Premier Rating",
+        "value": "15,000-19,999",
+        "imageLocation": null,
+        "childTradeEnvironments": null
+      },
+      {
+        "gameId": "20",
+        "category": "Account",
+        "id": "5",
+        "parentGameId": null,
+        "parentCategory": null,
+        "parentId": null,
+        "isDefault": false,
+        "name": "Premier Rating",
+        "value": "20,000-24,999",
+        "imageLocation": null,
+        "childTradeEnvironments": null
+      },
+      {
+        "gameId": "20",
+        "category": "Account",
+        "id": "6",
+        "parentGameId": null,
+        "parentCategory": null,
+        "parentId": null,
+        "isDefault": false,
+        "name": "Premier Rating",
+        "value": "25,000-29,999",
+        "imageLocation": null,
+        "childTradeEnvironments": null
+      },
+      {
+        "gameId": "20",
+        "category": "Account",
+        "id": "7",
+        "parentGameId": null,
+        "parentCategory": null,
+        "parentId": null,
+        "isDefault": false,
+        "name": "Premier Rating",
+        "value": "30,000-35,000",
+        "imageLocation": null,
+        "childTradeEnvironments": null
+      },
+      {
+        "gameId": "20",
+        "category": "Account",
+        "id": "8",
+        "parentGameId": null,
+        "parentCategory": null,
+        "parentId": null,
+        "isDefault": false,
+        "name": "Premier Rating",
+        "value": "Other",
+        "imageLocation": null,
+        "childTradeEnvironments": null
+      }
+    ],
+    "attributes": [
+      {
+        "gameId": "20",
+        "category": "Account",
+        "attributeId": "0",
+        "name": "Medals",
+        "attributeValues": [
+          {
+            "gameId": "20",
+            "category": "Account",
+            "attributeId": "0",
+            "attributeValueId": "0-0",
+            "name": "0-9 Medals",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "gameId": "20",
+            "category": "Account",
+            "attributeId": "0",
+            "attributeValueId": "0-1",
+            "name": "10-19 Medals",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "gameId": "20",
+            "category": "Account",
+            "attributeId": "0",
+            "attributeValueId": "0-2",
+            "name": "20-29 Medals",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "gameId": "20",
+            "category": "Account",
+            "attributeId": "0",
+            "attributeValueId": "0-3",
+            "name": "30-39 Medals",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "gameId": "20",
+            "category": "Account",
+            "attributeId": "0",
+            "attributeValueId": "0-4",
+            "name": "40+ Medals",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ]
+      },
+      {
+        "gameId": "20",
+        "category": "Account",
+        "attributeId": "1",
+        "name": "Prime Status",
+        "attributeValues": [
+          {
+            "gameId": "20",
+            "category": "Account",
+            "attributeId": "1",
+            "attributeValueId": "1-0",
+            "name": "Active Prime",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "gameId": "20",
+            "category": "Account",
+            "attributeId": "1",
+            "attributeValueId": "1-1",
+            "name": "Non Prime",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ]
+      }
+    ],
+    "boostingCategories": [],
+    "menuGameTitle": "Counter-Strike 2",
+    "gameId": "20",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "Counter-Strike 2",
+    "gameGroup": null,
+    "legacyUrlId": "20-1-0",
+    "imageAlt": "CS2 Accounts For Sale",
+    "seoAlias": "cs2-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": true,
+    "synonymNames": [
+      "Counter-Strike 2",
+      "cs2",
+      "カウンターストライク2",
+      "csgo",
+      "global offensive",
+      "CS GO"
+    ],
+    "createdDate": "2021-07-01T06:40:33.1150134Z",
+    "popularGameSortOrder": 26,
+    "filterGroups": [],
+    "isHighRisk": false
+  },
+  {
+    "isActive": true,
+    "imageLocation": null,
+    "unitSystem": "1",
     "seoMetaDescription": "Buy Anime Defenders accounts and build your dream team! Get cheap, stacked accounts with popular characters and useful items. Fast, secure delivery.",
     "seoTitle": "Anime Defenders Accounts For Sale | Eldorado.gg",
     "gameAccountDetailsLabels": [],
@@ -5858,6 +6543,36 @@
       "パスオブエグザイル2"
     ],
     "createdDate": "2024-12-04T09:23:00.6012718Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false
+  },
+  {
+    "isActive": true,
+    "imageLocation": null,
+    "unitSystem": "1",
+    "seoMetaDescription": "Buy King Legacy Accounts. Cheap King Legacy accounts with variety of stock, from starter to stacked accounts. Instant delivery, verified sellers, quick buying process with Eldorado.gg.",
+    "seoTitle": "King Legacy Accounts For Sale | Eldorado.gg",
+    "gameAccountDetailsLabels": [],
+    "tradeEnvironments": [],
+    "attributes": [],
+    "boostingCategories": [],
+    "menuGameTitle": "King Legacy",
+    "gameId": "223",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "King Legacy",
+    "gameGroup": "Roblox",
+    "legacyUrlId": null,
+    "imageAlt": "king legacy accounts",
+    "seoAlias": "king-legacy-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "King Legacy",
+      "Roblox"
+    ],
+    "createdDate": "2024-12-16T10:12:24.3280897Z",
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false
@@ -7199,7 +7914,7 @@
       "庭を成長させる"
     ],
     "createdDate": "2025-05-20T06:36:21.7379727Z",
-    "popularGameSortOrder": 15,
+    "popularGameSortOrder": 20,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -7327,6 +8042,37 @@
     "isActive": true,
     "imageLocation": null,
     "unitSystem": "1",
+    "seoMetaDescription": "Cheap Starter & Reroll CRK Accounts for Sale. Instant delivery of CRK accounts available with many gems & Legendary, Ancient, Dragon and Beast cookies 24/7.",
+    "seoTitle": "Cookie Run Kingdom Accounts for Sale | Buy CRK Accounts | Eldorado.gg",
+    "gameAccountDetailsLabels": [],
+    "tradeEnvironments": [],
+    "attributes": [],
+    "boostingCategories": [],
+    "menuGameTitle": "Cookie Run: Kingdom",
+    "gameId": "247",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "Cookie Run: Kingdom",
+    "gameGroup": null,
+    "legacyUrlId": null,
+    "imageAlt": "cookie run kingdom accounts",
+    "seoAlias": "cookie-run-kingdom-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "Cookie Run: Kingdom",
+      "CRK",
+      "クッキーランキングダム"
+    ],
+    "createdDate": "2025-05-05T11:34:03.6313977Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false
+  },
+  {
+    "isActive": true,
+    "imageLocation": null,
+    "unitSystem": "1",
     "seoMetaDescription": "Buy high level Battlefield 2042 Accounts with full access. Other Battlefield games accounts are also available from legitimate sellers 24/7.",
     "seoTitle": "Battlefield 2042 Accounts for Sale | Buy BF1 Accounts | Eldorado.gg",
     "gameAccountDetailsLabels": [],
@@ -7395,6 +8141,19 @@
         "value": "Battlefield 4",
         "imageLocation": null,
         "childTradeEnvironments": null
+      },
+      {
+        "gameId": "248",
+        "category": "Account",
+        "id": "5",
+        "parentGameId": null,
+        "parentCategory": null,
+        "parentId": null,
+        "isDefault": false,
+        "name": "Series",
+        "value": "Battlefield 6",
+        "imageLocation": null,
+        "childTradeEnvironments": null
       }
     ],
     "attributes": [],
@@ -7416,7 +8175,8 @@
       "BF1",
       "BF4",
       "BF5",
-      "バトルフィールド "
+      "バトルフィールド ",
+      "BF6"
     ],
     "createdDate": "2025-05-05T11:38:25.5172626Z",
     "popularGameSortOrder": null,
@@ -7757,6 +8517,37 @@
       "デッドレール"
     ],
     "createdDate": "2025-06-12T09:49:17.4155013Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false
+  },
+  {
+    "isActive": true,
+    "imageLocation": null,
+    "unitSystem": "1",
+    "seoMetaDescription": "Buy Cheap Steal a Brainrot Accounts. Instant delivery with all best Brainrot Gods, all Secrets and all Rebirths available 24/7.",
+    "seoTitle": "Steal a Brainrot Account for Sale | Eldorado.gg",
+    "gameAccountDetailsLabels": [],
+    "tradeEnvironments": [],
+    "attributes": [],
+    "boostingCategories": [],
+    "menuGameTitle": "Steal a Brainrot",
+    "gameId": "259",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "Steal a Brainrot",
+    "gameGroup": "Roblox",
+    "legacyUrlId": null,
+    "imageAlt": "steal a brainrot accounts",
+    "seoAlias": "steal-a-brainrot-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "Steal a Brainrot",
+      "Steal a Brainrot Roblox",
+      "ブレインロットを盗む"
+    ],
+    "createdDate": "2025-07-08T11:14:38.3816126Z",
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false
@@ -8931,7 +9722,7 @@
       "ヴァロ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151106Z",
-    "popularGameSortOrder": 5,
+    "popularGameSortOrder": 6,
     "filterGroups": [],
     "isHighRisk": true
   },
@@ -9002,6 +9793,77 @@
       "エーペックスレジェンズ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151097Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false
+  },
+  {
+    "isActive": true,
+    "imageLocation": null,
+    "unitSystem": "1",
+    "seoMetaDescription": "Buy ARK: Survival Ascended Accounts with instant delivery & secure transactions. Get verified accounts at great prices, featuring latest game enhancements.",
+    "seoTitle": "ARK Survival Ascended Accounts For Sale | Eldorado.gg",
+    "gameAccountDetailsLabels": [],
+    "tradeEnvironments": [
+      {
+        "gameId": "34",
+        "category": "Account",
+        "id": "0",
+        "parentGameId": null,
+        "parentCategory": null,
+        "parentId": null,
+        "isDefault": false,
+        "name": "Device",
+        "value": "PC",
+        "imageLocation": null,
+        "childTradeEnvironments": null
+      },
+      {
+        "gameId": "34",
+        "category": "Account",
+        "id": "1",
+        "parentGameId": null,
+        "parentCategory": null,
+        "parentId": null,
+        "isDefault": false,
+        "name": "Device",
+        "value": "PlayStation",
+        "imageLocation": null,
+        "childTradeEnvironments": null
+      },
+      {
+        "gameId": "34",
+        "category": "Account",
+        "id": "2",
+        "parentGameId": null,
+        "parentCategory": null,
+        "parentId": null,
+        "isDefault": false,
+        "name": "Device",
+        "value": "Xbox",
+        "imageLocation": null,
+        "childTradeEnvironments": null
+      }
+    ],
+    "attributes": [],
+    "boostingCategories": [],
+    "menuGameTitle": "ARK: Survival Ascended",
+    "gameId": "34",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "ARK: Survival Ascended",
+    "gameGroup": null,
+    "legacyUrlId": "34-0-0",
+    "imageAlt": "ark survival ascended accounts",
+    "seoAlias": "ark-survival-ascended-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "ARK: Survival Ascended",
+      "ARK ASA",
+      "アークサバイバルアセンデッド"
+    ],
+    "createdDate": "2021-07-01T06:40:33.1151089Z",
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false
@@ -9680,7 +10542,7 @@
       "Rust"
     ],
     "createdDate": "2021-07-01T06:40:33.1151055Z",
-    "popularGameSortOrder": 26,
+    "popularGameSortOrder": 28,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -10387,6 +11249,263 @@
     "isActive": true,
     "imageLocation": null,
     "unitSystem": "1",
+    "seoMetaDescription": "Buy Rainbow Six Siege accounts with all operators, legendary skins, and high ranks. Secure trades with top-notch protection and 24/7 support. Buy now!",
+    "seoTitle": "Buy Rainbow Six Siege Accounts | Eldorado.gg",
+    "gameAccountDetailsLabels": [],
+    "tradeEnvironments": [
+      {
+        "gameId": "48",
+        "category": "Account",
+        "id": "0",
+        "parentGameId": null,
+        "parentCategory": null,
+        "parentId": null,
+        "isDefault": false,
+        "name": "Device",
+        "value": "PC",
+        "imageLocation": null,
+        "childTradeEnvironments": null
+      },
+      {
+        "gameId": "48",
+        "category": "Account",
+        "id": "1",
+        "parentGameId": null,
+        "parentCategory": null,
+        "parentId": null,
+        "isDefault": false,
+        "name": "Device",
+        "value": "PlayStation",
+        "imageLocation": null,
+        "childTradeEnvironments": null
+      },
+      {
+        "gameId": "48",
+        "category": "Account",
+        "id": "2",
+        "parentGameId": null,
+        "parentCategory": null,
+        "parentId": null,
+        "isDefault": false,
+        "name": "Device",
+        "value": "Xbox",
+        "imageLocation": null,
+        "childTradeEnvironments": null
+      }
+    ],
+    "attributes": [
+      {
+        "gameId": "48",
+        "category": "Account",
+        "attributeId": "0",
+        "name": "Current Rank",
+        "attributeValues": [
+          {
+            "gameId": "48",
+            "category": "Account",
+            "attributeId": "0",
+            "attributeValueId": "0-0",
+            "name": "Ranked Ready",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "gameId": "48",
+            "category": "Account",
+            "attributeId": "0",
+            "attributeValueId": "0-1",
+            "name": "Copper",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "gameId": "48",
+            "category": "Account",
+            "attributeId": "0",
+            "attributeValueId": "0-2",
+            "name": "Bronze",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "gameId": "48",
+            "category": "Account",
+            "attributeId": "0",
+            "attributeValueId": "0-3",
+            "name": "Silver",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "gameId": "48",
+            "category": "Account",
+            "attributeId": "0",
+            "attributeValueId": "0-4",
+            "name": "Gold",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "gameId": "48",
+            "category": "Account",
+            "attributeId": "0",
+            "attributeValueId": "0-5",
+            "name": "Platinum",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "gameId": "48",
+            "category": "Account",
+            "attributeId": "0",
+            "attributeValueId": "0-6",
+            "name": "Emerald",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "gameId": "48",
+            "category": "Account",
+            "attributeId": "0",
+            "attributeValueId": "0-7",
+            "name": "Diamond",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "gameId": "48",
+            "category": "Account",
+            "attributeId": "0",
+            "attributeValueId": "0-8",
+            "name": "Champions",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "gameId": "48",
+            "category": "Account",
+            "attributeId": "0",
+            "attributeValueId": "0-9",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ]
+      },
+      {
+        "gameId": "48",
+        "category": "Account",
+        "attributeId": "1",
+        "name": "Black Ice Skins",
+        "attributeValues": [
+          {
+            "gameId": "48",
+            "category": "Account",
+            "attributeId": "1",
+            "attributeValueId": "1-0",
+            "name": "0",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "gameId": "48",
+            "category": "Account",
+            "attributeId": "1",
+            "attributeValueId": "1-1",
+            "name": "1-4",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "gameId": "48",
+            "category": "Account",
+            "attributeId": "1",
+            "attributeValueId": "1-2",
+            "name": "5-9",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "gameId": "48",
+            "category": "Account",
+            "attributeId": "1",
+            "attributeValueId": "1-3",
+            "name": "10-19",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "gameId": "48",
+            "category": "Account",
+            "attributeId": "1",
+            "attributeValueId": "1-4",
+            "name": "20-29",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "gameId": "48",
+            "category": "Account",
+            "attributeId": "1",
+            "attributeValueId": "1-5",
+            "name": "30-39",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "gameId": "48",
+            "category": "Account",
+            "attributeId": "1",
+            "attributeValueId": "1-6",
+            "name": "40-49",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "gameId": "48",
+            "category": "Account",
+            "attributeId": "1",
+            "attributeValueId": "1-7",
+            "name": "50+",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ]
+      }
+    ],
+    "boostingCategories": [],
+    "menuGameTitle": "Rainbow Six Siege X",
+    "gameId": "48",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "Rainbow Six Siege X",
+    "gameGroup": null,
+    "legacyUrlId": "48-1-0",
+    "imageAlt": "rainbow six siege accounts x",
+    "seoAlias": "rainbow-six-siege-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": true,
+    "synonymNames": [
+      "Tom Clancy's Rainbow Six Siege",
+      "r6",
+      "rainbow 6",
+      "rainbow six siege",
+      "r6s",
+      "レインボーシックスシージ",
+      "シージ",
+      "レインボー6",
+      "虹6",
+      "レインボーシージ"
+    ],
+    "createdDate": "2021-07-01T06:40:33.115092Z",
+    "popularGameSortOrder": 7,
+    "filterGroups": [],
+    "isHighRisk": false
+  },
+  {
+    "isActive": true,
+    "imageLocation": null,
+    "unitSystem": "1",
     "seoMetaDescription": "Lost Ark Accounts For Sale with top-tier gear and high stats. Enjoy reliable trades and 24/7 support. Instant access to epic gameplay!",
     "seoTitle": "Lost Ark Accounts For Sale | Cheap & Fast | 4.9/5 Rating",
     "gameAccountDetailsLabels": [],
@@ -10639,7 +11758,7 @@
       "クラロワ"
     ],
     "createdDate": "2021-07-01T06:40:33.115087Z",
-    "popularGameSortOrder": 19,
+    "popularGameSortOrder": 16,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -12478,7 +13597,7 @@
       "bgsi"
     ],
     "createdDate": "2021-07-01T06:40:33.1149892Z",
-    "popularGameSortOrder": 10,
+    "popularGameSortOrder": 11,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -12755,6 +13874,36 @@
       "DayZ"
     ],
     "createdDate": "2021-07-09T07:52:17.2421329Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false
+  },
+  {
+    "isActive": true,
+    "imageLocation": null,
+    "unitSystem": "1",
+    "seoMetaDescription": "Buy 8 Ball Pool accounts with legendary cues and tons of coins. Instant delivery from verified sellers with 24/7 support and guaranteed protection.",
+    "seoTitle": "8 Ball Pool Accounts For Sale | Eldorado.gg",
+    "gameAccountDetailsLabels": [],
+    "tradeEnvironments": [],
+    "attributes": [],
+    "boostingCategories": [],
+    "menuGameTitle": "8 Ball Pool",
+    "gameId": "77",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "8 Ball Pool",
+    "gameGroup": null,
+    "legacyUrlId": "77-1-0",
+    "imageAlt": "8 ball pool accounts",
+    "seoAlias": "8-ball-pool-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "8 Ball Pool",
+      "8bp"
+    ],
+    "createdDate": "2021-07-09T08:49:33.7714946Z",
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false
