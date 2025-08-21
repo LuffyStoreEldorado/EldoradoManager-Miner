@@ -2366,6 +2366,26 @@
     "isHighRisk": false
   },
   {
+    "menuGameTitle": "Blood Strike Accounts",
+    "gameId": "271",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "Blood Strike",
+    "gameGroup": null,
+    "legacyUrlId": null,
+    "imageAlt": "blood strike accounts",
+    "seoAlias": "blood-strike-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "Blood Strike"
+    ],
+    "createdDate": "2025-08-21T08:56:55.9651253Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false
+  },
+  {
     "menuGameTitle": "Summoners War",
     "gameId": "29",
     "category": "Account",
