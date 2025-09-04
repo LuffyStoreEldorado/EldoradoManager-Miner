@@ -2909,6 +2909,19 @@
             "value": "EA FC 25",
             "imageLocation": null,
             "childTradeEnvironments": null
+          },
+          {
+            "gameId": "142",
+            "category": "Account",
+            "id": "0-2",
+            "parentGameId": "142",
+            "parentCategory": "Account",
+            "parentId": "0",
+            "isDefault": false,
+            "name": "Game Series",
+            "value": "EA FC 26",
+            "imageLocation": null,
+            "childTradeEnvironments": null
           }
         ]
       },
@@ -2947,6 +2960,19 @@
             "isDefault": false,
             "name": "Game Series",
             "value": "EA FC 25",
+            "imageLocation": null,
+            "childTradeEnvironments": null
+          },
+          {
+            "gameId": "142",
+            "category": "Account",
+            "id": "1-2",
+            "parentGameId": "142",
+            "parentCategory": "Account",
+            "parentId": "1",
+            "isDefault": false,
+            "name": "Game Series",
+            "value": "EA FC 26",
             "imageLocation": null,
             "childTradeEnvironments": null
           }
@@ -2989,6 +3015,19 @@
             "value": "EA FC 25",
             "imageLocation": null,
             "childTradeEnvironments": null
+          },
+          {
+            "gameId": "142",
+            "category": "Account",
+            "id": "2-2",
+            "parentGameId": "142",
+            "parentCategory": "Account",
+            "parentId": "2",
+            "isDefault": false,
+            "name": "Game Series",
+            "value": "EA FC 26",
+            "imageLocation": null,
+            "childTradeEnvironments": null
           }
         ]
       }
@@ -3011,7 +3050,8 @@
       "FC 24",
       "FC 25",
       "FIFA",
-      "EA FC"
+      "EA FC",
+      "FC 26"
     ],
     "createdDate": "2023-09-18T12:29:53.1882993Z",
     "popularGameSortOrder": null,
@@ -3754,7 +3794,7 @@
       "フォトナ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151738Z",
-    "popularGameSortOrder": 3,
+    "popularGameSortOrder": 4,
     "filterGroups": [],
     "isHighRisk": true
   },
@@ -4624,7 +4664,7 @@
       "レジェンドオブリーグ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151712Z",
-    "popularGameSortOrder": 21,
+    "popularGameSortOrder": 19,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -6078,7 +6118,7 @@
       "CS GO"
     ],
     "createdDate": "2021-07-01T06:40:33.1150134Z",
-    "popularGameSortOrder": 26,
+    "popularGameSortOrder": 25,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -7914,7 +7954,7 @@
       "庭を成長させる"
     ],
     "createdDate": "2025-05-20T06:36:21.7379727Z",
-    "popularGameSortOrder": 20,
+    "popularGameSortOrder": 29,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -8296,7 +8336,7 @@
       "GTA 5 Legacy"
     ],
     "createdDate": "2021-07-01T06:40:33.1151231Z",
-    "popularGameSortOrder": 2,
+    "popularGameSortOrder": 3,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -10406,7 +10446,7 @@
       "warzone 4"
     ],
     "createdDate": "2021-07-01T06:40:33.1151072Z",
-    "popularGameSortOrder": 9,
+    "popularGameSortOrder": 10,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -10566,12 +10606,12 @@
     "imageAlt": "rust accounts",
     "seoAlias": "rust-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": true,
+    "isPopularGame": false,
     "synonymNames": [
       "Rust"
     ],
     "createdDate": "2021-07-01T06:40:33.1151055Z",
-    "popularGameSortOrder": 28,
+    "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -11527,7 +11567,7 @@
       "レインボーシージ"
     ],
     "createdDate": "2021-07-01T06:40:33.115092Z",
-    "popularGameSortOrder": 7,
+    "popularGameSortOrder": 9,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -11787,7 +11827,7 @@
       "クラロワ"
     ],
     "createdDate": "2021-07-01T06:40:33.115087Z",
-    "popularGameSortOrder": 16,
+    "popularGameSortOrder": 17,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -13766,7 +13806,7 @@
     "imageAlt": "raid shadow legends accounts",
     "seoAlias": "raid-shadow-legends-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": false,
+    "isPopularGame": true,
     "synonymNames": [
       "Raid: Shadow Legends",
       "レイドシャドウレジェンド",
@@ -13775,7 +13815,7 @@
       "レイドシャドウ"
     ],
     "createdDate": "2021-07-09T07:32:49.8089677Z",
-    "popularGameSortOrder": null,
+    "popularGameSortOrder": 31,
     "filterGroups": [],
     "isHighRisk": false
   },
