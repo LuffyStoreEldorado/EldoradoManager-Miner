@@ -141,6 +141,14 @@
             }
           },
           {
+            "name": "useExactMatch",
+            "in": "query",
+            "schema": {
+              "type": "boolean",
+              "default": false
+            }
+          },
+          {
             "name": "api-version",
             "in": "query",
             "schema": {
@@ -492,164 +500,6 @@
         }
       }
     },
-    "/api/flexibleOffers/scoreV3-items": {
-      "get": {
-        "tags": [
-          "FlexibleOfferPublic"
-        ],
-        "parameters": [
-          {
-            "name": "deliveryTime",
-            "in": "query",
-            "schema": {
-              "$ref": "#/components/schemas/Eldorado.SharedKernel.Domain.Enums.GuaranteedDeliveryTime"
-            }
-          },
-          {
-            "name": "searchQuery",
-            "in": "query",
-            "schema": {
-              "type": "string"
-            }
-          },
-          {
-            "name": "gameId",
-            "in": "query",
-            "schema": {
-              "type": "string"
-            }
-          },
-          {
-            "name": "category",
-            "in": "query",
-            "schema": {
-              "$ref": "#/components/schemas/Eldorado.SharedKernel.Domain.Enums.Category"
-            }
-          },
-          {
-            "name": "offerAttributeIdsCsv",
-            "in": "query",
-            "schema": {
-              "type": "string"
-            }
-          },
-          {
-            "name": "tradeEnvironmentId",
-            "in": "query",
-            "schema": {
-              "type": "string"
-            }
-          },
-          {
-            "name": "tradeEnvironmentValue0",
-            "in": "query",
-            "schema": {
-              "type": "string"
-            }
-          },
-          {
-            "name": "tradeEnvironmentValue1",
-            "in": "query",
-            "schema": {
-              "type": "string"
-            }
-          },
-          {
-            "name": "tradeEnvironmentValue2",
-            "in": "query",
-            "schema": {
-              "type": "string"
-            }
-          },
-          {
-            "name": "lowestPrice",
-            "in": "query",
-            "schema": {
-              "type": "number",
-              "format": "double"
-            }
-          },
-          {
-            "name": "highestPrice",
-            "in": "query",
-            "schema": {
-              "type": "number",
-              "format": "double"
-            }
-          },
-          {
-            "name": "pageIndex",
-            "in": "query",
-            "schema": {
-              "maximum": 1000,
-              "minimum": 1,
-              "type": "integer",
-              "format": "int32"
-            }
-          },
-          {
-            "name": "pageSize",
-            "in": "query",
-            "schema": {
-              "maximum": 50,
-              "minimum": 1,
-              "type": "integer",
-              "format": "int32"
-            }
-          },
-          {
-            "name": "offerSortingCriterion",
-            "in": "query",
-            "schema": {
-              "$ref": "#/components/schemas/Eldorado.FlexibleOfferManagement.Domain.Enums.OfferSortingCriterion"
-            }
-          },
-          {
-            "name": "isAscending",
-            "in": "query",
-            "schema": {
-              "type": "boolean"
-            }
-          },
-          {
-            "name": "boostSearchByScore",
-            "in": "query",
-            "schema": {
-              "type": "boolean",
-              "default": false
-            }
-          },
-          {
-            "name": "api-version",
-            "in": "query",
-            "schema": {
-              "type": "string"
-            }
-          },
-          {
-            "name": "swagger",
-            "in": "header",
-            "required": true,
-            "schema": {
-              "type": "string",
-              "default": "Swager request"
-            }
-          }
-        ],
-        "responses": {
-          "200": {
-            "description": "Success",
-            "content": {
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/Eldorado.SharedKernel.Domain.Models.IndexBasedPagedResult`1[[Eldorado.FlexibleOfferManagement.Domain.ViewModels.FlexibleOfferPublicViewModel, Eldorado.FlexibleOfferManagement.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     "/api/flexibleOffers": {
       "get": {
         "tags": [
@@ -770,7 +620,7 @@
             }
           },
           {
-            "name": "boostSearchByScore",
+            "name": "useExactMatch",
             "in": "query",
             "schema": {
               "type": "boolean",
@@ -1044,7 +894,7 @@
             "content": {
               "application/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/Eldorado.SharedUnmanagedOfferKernel.Domain.Models.Responses.OfferBulkActionOffersCountPrivateDTO"
+                  "$ref": "#/components/schemas/Eldorado.SharedStockOfferKernel.Domain.Models.Responses.OfferBulkActionOffersCountPrivateDTO"
                 }
               }
             }
@@ -1139,7 +989,7 @@
             "content": {
               "application/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/Eldorado.SharedUnmanagedOfferKernel.Domain.Models.Responses.OfferBulkActionOffersCountPrivateDTO"
+                  "$ref": "#/components/schemas/Eldorado.SharedStockOfferKernel.Domain.Models.Responses.OfferBulkActionOffersCountPrivateDTO"
                 }
               }
             }
@@ -1328,7 +1178,7 @@
             "content": {
               "application/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/Eldorado.SharedUnmanagedOfferKernel.Domain.Models.Responses.OfferBulkActionOffersCountPrivateDTO"
+                  "$ref": "#/components/schemas/Eldorado.SharedStockOfferKernel.Domain.Models.Responses.OfferBulkActionOffersCountPrivateDTO"
                 }
               }
             }
@@ -1516,7 +1366,7 @@
             "content": {
               "application/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/Eldorado.SharedUnmanagedOfferKernel.Domain.Models.Responses.OfferBulkActionOffersCountPrivateDTO"
+                  "$ref": "#/components/schemas/Eldorado.SharedStockOfferKernel.Domain.Models.Responses.OfferBulkActionOffersCountPrivateDTO"
                 }
               }
             }
@@ -2456,43 +2306,6 @@
         }
       }
     },
-    "/api/predefinedOffers/topUps/productFeed": {
-      "get": {
-        "tags": [
-          "PredefinedOfferPublic"
-        ],
-        "parameters": [
-          {
-            "name": "api-version",
-            "in": "query",
-            "schema": {
-              "type": "string"
-            }
-          },
-          {
-            "name": "swagger",
-            "in": "header",
-            "required": true,
-            "schema": {
-              "type": "string",
-              "default": "Swager request"
-            }
-          }
-        ],
-        "responses": {
-          "200": {
-            "description": "Success",
-            "content": {
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/ProductFeedDTO"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     "/api/predefinedOffers/currencies/jp/productFeed": {
       "get": {
         "tags": [
@@ -2729,7 +2542,7 @@
             "content": {
               "application/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/Eldorado.SharedUnmanagedOfferKernel.Domain.Models.Responses.OfferBulkActionOffersCountPrivateDTO"
+                  "$ref": "#/components/schemas/Eldorado.SharedStockOfferKernel.Domain.Models.Responses.OfferBulkActionOffersCountPrivateDTO"
                 }
               }
             }
@@ -2824,7 +2637,7 @@
             "content": {
               "application/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/Eldorado.SharedUnmanagedOfferKernel.Domain.Models.Responses.OfferBulkActionOffersCountPrivateDTO"
+                  "$ref": "#/components/schemas/Eldorado.SharedStockOfferKernel.Domain.Models.Responses.OfferBulkActionOffersCountPrivateDTO"
                 }
               }
             }
@@ -3013,7 +2826,7 @@
             "content": {
               "application/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/Eldorado.SharedUnmanagedOfferKernel.Domain.Models.Responses.OfferBulkActionOffersCountPrivateDTO"
+                  "$ref": "#/components/schemas/Eldorado.SharedStockOfferKernel.Domain.Models.Responses.OfferBulkActionOffersCountPrivateDTO"
                 }
               }
             }
@@ -3201,7 +3014,7 @@
             "content": {
               "application/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/Eldorado.SharedUnmanagedOfferKernel.Domain.Models.Responses.OfferBulkActionOffersCountPrivateDTO"
+                  "$ref": "#/components/schemas/Eldorado.SharedStockOfferKernel.Domain.Models.Responses.OfferBulkActionOffersCountPrivateDTO"
                 }
               }
             }
@@ -3680,7 +3493,7 @@
             "content": {
               "application/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/Eldorado.SharedKernel.Domain.Models.CursorBasedPagedResult`1[[Eldorado.SharedOfferKernel.Domain.Models.ViewModels.BoostingRequestSellerViewModel, Eldorado.SharedOfferKernel.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"
+                  "$ref": "#/components/schemas/Eldorado.SharedKernel.Domain.Models.CursorBasedPagedResult`1[[Eldorado.UnmanagedBoosting.Domain.Models.ViewModels.BoostingRequestSellerViewModel, Eldorado.UnmanagedBoosting.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"
                 }
               }
             }
@@ -4091,6 +3904,27 @@
             }
           },
           {
+            "name": "gameId",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "category",
+            "in": "query",
+            "schema": {
+              "$ref": "#/components/schemas/Eldorado.SharedKernel.Domain.Enums.Category"
+            }
+          },
+          {
+            "name": "filterByActiveWarranty",
+            "in": "query",
+            "schema": {
+              "type": "boolean"
+            }
+          },
+          {
             "name": "cursorValue",
             "in": "query",
             "schema": {
@@ -4312,6 +4146,53 @@
           }
         }
       }
+    },
+    "/api/orders/me/invoice/generate": {
+      "get": {
+        "tags": [
+          "UserOrderSellerPrivate"
+        ],
+        "summary": " (Auth)",
+        "parameters": [
+          {
+            "name": "fromDate",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "format": "date-time"
+            }
+          },
+          {
+            "name": "untilDate",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "format": "date-time"
+            }
+          },
+          {
+            "name": "api-version",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "swagger",
+            "in": "header",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "default": "Swager request"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
     }
   },
   "components": {
@@ -4498,13 +4379,6 @@
           },
           "pricing": {
             "$ref": "#/components/schemas/Eldorado.SharedOfferKernel.Domain.Models.DTO.OfferPricingPrivateDTO"
-          },
-          "tags": {
-            "type": "array",
-            "items": {
-              "$ref": "#/components/schemas/Eldorado.SharedOfferKernel.Domain.Models.DTO.Library.TagDTO"
-            },
-            "nullable": true
           }
         },
         "additionalProperties": false
@@ -4678,13 +4552,6 @@
               "$ref": "#/components/schemas/Eldorado.SharedKernel.Domain.Models.DTO.Offer.FlexibleOfferImageDTO"
             },
             "nullable": true
-          },
-          "tags": {
-            "type": "array",
-            "items": {
-              "$ref": "#/components/schemas/Eldorado.SharedOfferKernel.Domain.Models.DTO.Library.TagDTO"
-            },
-            "nullable": true
           }
         },
         "additionalProperties": false
@@ -4794,13 +4661,6 @@
             "type": "array",
             "items": {
               "$ref": "#/components/schemas/Eldorado.SharedKernel.Domain.Models.DTO.Offer.FlexibleOfferImageDTO"
-            },
-            "nullable": true
-          },
-          "tags": {
-            "type": "array",
-            "items": {
-              "$ref": "#/components/schemas/Eldorado.SharedOfferKernel.Domain.Models.DTO.Library.TagDTO"
             },
             "nullable": true
           }
@@ -6020,7 +5880,12 @@
           "Unit1000000000",
           "Unit1000000000000",
           "Unit1Quadrillion",
-          "Unit1Quintillion"
+          "Unit1Quintillion",
+          "Unit1Sextillion",
+          "Unit1Septillion",
+          "Unit1Octillion",
+          "Unit1Nonillion",
+          "Unit1Decillion"
         ],
         "type": "string"
       },
@@ -6071,7 +5936,7 @@
         },
         "additionalProperties": false
       },
-      "Eldorado.SharedKernel.Domain.Models.CursorBasedPagedResult`1[[Eldorado.SharedOfferKernel.Domain.Models.ViewModels.BoostingRequestSellerViewModel, Eldorado.SharedOfferKernel.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]": {
+      "Eldorado.SharedKernel.Domain.Models.CursorBasedPagedResult`1[[Eldorado.UnmanagedBoosting.Domain.Models.ViewModels.BoostingRequestSellerViewModel, Eldorado.UnmanagedBoosting.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]": {
         "type": "object",
         "properties": {
           "pageSize": {
@@ -6082,7 +5947,7 @@
           "results": {
             "type": "array",
             "items": {
-              "$ref": "#/components/schemas/Eldorado.SharedOfferKernel.Domain.Models.ViewModels.BoostingRequestSellerViewModel"
+              "$ref": "#/components/schemas/Eldorado.UnmanagedBoosting.Domain.Models.ViewModels.BoostingRequestSellerViewModel"
             },
             "nullable": true,
             "readOnly": true
@@ -6431,7 +6296,28 @@
           "AUD",
           "CAD",
           "JPY",
-          "BRL"
+          "BRL",
+          "SGD",
+          "CHF",
+          "SEK",
+          "DKK",
+          "NOK",
+          "NZD",
+          "THB",
+          "HKD",
+          "CZK",
+          "SAR",
+          "PLN",
+          "AED",
+          "MXN",
+          "RON",
+          "ILS",
+          "ARS",
+          "TRY",
+          "QAR",
+          "HUF",
+          "PEN",
+          "BGN"
         ],
         "type": "string"
       },
@@ -6515,27 +6401,22 @@
         },
         "additionalProperties": false
       },
-      "Eldorado.SharedOfferKernel.Domain.Enums.BoostingRequestSellerState": {
-        "enum": [
-          "WaitingForOffer",
-          "OfferSubmitted",
-          "OfferWon",
-          "OfferLost",
-          "Canceled",
-          "Declined",
-          "Expired",
-          "Accepted",
-          "Pending"
-        ],
-        "type": "string"
-      },
-      "Eldorado.SharedOfferKernel.Domain.Enums.BoostingRequestState": {
-        "enum": [
-          "Active",
-          "Bought",
-          "Canceled"
-        ],
-        "type": "string"
+      "Eldorado.SharedOfferKernel.Domain.Models.DTO.BoostingDesiredPriceDTO": {
+        "type": "object",
+        "properties": {
+          "priceInUSD": {
+            "type": "number",
+            "format": "double"
+          },
+          "priceInUserCurrency": {
+            "type": "number",
+            "format": "double"
+          },
+          "userCurrency": {
+            "$ref": "#/components/schemas/Eldorado.SharedKernel.Domain.Models.Monetary.Currency"
+          }
+        },
+        "additionalProperties": false
       },
       "Eldorado.SharedOfferKernel.Domain.Models.DTO.BoostingIdPrivateDTO": {
         "type": "object",
@@ -6574,32 +6455,7 @@
         },
         "additionalProperties": false
       },
-      "Eldorado.SharedOfferKernel.Domain.Models.DTO.BoostingRequestDetailsDTO": {
-        "type": "object",
-        "properties": {
-          "descriptionValues": {
-            "type": "array",
-            "items": {
-              "$ref": "#/components/schemas/Eldorado.SharedOfferKernel.Domain.Models.DTO.DescriptionValueDTO"
-            },
-            "nullable": true
-          },
-          "images": {
-            "type": "array",
-            "items": {
-              "$ref": "#/components/schemas/Eldorado.SharedOfferKernel.Domain.Models.DTO.BoostingOfferImageDTO"
-            },
-            "nullable": true
-          },
-          "version": {
-            "type": "integer",
-            "format": "int32",
-            "nullable": true
-          }
-        },
-        "additionalProperties": false
-      },
-      "Eldorado.SharedOfferKernel.Domain.Models.DTO.DescriptionValueDTO": {
+      "Eldorado.SharedOfferKernel.Domain.Models.DTO.BoostingRequestDescriptionValueDTO": {
         "type": "object",
         "properties": {
           "id": {
@@ -6613,20 +6469,10 @@
           "includeInNotification": {
             "type": "boolean",
             "nullable": true
-          }
-        },
-        "additionalProperties": false
-      },
-      "Eldorado.SharedOfferKernel.Domain.Models.DTO.Library.TagDTO": {
-        "type": "object",
-        "properties": {
-          "name": {
+          },
+          "label": {
             "type": "string",
             "nullable": true
-          },
-          "value": {
-            "type": "integer",
-            "format": "int32"
           }
         },
         "additionalProperties": false
@@ -6690,68 +6536,7 @@
         },
         "additionalProperties": false
       },
-      "Eldorado.SharedOfferKernel.Domain.Models.ViewModels.BoostingRequestSellerViewModel": {
-        "type": "object",
-        "properties": {
-          "id": {
-            "type": "string",
-            "format": "uuid"
-          },
-          "gameId": {
-            "type": "string",
-            "nullable": true
-          },
-          "category": {
-            "$ref": "#/components/schemas/Eldorado.SharedKernel.Domain.Enums.Category"
-          },
-          "boostingCategoryId": {
-            "type": "string",
-            "nullable": true
-          },
-          "gameName": {
-            "type": "string",
-            "nullable": true
-          },
-          "gameCategoryTitle": {
-            "type": "string",
-            "nullable": true
-          },
-          "state": {
-            "$ref": "#/components/schemas/Eldorado.SharedOfferKernel.Domain.Enums.BoostingRequestState"
-          },
-          "boostingRequestDetails": {
-            "$ref": "#/components/schemas/Eldorado.SharedOfferKernel.Domain.Models.DTO.BoostingRequestDetailsDTO"
-          },
-          "userId": {
-            "type": "string",
-            "nullable": true
-          },
-          "createdDate": {
-            "type": "string",
-            "format": "date-time"
-          },
-          "expireDate": {
-            "type": "string",
-            "format": "date-time"
-          },
-          "createdDateCursor": {
-            "type": "string",
-            "nullable": true
-          },
-          "modifiedDateCursor": {
-            "type": "string",
-            "nullable": true
-          },
-          "boostingRequestSellerState": {
-            "$ref": "#/components/schemas/Eldorado.SharedOfferKernel.Domain.Enums.BoostingRequestSellerState"
-          },
-          "buyerInfo": {
-            "$ref": "#/components/schemas/Eldorado.SharedKernel.Domain.Models.Responses.UserGetPublicDTO"
-          }
-        },
-        "additionalProperties": false
-      },
-      "Eldorado.SharedUnmanagedOfferKernel.Domain.Models.Responses.OfferBulkActionOffersCountPrivateDTO": {
+      "Eldorado.SharedStockOfferKernel.Domain.Models.Responses.OfferBulkActionOffersCountPrivateDTO": {
         "type": "object",
         "properties": {
           "offersInGivenFilterCount": {
@@ -6767,6 +6552,28 @@
           }
         },
         "additionalProperties": false
+      },
+      "Eldorado.UnmanagedBoosting.Domain.Enums.BoostingRequestSellerState": {
+        "enum": [
+          "WaitingForOffer",
+          "OfferSubmitted",
+          "OfferWon",
+          "OfferLost",
+          "Canceled",
+          "Declined",
+          "Expired",
+          "Accepted",
+          "Pending"
+        ],
+        "type": "string"
+      },
+      "Eldorado.UnmanagedBoosting.Domain.Enums.BoostingRequestState": {
+        "enum": [
+          "Active",
+          "Bought",
+          "Canceled"
+        ],
+        "type": "string"
       },
       "Eldorado.UnmanagedBoosting.Domain.Models.DTO.BoostingOfferDetailsPrivateDTO": {
         "type": "object",
@@ -6784,6 +6591,36 @@
           },
           "pricing": {
             "$ref": "#/components/schemas/Eldorado.SharedOfferKernel.Domain.Models.DTO.OfferPricingPrivateDTO"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Eldorado.UnmanagedBoosting.Domain.Models.DTO.BoostingRequestDetailsDTO": {
+        "type": "object",
+        "properties": {
+          "descriptionValues": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Eldorado.SharedOfferKernel.Domain.Models.DTO.BoostingRequestDescriptionValueDTO"
+            },
+            "nullable": true
+          },
+          "images": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Eldorado.SharedOfferKernel.Domain.Models.DTO.BoostingOfferImageDTO"
+            },
+            "nullable": true
+          },
+          "version": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "desiredPrice": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
           }
         },
         "additionalProperties": false
@@ -6969,6 +6806,70 @@
           },
           "isSubscribed": {
             "type": "boolean"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Eldorado.UnmanagedBoosting.Domain.Models.ViewModels.BoostingRequestSellerViewModel": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "format": "uuid"
+          },
+          "gameId": {
+            "type": "string",
+            "nullable": true
+          },
+          "category": {
+            "$ref": "#/components/schemas/Eldorado.SharedKernel.Domain.Enums.Category"
+          },
+          "boostingCategoryId": {
+            "type": "string",
+            "nullable": true
+          },
+          "gameName": {
+            "type": "string",
+            "nullable": true
+          },
+          "gameCategoryTitle": {
+            "type": "string",
+            "nullable": true
+          },
+          "state": {
+            "$ref": "#/components/schemas/Eldorado.UnmanagedBoosting.Domain.Enums.BoostingRequestState"
+          },
+          "boostingRequestDetails": {
+            "$ref": "#/components/schemas/Eldorado.UnmanagedBoosting.Domain.Models.DTO.BoostingRequestDetailsDTO"
+          },
+          "userId": {
+            "type": "string",
+            "nullable": true
+          },
+          "createdDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "expireDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "createdDateCursor": {
+            "type": "string",
+            "nullable": true
+          },
+          "modifiedDateCursor": {
+            "type": "string",
+            "nullable": true
+          },
+          "desiredPrice": {
+            "$ref": "#/components/schemas/Eldorado.SharedOfferKernel.Domain.Models.DTO.BoostingDesiredPriceDTO"
+          },
+          "boostingRequestSellerState": {
+            "$ref": "#/components/schemas/Eldorado.UnmanagedBoosting.Domain.Enums.BoostingRequestSellerState"
+          },
+          "buyerInfo": {
+            "$ref": "#/components/schemas/Eldorado.SharedKernel.Domain.Models.Responses.UserGetPublicDTO"
           }
         },
         "additionalProperties": false
