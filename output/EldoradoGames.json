@@ -654,7 +654,7 @@
       "ヴァロ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151106Z",
-    "popularGameSortOrder": 6,
+    "popularGameSortOrder": 7,
     "filterGroups": [],
     "isHighRisk": true
   },
@@ -781,7 +781,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Steam",
-    "gameGroup": null,
+    "gameGroup": "",
     "legacyUrlId": "42-0-0",
     "imageAlt": "steam accounts",
     "seoAlias": "steam-accounts",
@@ -796,7 +796,8 @@
       "Elden Ring Nightreign",
       "Rematch",
       "Dune: Awakening",
-      "Hollow Knight: Silksong"
+      "Hollow Knight: Silksong",
+      "Battlefield 6"
     ],
     "createdDate": "2021-07-01T06:40:33.1150975Z",
     "popularGameSortOrder": null,
@@ -1109,7 +1110,7 @@
     "imageAlt": "genshin impacts",
     "seoAlias": "genshin-impact-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": false,
+    "isPopularGame": true,
     "synonymNames": [
       "Genshin Impact",
       "原神",
@@ -1118,7 +1119,7 @@
       "げんしんインパクト"
     ],
     "createdDate": "2021-07-01T06:40:33.1151004Z",
-    "popularGameSortOrder": null,
+    "popularGameSortOrder": 37,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -1323,7 +1324,7 @@
       "99 Nights In The Forest"
     ],
     "createdDate": "2021-07-01T06:40:33.1149892Z",
-    "popularGameSortOrder": 14,
+    "popularGameSortOrder": 11,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -1614,7 +1615,7 @@
       "old school rs"
     ],
     "createdDate": "2021-07-01T06:40:33.1152207Z",
-    "popularGameSortOrder": 10,
+    "popularGameSortOrder": 12,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -1730,7 +1731,7 @@
       "CS GO"
     ],
     "createdDate": "2021-07-01T06:40:33.1150134Z",
-    "popularGameSortOrder": 30,
+    "popularGameSortOrder": 28,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -2089,7 +2090,7 @@
       "GTA 5 Legacy"
     ],
     "createdDate": "2021-07-01T06:40:33.1151231Z",
-    "popularGameSortOrder": 2,
+    "popularGameSortOrder": 3,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -2214,7 +2215,7 @@
       "bo7"
     ],
     "createdDate": "2021-07-01T06:40:33.1151072Z",
-    "popularGameSortOrder": 15,
+    "popularGameSortOrder": 19,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -2344,7 +2345,7 @@
     "imageAlt": "minecraft accounts",
     "seoAlias": "minecraft-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": true,
+    "isPopularGame": false,
     "synonymNames": [
       "Minecraft",
       "MC",
@@ -2353,7 +2354,7 @@
       "マイクラjava"
     ],
     "createdDate": "2021-07-01T06:40:33.1149805Z",
-    "popularGameSortOrder": 28,
+    "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -2376,7 +2377,7 @@
       "レジェンドオブリーグ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151712Z",
-    "popularGameSortOrder": 26,
+    "popularGameSortOrder": 25,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -2424,7 +2425,7 @@
       "ウォッチオーバー"
     ],
     "createdDate": "2021-07-01T06:40:33.1151205Z",
-    "popularGameSortOrder": 23,
+    "popularGameSortOrder": 35,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -2970,7 +2971,7 @@
       "フォトナ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151738Z",
-    "popularGameSortOrder": 5,
+    "popularGameSortOrder": 6,
     "filterGroups": [],
     "isHighRisk": true
   },
@@ -3280,7 +3281,7 @@
       "クラロワ"
     ],
     "createdDate": "2021-07-01T06:40:33.115087Z",
-    "popularGameSortOrder": 18,
+    "popularGameSortOrder": 23,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -3422,7 +3423,7 @@
       "レインボーシージ"
     ],
     "createdDate": "2021-07-01T06:40:33.115092Z",
-    "popularGameSortOrder": 13,
+    "popularGameSortOrder": 15,
     "filterGroups": [],
     "isHighRisk": false
   }
