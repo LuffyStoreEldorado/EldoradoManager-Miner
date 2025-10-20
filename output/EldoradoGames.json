@@ -1110,7 +1110,7 @@
     "imageAlt": "genshin impacts",
     "seoAlias": "genshin-impact-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": true,
+    "isPopularGame": false,
     "synonymNames": [
       "Genshin Impact",
       "原神",
@@ -1119,7 +1119,7 @@
       "げんしんインパクト"
     ],
     "createdDate": "2021-07-01T06:40:33.1151004Z",
-    "popularGameSortOrder": 37,
+    "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -1324,7 +1324,7 @@
       "99 Nights In The Forest"
     ],
     "createdDate": "2021-07-01T06:40:33.1149892Z",
-    "popularGameSortOrder": 11,
+    "popularGameSortOrder": 12,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -1615,7 +1615,7 @@
       "old school rs"
     ],
     "createdDate": "2021-07-01T06:40:33.1152207Z",
-    "popularGameSortOrder": 12,
+    "popularGameSortOrder": 15,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -1731,7 +1731,7 @@
       "CS GO"
     ],
     "createdDate": "2021-07-01T06:40:33.1150134Z",
-    "popularGameSortOrder": 28,
+    "popularGameSortOrder": 29,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -2090,7 +2090,7 @@
       "GTA 5 Legacy"
     ],
     "createdDate": "2021-07-01T06:40:33.1151231Z",
-    "popularGameSortOrder": 3,
+    "popularGameSortOrder": 2,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -2215,7 +2215,7 @@
       "bo7"
     ],
     "createdDate": "2021-07-01T06:40:33.1151072Z",
-    "popularGameSortOrder": 19,
+    "popularGameSortOrder": 20,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -2345,7 +2345,7 @@
     "imageAlt": "minecraft accounts",
     "seoAlias": "minecraft-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": false,
+    "isPopularGame": true,
     "synonymNames": [
       "Minecraft",
       "MC",
@@ -2354,7 +2354,7 @@
       "マイクラjava"
     ],
     "createdDate": "2021-07-01T06:40:33.1149805Z",
-    "popularGameSortOrder": null,
+    "popularGameSortOrder": 30,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -2415,7 +2415,7 @@
     "imageAlt": "overwatch 2 accounts",
     "seoAlias": "overwatch-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": true,
+    "isPopularGame": false,
     "synonymNames": [
       "Overwatch",
       "ow",
@@ -2425,7 +2425,7 @@
       "ウォッチオーバー"
     ],
     "createdDate": "2021-07-01T06:40:33.1151205Z",
-    "popularGameSortOrder": 35,
+    "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -2573,12 +2573,12 @@
     "imageAlt": "rust accounts",
     "seoAlias": "rust-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": false,
+    "isPopularGame": true,
     "synonymNames": [
       "Rust"
     ],
     "createdDate": "2021-07-01T06:40:33.1151055Z",
-    "popularGameSortOrder": null,
+    "popularGameSortOrder": 39,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -2971,7 +2971,7 @@
       "フォトナ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151738Z",
-    "popularGameSortOrder": 6,
+    "popularGameSortOrder": 5,
     "filterGroups": [],
     "isHighRisk": true
   },
@@ -3281,7 +3281,7 @@
       "クラロワ"
     ],
     "createdDate": "2021-07-01T06:40:33.115087Z",
-    "popularGameSortOrder": 23,
+    "popularGameSortOrder": 26,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -3423,7 +3423,7 @@
       "レインボーシージ"
     ],
     "createdDate": "2021-07-01T06:40:33.115092Z",
-    "popularGameSortOrder": 15,
+    "popularGameSortOrder": 17,
     "filterGroups": [],
     "isHighRisk": false
   }
