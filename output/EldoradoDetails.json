@@ -882,7 +882,7 @@
         "parentId": null,
         "isDefault": false,
         "name": "Region",
-        "value": "ASIA",
+        "value": "Asia",
         "imageLocation": null,
         "childTradeEnvironments": null
       },
@@ -1756,7 +1756,7 @@
         "parentId": null,
         "isDefault": false,
         "name": "Region",
-        "value": "ASIA",
+        "value": "Asia",
         "imageLocation": null,
         "childTradeEnvironments": null
       },
@@ -3681,7 +3681,7 @@
       "ヴァロ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151106Z",
-    "popularGameSortOrder": 8,
+    "popularGameSortOrder": 6,
     "filterGroups": [],
     "isHighRisk": true
   },
@@ -4648,7 +4648,7 @@
         "parentId": null,
         "isDefault": false,
         "name": "Region",
-        "value": "ASIA",
+        "value": "Asia",
         "imageLocation": null,
         "childTradeEnvironments": null
       },
@@ -4905,53 +4905,13 @@
       {
         "gameId": "50",
         "category": "Account",
-        "id": "3",
-        "parentGameId": null,
-        "parentCategory": null,
-        "parentId": null,
-        "isDefault": false,
-        "name": "Region",
-        "value": "NA - West",
-        "imageLocation": null,
-        "childTradeEnvironments": [
-          {
-            "gameId": "50",
-            "category": "Account",
-            "id": "3-7",
-            "parentGameId": "50",
-            "parentCategory": "Account",
-            "parentId": "3",
-            "isDefault": false,
-            "name": "Server",
-            "value": "Thaemine",
-            "imageLocation": null,
-            "childTradeEnvironments": null
-          },
-          {
-            "gameId": "50",
-            "category": "Account",
-            "id": "3-8",
-            "parentGameId": "50",
-            "parentCategory": "Account",
-            "parentId": "3",
-            "isDefault": false,
-            "name": "Server",
-            "value": "Brelshaza",
-            "imageLocation": null,
-            "childTradeEnvironments": null
-          }
-        ]
-      },
-      {
-        "gameId": "50",
-        "category": "Account",
         "id": "4",
         "parentGameId": null,
         "parentCategory": null,
         "parentId": null,
         "isDefault": false,
         "name": "Region",
-        "value": "NA - East",
+        "value": "NA",
         "imageLocation": null,
         "childTradeEnvironments": [
           {
@@ -5016,6 +4976,32 @@
             "isDefault": false,
             "name": "Server",
             "value": "Vairgrys",
+            "imageLocation": null,
+            "childTradeEnvironments": null
+          },
+          {
+            "gameId": "50",
+            "category": "Account",
+            "id": "4-21",
+            "parentGameId": "50",
+            "parentCategory": "Account",
+            "parentId": "4",
+            "isDefault": false,
+            "name": "Server",
+            "value": "Thaemine - West",
+            "imageLocation": null,
+            "childTradeEnvironments": null
+          },
+          {
+            "gameId": "50",
+            "category": "Account",
+            "id": "4-22",
+            "parentGameId": "50",
+            "parentCategory": "Account",
+            "parentId": "4",
+            "isDefault": false,
+            "name": "Server",
+            "value": "Brelshaza - West",
             "imageLocation": null,
             "childTradeEnvironments": null
           }
@@ -5167,7 +5153,7 @@
         "parentId": null,
         "isDefault": false,
         "name": "Region",
-        "value": "ASIA",
+        "value": "Asia",
         "imageLocation": null,
         "childTradeEnvironments": null
       },
@@ -5670,7 +5656,7 @@
       "99 Nights In The Forest"
     ],
     "createdDate": "2021-07-01T06:40:33.1149892Z",
-    "popularGameSortOrder": 11,
+    "popularGameSortOrder": 10,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -7978,7 +7964,7 @@
       "old school rs"
     ],
     "createdDate": "2021-07-01T06:40:33.1152207Z",
-    "popularGameSortOrder": 13,
+    "popularGameSortOrder": 14,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -8136,7 +8122,7 @@
         "parentId": null,
         "isDefault": false,
         "name": "Server",
-        "value": "ASIA",
+        "value": "Asia",
         "imageLocation": null,
         "childTradeEnvironments": [
           {
@@ -8236,6 +8222,39 @@
       "Ubisoftコネクト"
     ],
     "createdDate": "2021-07-01T06:40:33.1150785Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false
+  },
+  {
+    "isActive": true,
+    "imageLocation": null,
+    "unitSystem": "1",
+    "seoMetaDescription": "Buy stacked Digimon Super Rumble accounts with millions of bits and meta digimon with maxed out skills, high craft level and PvP token ranks. Instant delivery guaranteed!",
+    "seoTitle": "Digimon Super Rumble Account for Sale | Eldorado.gg",
+    "gameAccountDetailsLabels": [],
+    "tradeEnvironments": [],
+    "attributes": [],
+    "boostingCategories": [],
+    "attributesV2": [],
+    "menuGameTitle": "Digimon Super Rumble",
+    "gameId": "313",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "Digimon Super Rumble",
+    "gameGroup": null,
+    "legacyUrlId": null,
+    "imageAlt": "digimon super rumble accounts",
+    "seoAlias": "digimon-super-rumble-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "Digimon Super Rumble",
+      "DSR",
+      "Digimon SR",
+      "デジモンスーパーランブル"
+    ],
+    "createdDate": "2025-10-21T06:41:24.2471348Z",
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false
@@ -8502,7 +8521,7 @@
       "CS GO"
     ],
     "createdDate": "2021-07-01T06:40:33.1150134Z",
-    "popularGameSortOrder": 36,
+    "popularGameSortOrder": 33,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -8849,6 +8868,37 @@
       "Rise of Kingdoms–万国覚醒–"
     ],
     "createdDate": "2021-09-22T12:37:09.155844Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false
+  },
+  {
+    "isActive": true,
+    "imageLocation": null,
+    "unitSystem": "1",
+    "seoMetaDescription": "Buy & Sell Unveil the World accounts safely on Eldorado.gg. Choose from starter to whale SSR accounts with instant delivery, secure payments, free warranty, and 24/7 customer support. Start playing today!",
+    "seoTitle": "Unveil the World Account for Sale | Eldorado.gg",
+    "gameAccountDetailsLabels": [],
+    "tradeEnvironments": [],
+    "attributes": [],
+    "boostingCategories": [],
+    "attributesV2": [],
+    "menuGameTitle": "unVEIL the world",
+    "gameId": "314",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "unVEIL the world",
+    "gameGroup": null,
+    "legacyUrlId": null,
+    "imageAlt": "unveil the world accounts",
+    "seoAlias": "unveil-the-world-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "unVEIL the world",
+      "アンベイル ザ ワールド"
+    ],
+    "createdDate": "2025-10-22T07:25:46.2874752Z",
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false
@@ -9687,7 +9737,7 @@
       "GTA 5 Legacy"
     ],
     "createdDate": "2021-07-01T06:40:33.1151231Z",
-    "popularGameSortOrder": 2,
+    "popularGameSortOrder": 1,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -10116,6 +10166,19 @@
             "value": "Other",
             "imageLocation": null,
             "childTradeEnvironments": null
+          },
+          {
+            "gameId": "35",
+            "category": "Account",
+            "id": "2-8",
+            "parentGameId": "35",
+            "parentCategory": "Account",
+            "parentId": "2",
+            "isDefault": false,
+            "name": "Game",
+            "value": "Black Ops 7",
+            "imageLocation": null,
+            "childTradeEnvironments": null
           }
         ]
       },
@@ -10414,7 +10477,7 @@
       "bo7"
     ],
     "createdDate": "2021-07-01T06:40:33.1151072Z",
-    "popularGameSortOrder": 19,
+    "popularGameSortOrder": 16,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -10732,7 +10795,7 @@
       "マイクラjava"
     ],
     "createdDate": "2021-07-01T06:40:33.1149805Z",
-    "popularGameSortOrder": 34,
+    "popularGameSortOrder": 31,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -11278,7 +11341,7 @@
       "レジェンドオブリーグ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151712Z",
-    "popularGameSortOrder": 26,
+    "popularGameSortOrder": 27,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -11811,7 +11874,7 @@
       "Rust"
     ],
     "createdDate": "2021-07-01T06:40:33.1151055Z",
-    "popularGameSortOrder": 40,
+    "popularGameSortOrder": 38,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -11870,7 +11933,7 @@
             "parentId": "0",
             "isDefault": false,
             "name": "Region",
-            "value": "ASIA",
+            "value": "Asia",
             "imageLocation": null,
             "childTradeEnvironments": null
           },
@@ -11936,7 +11999,7 @@
             "parentId": "1",
             "isDefault": false,
             "name": "Region",
-            "value": "ASIA",
+            "value": "Asia",
             "imageLocation": null,
             "childTradeEnvironments": null
           },
@@ -12723,7 +12786,7 @@
         "parentId": null,
         "isDefault": false,
         "name": "Region",
-        "value": "ASIA",
+        "value": "Asia",
         "imageLocation": null,
         "childTradeEnvironments": null
       }
@@ -12850,7 +12913,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Battlefield",
-    "gameGroup": null,
+    "gameGroup": "",
     "legacyUrlId": null,
     "imageAlt": "battlefield accounts",
     "seoAlias": "battlefield-accounts",
@@ -12863,7 +12926,9 @@
       "BF4",
       "BF5",
       "バトルフィールド ",
-      "BF6"
+      "BF6",
+      "Bat",
+      "Battle"
     ],
     "createdDate": "2025-05-05T11:38:25.5172626Z",
     "popularGameSortOrder": null,
@@ -13063,7 +13128,7 @@
       "フォトナ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151738Z",
-    "popularGameSortOrder": 5,
+    "popularGameSortOrder": 4,
     "filterGroups": [],
     "isHighRisk": true
   },
@@ -13761,7 +13826,7 @@
         "parentId": null,
         "isDefault": false,
         "name": "Region",
-        "value": "ASIA",
+        "value": "Asia",
         "imageLocation": null,
         "childTradeEnvironments": null
       },
@@ -13961,7 +14026,7 @@
       "クラロワ"
     ],
     "createdDate": "2021-07-01T06:40:33.115087Z",
-    "popularGameSortOrder": 25,
+    "popularGameSortOrder": 29,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -14632,7 +14697,7 @@
       "レインボーシージ"
     ],
     "createdDate": "2021-07-01T06:40:33.115092Z",
-    "popularGameSortOrder": 16,
+    "popularGameSortOrder": 19,
     "filterGroups": [],
     "isHighRisk": false
   }
