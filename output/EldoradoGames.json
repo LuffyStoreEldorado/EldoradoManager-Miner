@@ -274,6 +274,28 @@
     "isHighRisk": false
   },
   {
+    "menuGameTitle": "Arena Breakout",
+    "gameId": "321",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "Arena Breakout",
+    "gameGroup": null,
+    "legacyUrlId": null,
+    "imageAlt": "arena breakout accounts",
+    "seoAlias": "arena-breakout-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "Arena Breakout",
+      "アリーナブレイクアウト",
+      "アリブレ"
+    ],
+    "createdDate": "2025-11-05T08:31:42.5022014Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false
+  },
+  {
     "menuGameTitle": "Kaiju No. 8",
     "gameId": "287",
     "category": "Account",
@@ -1067,14 +1089,14 @@
     "imageAlt": "steal a brainrot accounts",
     "seoAlias": "steal-a-brainrot-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": true,
+    "isPopularGame": false,
     "synonymNames": [
       "Steal a Brainrot",
       "Steal a Brainrot Roblox",
       "ブレインロットを盗む"
     ],
     "createdDate": "2025-07-08T11:14:38.3816126Z",
-    "popularGameSortOrder": 42,
+    "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -1759,6 +1781,29 @@
     "isHighRisk": false
   },
   {
+    "menuGameTitle": "Arena Breakout: Infinite",
+    "gameId": "320",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "Arena Breakout: Infinite",
+    "gameGroup": null,
+    "legacyUrlId": null,
+    "imageAlt": "arena breakout infinite accounts",
+    "seoAlias": "arena-breakout-infinite-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "Arena Breakout: Infinite",
+      "ABI",
+      "アリーナブレイクアウト",
+      "アリブレ"
+    ],
+    "createdDate": "2025-11-06T10:33:44.4877307Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false
+  },
+  {
     "menuGameTitle": "Yu-Gi-Oh! Master Duel",
     "gameId": "232",
     "category": "Account",
@@ -2259,7 +2304,7 @@
       "bo7"
     ],
     "createdDate": "2021-07-01T06:40:33.1151072Z",
-    "popularGameSortOrder": 15,
+    "popularGameSortOrder": 16,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -2465,7 +2510,7 @@
       "レジェンドオブリーグ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151712Z",
-    "popularGameSortOrder": 29,
+    "popularGameSortOrder": 28,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -2536,7 +2581,7 @@
       "ウォッチオーバー"
     ],
     "createdDate": "2021-07-01T06:40:33.1151205Z",
-    "popularGameSortOrder": 39,
+    "popularGameSortOrder": 40,
     "filterGroups": [],
     "isHighRisk": false
   },
@@ -2954,7 +2999,7 @@
     "imageAlt": "raid shadow legends accounts",
     "seoAlias": "raid-shadow-legends-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": false,
+    "isPopularGame": true,
     "synonymNames": [
       "Raid: Shadow Legends",
       "レイドシャドウレジェンド",
@@ -2963,7 +3008,7 @@
       "レイドシャドウ"
     ],
     "createdDate": "2021-07-09T07:32:49.8089677Z",
-    "popularGameSortOrder": null,
+    "popularGameSortOrder": 43,
     "filterGroups": [],
     "isHighRisk": false
   },
