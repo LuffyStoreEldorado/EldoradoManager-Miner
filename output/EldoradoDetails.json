@@ -1746,6 +1746,221 @@
     "isActive": true,
     "imageLocation": null,
     "unitSystem": "1",
+    "seoMetaDescription": "Buy WoWs Account on Eldorado.gg and get access to meta ships, premium time and high level captains. Instant delivery, free warranty and thousands of offers to pick from.",
+    "seoTitle": "WoWs Account Sale | Buy World of Warships Account | Eldorado.gg",
+    "gameAccountDetailsLabels": [],
+    "tradeEnvironments": [
+      {
+        "gameId": "330",
+        "category": "Account",
+        "id": "0",
+        "parentGameId": null,
+        "parentCategory": null,
+        "parentId": null,
+        "isDefault": false,
+        "isHidden": false,
+        "name": "Server",
+        "value": "NA",
+        "imageLocation": null,
+        "displayOrderIndex": 0,
+        "childTradeEnvironments": [
+          {
+            "gameId": "330",
+            "category": "Account",
+            "id": "0-0",
+            "parentGameId": "330",
+            "parentCategory": "Account",
+            "parentId": "0",
+            "isDefault": false,
+            "isHidden": false,
+            "name": "Device",
+            "value": "PC",
+            "imageLocation": null,
+            "displayOrderIndex": 0,
+            "childTradeEnvironments": null
+          },
+          {
+            "gameId": "330",
+            "category": "Account",
+            "id": "0-1",
+            "parentGameId": "330",
+            "parentCategory": "Account",
+            "parentId": "0",
+            "isDefault": false,
+            "isHidden": false,
+            "name": "Device",
+            "value": "PlayStation",
+            "imageLocation": null,
+            "displayOrderIndex": 1,
+            "childTradeEnvironments": null
+          },
+          {
+            "gameId": "330",
+            "category": "Account",
+            "id": "0-2",
+            "parentGameId": "330",
+            "parentCategory": "Account",
+            "parentId": "0",
+            "isDefault": false,
+            "isHidden": false,
+            "name": "Device",
+            "value": "Xbox",
+            "imageLocation": null,
+            "displayOrderIndex": 2,
+            "childTradeEnvironments": null
+          }
+        ]
+      },
+      {
+        "gameId": "330",
+        "category": "Account",
+        "id": "1",
+        "parentGameId": null,
+        "parentCategory": null,
+        "parentId": null,
+        "isDefault": false,
+        "isHidden": false,
+        "name": "Server",
+        "value": "EU",
+        "imageLocation": null,
+        "displayOrderIndex": 1,
+        "childTradeEnvironments": [
+          {
+            "gameId": "330",
+            "category": "Account",
+            "id": "1-0",
+            "parentGameId": "330",
+            "parentCategory": "Account",
+            "parentId": "1",
+            "isDefault": false,
+            "isHidden": false,
+            "name": "Device",
+            "value": "PC",
+            "imageLocation": null,
+            "displayOrderIndex": 0,
+            "childTradeEnvironments": null
+          },
+          {
+            "gameId": "330",
+            "category": "Account",
+            "id": "1-1",
+            "parentGameId": "330",
+            "parentCategory": "Account",
+            "parentId": "1",
+            "isDefault": false,
+            "isHidden": false,
+            "name": "Device",
+            "value": "PlayStation",
+            "imageLocation": null,
+            "displayOrderIndex": 1,
+            "childTradeEnvironments": null
+          },
+          {
+            "gameId": "330",
+            "category": "Account",
+            "id": "1-2",
+            "parentGameId": "330",
+            "parentCategory": "Account",
+            "parentId": "1",
+            "isDefault": false,
+            "isHidden": false,
+            "name": "Device",
+            "value": "Xbox",
+            "imageLocation": null,
+            "displayOrderIndex": 2,
+            "childTradeEnvironments": null
+          }
+        ]
+      },
+      {
+        "gameId": "330",
+        "category": "Account",
+        "id": "2",
+        "parentGameId": null,
+        "parentCategory": null,
+        "parentId": null,
+        "isDefault": false,
+        "isHidden": false,
+        "name": "Server",
+        "value": "Asia",
+        "imageLocation": null,
+        "displayOrderIndex": 2,
+        "childTradeEnvironments": [
+          {
+            "gameId": "330",
+            "category": "Account",
+            "id": "2-0",
+            "parentGameId": "330",
+            "parentCategory": "Account",
+            "parentId": "2",
+            "isDefault": false,
+            "isHidden": false,
+            "name": "Device",
+            "value": "PC",
+            "imageLocation": null,
+            "displayOrderIndex": 0,
+            "childTradeEnvironments": null
+          },
+          {
+            "gameId": "330",
+            "category": "Account",
+            "id": "2-1",
+            "parentGameId": "330",
+            "parentCategory": "Account",
+            "parentId": "2",
+            "isDefault": false,
+            "isHidden": false,
+            "name": "Device",
+            "value": "PlayStation",
+            "imageLocation": null,
+            "displayOrderIndex": 1,
+            "childTradeEnvironments": null
+          },
+          {
+            "gameId": "330",
+            "category": "Account",
+            "id": "2-2",
+            "parentGameId": "330",
+            "parentCategory": "Account",
+            "parentId": "2",
+            "isDefault": false,
+            "isHidden": false,
+            "name": "Device",
+            "value": "Xbox",
+            "imageLocation": null,
+            "displayOrderIndex": 2,
+            "childTradeEnvironments": null
+          }
+        ]
+      }
+    ],
+    "attributes": [],
+    "boostingCategories": [],
+    "menuGameTitle": "World of Warships",
+    "gameId": "330",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "World of Warships",
+    "gameGroup": null,
+    "legacyUrlId": null,
+    "imageAlt": "wows accounts",
+    "seoAlias": "wows-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "World of Warships",
+      "WoWs"
+    ],
+    "createdDate": "2025-12-04T10:25:52.4509577Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false,
+    "trendingRatio": 0
+  },
+  {
+    "isActive": true,
+    "imageLocation": null,
+    "unitSystem": "1",
     "seoMetaDescription": "Buy Fisch Accounts. Cheap accounts with high level and cash for the fast growing Roblox fishing game Fisch. Instant delivery, Competitive prices, verified sellers at Eldorado.gg.",
     "seoTitle": "Fisch Accounts For Sale | Eldorado.gg",
     "gameAccountDetailsLabels": [],
@@ -1837,7 +2052,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.16393442622950818
+    "trendingRatio": 0.15942915392456677
   },
   {
     "isActive": true,
@@ -4068,10 +4283,10 @@
       "ヴァロ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151106Z",
-    "popularGameSortOrder": 7,
+    "popularGameSortOrder": 6,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.18134140191628845
+    "trendingRatio": 0.16002171124050132
   },
   {
     "isActive": true,
@@ -4315,7 +4530,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.15224421161557367
+    "trendingRatio": 0.1784773610936912
   },
   {
     "isActive": true,
@@ -4386,7 +4601,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.17391304347826086
+    "trendingRatio": 0.14127187366623986
   },
   {
     "isActive": true,
@@ -5039,10 +5254,10 @@
       "ロケリ"
     ],
     "createdDate": "2021-07-01T06:40:33.1152239Z",
-    "popularGameSortOrder": 41,
+    "popularGameSortOrder": 44,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1682125846076711
+    "trendingRatio": 0.16432618871643262
   },
   {
     "isActive": true,
@@ -5437,7 +5652,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15740030674846625
+    "trendingRatio": 0.1376710970045626
   },
   {
     "isActive": true,
@@ -6264,10 +6479,10 @@
       "99 Nights In The Forest"
     ],
     "createdDate": "2021-07-01T06:40:33.1149892Z",
-    "popularGameSortOrder": 10,
+    "popularGameSortOrder": 11,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.18341491505902677
+    "trendingRatio": 0.1778127141532632
   },
   {
     "isActive": true,
@@ -8836,10 +9051,10 @@
       "old school rs"
     ],
     "createdDate": "2021-07-01T06:40:33.1152207Z",
-    "popularGameSortOrder": 14,
+    "popularGameSortOrder": 19,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.16334841628959276
+    "trendingRatio": 0.14893617021276595
   },
   {
     "isActive": true,
@@ -8871,6 +9086,38 @@
     "filterGroups": [],
     "isHighRisk": false,
     "trendingRatio": 0
+  },
+  {
+    "isActive": true,
+    "imageLocation": null,
+    "unitSystem": "1",
+    "seoMetaDescription": "Buy cheap Roblox The Forge account and start with your favorite race! Enjoy The Forge at its best with meta races such as Demon & Angel. Instant delivery guaranteed!",
+    "seoTitle": "Roblox The Forge Accounts for Sale | Eldorado.gg",
+    "gameAccountDetailsLabels": [],
+    "tradeEnvironments": [],
+    "attributes": [],
+    "boostingCategories": [],
+    "menuGameTitle": "The Forge",
+    "gameId": "329",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "The Forge",
+    "gameGroup": "Roblox",
+    "legacyUrlId": null,
+    "imageAlt": "the forge accounts",
+    "seoAlias": "the-forge-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "The Forge",
+      "Roblox The Forge",
+      "フォージ"
+    ],
+    "createdDate": "2025-12-01T09:24:03.2068955Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false,
+    "trendingRatio": 1.4640287769784173
   },
   {
     "isActive": true,
@@ -9435,10 +9682,10 @@
       "CS GO"
     ],
     "createdDate": "2021-07-01T06:40:33.1150134Z",
-    "popularGameSortOrder": 38,
+    "popularGameSortOrder": 37,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1681187479832204
+    "trendingRatio": 0.2154046997389034
   },
   {
     "isActive": true,
@@ -10612,7 +10859,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "99 Nights in the Forest",
-    "gameGroup": null,
+    "gameGroup": "Roblox",
     "legacyUrlId": null,
     "imageAlt": "99 nights in the forest accounts",
     "seoAlias": "99-nights-in-the-forest-accounts",
@@ -10845,7 +11092,7 @@
     "popularGameSortOrder": 1,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.21360808157278383
+    "trendingRatio": 0.20883790976419864
   },
   {
     "isActive": true,
@@ -11668,10 +11915,10 @@
       "bo7"
     ],
     "createdDate": "2021-07-01T06:40:33.1151072Z",
-    "popularGameSortOrder": 24,
+    "popularGameSortOrder": 21,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.13043478260869565
+    "trendingRatio": 0.17179161372299873
   },
   {
     "isActive": true,
@@ -11781,7 +12028,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.20947246823257604
+    "trendingRatio": 0.17331932773109243
   },
   {
     "isActive": true,
@@ -12035,10 +12282,10 @@
       "マイクラjava"
     ],
     "createdDate": "2021-07-01T06:40:33.1149805Z",
-    "popularGameSortOrder": 27,
+    "popularGameSortOrder": 32,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.166815210932858
+    "trendingRatio": 0.19239177962396153
   },
   {
     "isActive": true,
@@ -12649,7 +12896,39 @@
     "popularGameSortOrder": 25,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14050202084662838
+    "trendingRatio": 0.13676712328767124
+  },
+  {
+    "isActive": true,
+    "imageLocation": null,
+    "unitSystem": "1",
+    "seoMetaDescription": "Buy Roblox Jailbreak Accounts on Eldorado.gg with instant delivery. Get fresh accounts with millions of cash or stacked accounts with best cars. Available 24/7!",
+    "seoTitle": "Jailbreak Accounts for Sale | Roblox Jailbreak Accounts | Eldorado.gg",
+    "gameAccountDetailsLabels": [],
+    "tradeEnvironments": [],
+    "attributes": [],
+    "boostingCategories": [],
+    "menuGameTitle": "Jailbreak",
+    "gameId": "236",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "Jailbreak",
+    "gameGroup": "Roblox",
+    "legacyUrlId": null,
+    "imageAlt": "jailbreak accounts",
+    "seoAlias": "jailbreak-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "Jailbreak",
+      "ジェイルブレイク",
+      "Roblox Jailbreak"
+    ],
+    "createdDate": "2025-12-04T10:46:40.2356363Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false,
+    "trendingRatio": 0
   },
   {
     "isActive": true,
@@ -12935,7 +13214,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15701982775886242
+    "trendingRatio": 0.15950069348127602
   },
   {
     "isActive": true,
@@ -13266,7 +13545,71 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14428341384863125
+    "trendingRatio": 0.19874476987447698
+  },
+  {
+    "isActive": true,
+    "imageLocation": null,
+    "unitSystem": "1",
+    "seoMetaDescription": "Buy MCoC Accounts on Eldorado.gg with instant delivery, cheapest prices and thousands of accounts to choose from. Both starter and stacked accounts are available!",
+    "seoTitle": "Marvel Contest of Champions Accounts for Sale | Eldorado.gg",
+    "gameAccountDetailsLabels": [],
+    "tradeEnvironments": [
+      {
+        "gameId": "331",
+        "category": "Account",
+        "id": "0",
+        "parentGameId": null,
+        "parentCategory": null,
+        "parentId": null,
+        "isDefault": false,
+        "isHidden": false,
+        "name": "Device",
+        "value": "Android",
+        "imageLocation": null,
+        "displayOrderIndex": 0,
+        "childTradeEnvironments": null
+      },
+      {
+        "gameId": "331",
+        "category": "Account",
+        "id": "1",
+        "parentGameId": null,
+        "parentCategory": null,
+        "parentId": null,
+        "isDefault": false,
+        "isHidden": false,
+        "name": "Device",
+        "value": "iOS",
+        "imageLocation": null,
+        "displayOrderIndex": 1,
+        "childTradeEnvironments": null
+      }
+    ],
+    "attributes": [],
+    "boostingCategories": [],
+    "menuGameTitle": "Marvel Contest of Champions",
+    "gameId": "331",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "Marvel Contest of Champions",
+    "gameGroup": null,
+    "legacyUrlId": null,
+    "imageAlt": "marvel contest of champions accounts",
+    "seoAlias": "marvel-contest-of-champions-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "Marvel Contest of Champions",
+      "MCoC",
+      "マーベルオールスターバトル",
+      "MARVEL オールスターバトル"
+    ],
+    "createdDate": "2025-12-04T10:31:12.3866873Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false,
+    "trendingRatio": 0
   },
   {
     "isActive": true,
@@ -13482,7 +13825,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.18031609195402298
+    "trendingRatio": 0.15453296703296704
   },
   {
     "isActive": true,
@@ -14117,7 +14460,7 @@
     "imageAlt": "raid shadow legends accounts",
     "seoAlias": "raid-shadow-legends-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": false,
+    "isPopularGame": true,
     "synonymNames": [
       "Raid: Shadow Legends",
       "レイドシャドウレジェンド",
@@ -14126,10 +14469,10 @@
       "レイドシャドウ"
     ],
     "createdDate": "2021-07-09T07:32:49.8089677Z",
-    "popularGameSortOrder": null,
+    "popularGameSortOrder": 30,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.2788104089219331
+    "trendingRatio": 0
   },
   {
     "isActive": true,
@@ -14595,10 +14938,10 @@
       "フォトナ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151738Z",
-    "popularGameSortOrder": 2,
+    "popularGameSortOrder": 3,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.1617300572197913
+    "trendingRatio": 0.148014440433213
   },
   {
     "isActive": true,
@@ -14630,7 +14973,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.18908045977011495
+    "trendingRatio": 0
   },
   {
     "isActive": true,
@@ -15007,7 +15350,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.16391304347826086
+    "trendingRatio": 0.1507564841498559
   },
   {
     "isActive": true,
@@ -15246,7 +15589,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.16119590215346016
+    "trendingRatio": 0.17838224767358626
   },
   {
     "isActive": true,
@@ -15564,17 +15907,17 @@
     "imageAlt": "clash royale accounts",
     "seoAlias": "clash-royale-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": true,
+    "isPopularGame": false,
     "synonymNames": [
       "Clash Royale",
       "cr",
       "クラロワ"
     ],
     "createdDate": "2021-07-01T06:40:33.115087Z",
-    "popularGameSortOrder": 43,
+    "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1367983367983368
+    "trendingRatio": 0.15051362215274677
   },
   {
     "isActive": true,
@@ -16286,9 +16629,9 @@
       "レインボーシージ"
     ],
     "createdDate": "2021-07-01T06:40:33.115092Z",
-    "popularGameSortOrder": 18,
+    "popularGameSortOrder": 17,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.18165762583575124
+    "trendingRatio": 0.17841726618705037
   }
 ]
