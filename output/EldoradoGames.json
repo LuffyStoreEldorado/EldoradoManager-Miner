@@ -1,5 +1,26 @@
 [
   {
+    "menuGameTitle": "Zula",
+    "gameId": "334",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "Zula",
+    "gameGroup": null,
+    "legacyUrlId": null,
+    "imageAlt": "zula accounts",
+    "seoAlias": "zula-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "Zula"
+    ],
+    "createdDate": "2025-12-17T13:32:16.2692082Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false,
+    "trendingRatio": 0
+  },
+  {
     "menuGameTitle": "Ayakashi Rumble!",
     "gameId": "161",
     "category": "Account",
@@ -65,7 +86,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.17693715680292862
+    "trendingRatio": 0.16675690308608554
   },
   {
     "menuGameTitle": "Epic Games",
@@ -634,7 +655,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1315575437169581
+    "trendingRatio": 0.1514575411913815
   },
   {
     "menuGameTitle": "Golden HoYeah",
@@ -727,10 +748,10 @@
       "ヴァロ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151106Z",
-    "popularGameSortOrder": 6,
+    "popularGameSortOrder": 5,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.13692307692307693
+    "trendingRatio": 0.1350088225475702
   },
   {
     "menuGameTitle": "Etheria: Restart",
@@ -852,7 +873,28 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.1525647171620326
+    "trendingRatio": 0.14900888585099112
+  },
+  {
+    "menuGameTitle": "Wartune Ultra",
+    "gameId": "336",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "Wartune Ultra",
+    "gameGroup": null,
+    "legacyUrlId": null,
+    "imageAlt": "wartune ultra accounts",
+    "seoAlias": "wartune-ultra-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "Wartune Ultra"
+    ],
+    "createdDate": "2025-12-17T13:47:34.506365Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false,
+    "trendingRatio": 0
   },
   {
     "menuGameTitle": "DonutSMP",
@@ -905,7 +947,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.13276955602536997
+    "trendingRatio": 0.1314878892733564
   },
   {
     "menuGameTitle": "Millennium War Aigis",
@@ -1039,7 +1081,7 @@
     "imageAlt": "rocket league accounts",
     "seoAlias": "rocket-league-accounts-for-sale",
     "isSingleOfferGame": false,
-    "isPopularGame": true,
+    "isPopularGame": false,
     "synonymNames": [
       "Rocket League",
       "rleague",
@@ -1048,10 +1090,10 @@
       "ロケリ"
     ],
     "createdDate": "2021-07-01T06:40:33.1152239Z",
-    "popularGameSortOrder": 44,
+    "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1763451054752311
+    "trendingRatio": 0.13727272727272727
   },
   {
     "menuGameTitle": "Jujutsu Infinite",
@@ -1215,7 +1257,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.11365564037319763
+    "trendingRatio": 0.18570057581573896
   },
   {
     "menuGameTitle": "Lost Ark",
@@ -1471,10 +1513,10 @@
       "99 Nights In The Forest"
     ],
     "createdDate": "2021-07-01T06:40:33.1149892Z",
-    "popularGameSortOrder": 11,
+    "popularGameSortOrder": 9,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.16460047116981424
+    "trendingRatio": 0.1687574563464806
   },
   {
     "menuGameTitle": "Shadowverse",
@@ -1774,10 +1816,10 @@
       "old school rs"
     ],
     "createdDate": "2021-07-01T06:40:33.1152207Z",
-    "popularGameSortOrder": 19,
+    "popularGameSortOrder": 16,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1691542288557214
+    "trendingRatio": 0
   },
   {
     "menuGameTitle": "Delta Force",
@@ -1822,7 +1864,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.5707720588235294
+    "trendingRatio": 0.17310087173100872
   },
   {
     "menuGameTitle": "World of Tanks",
@@ -1942,10 +1984,10 @@
       "CS GO"
     ],
     "createdDate": "2021-07-01T06:40:33.1150134Z",
-    "popularGameSortOrder": 37,
+    "popularGameSortOrder": 38,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.16062024575775308
+    "trendingRatio": 0.1479108635097493
   },
   {
     "menuGameTitle": "Arena Breakout: Infinite",
@@ -2410,7 +2452,29 @@
     "popularGameSortOrder": 1,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.4071408891265944
+    "trendingRatio": 0.12938483291065378
+  },
+  {
+    "menuGameTitle": "Metin2",
+    "gameId": "335",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "Metin2",
+    "gameGroup": null,
+    "legacyUrlId": null,
+    "imageAlt": "metin2 accounts",
+    "seoAlias": "metin2-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "Metin2",
+      "Metin 2"
+    ],
+    "createdDate": "2025-12-17T13:36:45.2166324Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false,
+    "trendingRatio": 0
   },
   {
     "menuGameTitle": "8 Ball Pool",
@@ -2537,10 +2601,10 @@
       "bo7"
     ],
     "createdDate": "2021-07-01T06:40:33.1151072Z",
-    "popularGameSortOrder": 21,
+    "popularGameSortOrder": 23,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14842348115867726
+    "trendingRatio": 0.13108614232209737
   },
   {
     "menuGameTitle": "Arc Raiders",
@@ -2586,7 +2650,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.12112763320941759
+    "trendingRatio": 0.14185905224787362
   },
   {
     "menuGameTitle": "JoJo’s Bizarre Adventure: Ora Ora Overdrive",
@@ -2704,10 +2768,10 @@
       "マイクラjava"
     ],
     "createdDate": "2021-07-01T06:40:33.1149805Z",
-    "popularGameSortOrder": 32,
+    "popularGameSortOrder": 29,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.16075778078484437
+    "trendingRatio": 0.12639405204460966
   },
   {
     "menuGameTitle": "Duet Night Abyss",
@@ -2752,10 +2816,10 @@
       "レジェンドオブリーグ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151712Z",
-    "popularGameSortOrder": 25,
+    "popularGameSortOrder": 27,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.13061733999092148
+    "trendingRatio": 0.1338205343237091
   },
   {
     "menuGameTitle": "Jailbreak",
@@ -2852,7 +2916,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15521280749707145
+    "trendingRatio": 0.14305364511691884
   },
   {
     "menuGameTitle": "Fate/Grand Order",
@@ -3012,7 +3076,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.16474843801381125
+    "trendingRatio": 0.15819750719079578
   },
   {
     "menuGameTitle": "Marvel Contest of Champions",
@@ -3063,6 +3127,29 @@
     "trendingRatio": 0
   },
   {
+    "menuGameTitle": "Last War: Survival",
+    "gameId": "279",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "Last War: Survival",
+    "gameGroup": null,
+    "legacyUrlId": null,
+    "imageAlt": "last war accounts for sale",
+    "seoAlias": "last-war-accounts-for-sale",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "Last War: Survival",
+      "Last War: Survival Game",
+      "ラストウォー：サバイバル"
+    ],
+    "createdDate": "2025-12-16T06:41:51.4907278Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false,
+    "trendingRatio": 0
+  },
+  {
     "menuGameTitle": "Netflix",
     "gameId": "255",
     "category": "Account",
@@ -3081,7 +3168,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.13577371048252912
+    "trendingRatio": 0.20168067226890757
   },
   {
     "menuGameTitle": "League of Legends: Wild Rift",
@@ -3310,7 +3397,7 @@
     "imageAlt": "raid shadow legends accounts",
     "seoAlias": "raid-shadow-legends-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": true,
+    "isPopularGame": false,
     "synonymNames": [
       "Raid: Shadow Legends",
       "レイドシャドウレジェンド",
@@ -3319,7 +3406,7 @@
       "レイドシャドウ"
     ],
     "createdDate": "2021-07-09T07:32:49.8089677Z",
-    "popularGameSortOrder": 30,
+    "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
     "trendingRatio": 0
@@ -3448,7 +3535,7 @@
     "popularGameSortOrder": 3,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.16426742029497482
+    "trendingRatio": 0.1654701150419514
   },
   {
     "menuGameTitle": "Clash of Clans",
@@ -3471,7 +3558,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0
+    "trendingRatio": 0.16906474820143885
   },
   {
     "menuGameTitle": "Hay Day",
@@ -3599,7 +3686,7 @@
     "imageAlt": "db legends accounts",
     "seoAlias": "dragon-ball-legends-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": false,
+    "isPopularGame": true,
     "synonymNames": [
       "Dragon Ball Legends",
       "DB Legends",
@@ -3608,10 +3695,10 @@
       "ドラレジェ"
     ],
     "createdDate": "2023-03-24T14:07:12.8598337Z",
-    "popularGameSortOrder": null,
+    "popularGameSortOrder": 43,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.21609579504316345
+    "trendingRatio": 0.11841734722613348
   },
   {
     "menuGameTitle": "Madoka Magica Magia Exedra",
@@ -3648,17 +3735,17 @@
     "imageAlt": "adopt me accounts",
     "seoAlias": "adopt-me-accounts-for-sale",
     "isSingleOfferGame": false,
-    "isPopularGame": false,
+    "isPopularGame": true,
     "synonymNames": [
       "Adopt Me",
       "Roblox Adopt Me",
       "アダプトミー"
     ],
     "createdDate": "2024-07-30T07:23:57.7160592Z",
-    "popularGameSortOrder": null,
+    "popularGameSortOrder": 34,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.25135776026925727
+    "trendingRatio": 0.39897907738845473
   },
   {
     "menuGameTitle": "#Compass",
@@ -3964,9 +4051,9 @@
       "レインボーシージ"
     ],
     "createdDate": "2021-07-01T06:40:33.115092Z",
-    "popularGameSortOrder": 17,
+    "popularGameSortOrder": 10,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.198989898989899
+    "trendingRatio": 0.2107805255023184
   }
 ]
