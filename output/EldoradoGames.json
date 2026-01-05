@@ -86,7 +86,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.17943648047454275
+    "trendingRatio": 0.1694036300777874
   },
   {
     "menuGameTitle": "Epic Games",
@@ -518,6 +518,28 @@
     "trendingRatio": 0
   },
   {
+    "menuGameTitle": "WolfTeam",
+    "gameId": "343",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "WolfTeam",
+    "gameGroup": null,
+    "legacyUrlId": null,
+    "imageAlt": "wolfteam accounts",
+    "seoAlias": "wolfteam-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "WolfTeam",
+      "Wolf Team"
+    ],
+    "createdDate": "2025-12-29T10:47:45.0585907Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false,
+    "trendingRatio": 0
+  },
+  {
     "menuGameTitle": "Fallout 76",
     "gameId": "22",
     "category": "Account",
@@ -629,7 +651,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.4908312958435208
+    "trendingRatio": 0.14641966512290702
   },
   {
     "menuGameTitle": "Dragon Quest X",
@@ -677,7 +699,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.26725763862693325
+    "trendingRatio": 0.2178702570379437
   },
   {
     "menuGameTitle": "Golden HoYeah",
@@ -723,7 +745,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.44086021505376344
+    "trendingRatio": 0
   },
   {
     "menuGameTitle": "Final Fantasy XIV",
@@ -773,7 +795,7 @@
     "popularGameSortOrder": 5,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.1909938638450017
+    "trendingRatio": 0.17885458652611064
   },
   {
     "menuGameTitle": "Etheria: Restart",
@@ -895,7 +917,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.18370865208490464
+    "trendingRatio": 0.17744181420330216
   },
   {
     "menuGameTitle": "Wartune Ultra",
@@ -969,7 +991,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.16988062442607896
+    "trendingRatio": 0.19625334522747548
   },
   {
     "menuGameTitle": "Millennium War Aigis",
@@ -1112,10 +1134,10 @@
       "ロケリ"
     ],
     "createdDate": "2021-07-01T06:40:33.1152239Z",
-    "popularGameSortOrder": 34,
+    "popularGameSortOrder": 38,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1647004395095998
+    "trendingRatio": 0.15421792618629174
   },
   {
     "menuGameTitle": "Jujutsu Infinite",
@@ -1279,7 +1301,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.20254357041921808
+    "trendingRatio": 0.1476890756302521
   },
   {
     "menuGameTitle": "Lost Ark",
@@ -1535,10 +1557,10 @@
       "99 Nights In The Forest"
     ],
     "createdDate": "2021-07-01T06:40:33.1149892Z",
-    "popularGameSortOrder": 10,
+    "popularGameSortOrder": 7,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.23552482882403775
+    "trendingRatio": 0.18561370954538012
   },
   {
     "menuGameTitle": "Shadowverse",
@@ -1838,10 +1860,10 @@
       "old school rs"
     ],
     "createdDate": "2021-07-01T06:40:33.1152207Z",
-    "popularGameSortOrder": 14,
+    "popularGameSortOrder": 21,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.20113544201135442
+    "trendingRatio": 0.1370909090909091
   },
   {
     "menuGameTitle": "Delta Force",
@@ -1886,7 +1908,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.17998678996036988
+    "trendingRatio": 0
   },
   {
     "menuGameTitle": "World of Tanks",
@@ -2006,10 +2028,10 @@
       "CS GO"
     ],
     "createdDate": "2021-07-01T06:40:33.1150134Z",
-    "popularGameSortOrder": 42,
+    "popularGameSortOrder": 40,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.18654923939151322
+    "trendingRatio": 0.17510817001781623
   },
   {
     "menuGameTitle": "Arena Breakout: Infinite",
@@ -2373,6 +2395,28 @@
     "trendingRatio": 0
   },
   {
+    "menuGameTitle": "Knight Online",
+    "gameId": "338",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "Knight Online",
+    "gameGroup": null,
+    "legacyUrlId": null,
+    "imageAlt": "knight online accounts",
+    "seoAlias": "knight-online-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "Knight Online",
+      "KO"
+    ],
+    "createdDate": "2025-12-29T10:25:50.6784281Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false,
+    "trendingRatio": 0
+  },
+  {
     "menuGameTitle": "EA Sports FC",
     "gameId": "142",
     "category": "Account",
@@ -2393,6 +2437,28 @@
       "FC 26"
     ],
     "createdDate": "2023-09-18T12:29:53.1882993Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false,
+    "trendingRatio": 0
+  },
+  {
+    "menuGameTitle": "Royale Online",
+    "gameId": "341",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "Royale Online",
+    "gameGroup": null,
+    "legacyUrlId": null,
+    "imageAlt": "royale online accounts",
+    "seoAlias": "royale-online-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "Royale Online",
+      "Royale Online Metin2"
+    ],
+    "createdDate": "2025-12-29T09:51:48.9318761Z",
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
@@ -2474,7 +2540,7 @@
     "popularGameSortOrder": 1,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.13829601568675762
+    "trendingRatio": 0.09411187848185783
   },
   {
     "menuGameTitle": "Metin2",
@@ -2623,10 +2689,10 @@
       "bo7"
     ],
     "createdDate": "2021-07-01T06:40:33.1151072Z",
-    "popularGameSortOrder": 27,
+    "popularGameSortOrder": 35,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15952251763429193
+    "trendingRatio": 0.14855072463768115
   },
   {
     "menuGameTitle": "Arc Raiders",
@@ -2672,7 +2738,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.23336239465271724
+    "trendingRatio": 0.15058765915768854
   },
   {
     "menuGameTitle": "JoJo’s Bizarre Adventure: Ora Ora Overdrive",
@@ -2790,10 +2856,10 @@
       "マイクラjava"
     ],
     "createdDate": "2021-07-01T06:40:33.1149805Z",
-    "popularGameSortOrder": 31,
+    "popularGameSortOrder": 34,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15875813449023862
+    "trendingRatio": 0.17339795368874528
   },
   {
     "menuGameTitle": "Duet Night Abyss",
@@ -2838,10 +2904,10 @@
       "レジェンドオブリーグ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151712Z",
-    "popularGameSortOrder": 25,
+    "popularGameSortOrder": 37,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.12892249527410207
+    "trendingRatio": 0.1386970066368685
   },
   {
     "menuGameTitle": "Jailbreak",
@@ -2938,7 +3004,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14157851912123678
+    "trendingRatio": 0.18011791014433828
   },
   {
     "menuGameTitle": "Fate/Grand Order",
@@ -3035,6 +3101,28 @@
     "trendingRatio": 0
   },
   {
+    "menuGameTitle": "Whiteout Survival",
+    "gameId": "208",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "Whiteout Survival",
+    "gameGroup": null,
+    "legacyUrlId": null,
+    "imageAlt": "whiteout survival accounts",
+    "seoAlias": "whiteout-survival-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "Whiteout Survival",
+      "ホワイトアウトサバイバル"
+    ],
+    "createdDate": "2025-12-29T11:15:04.526782Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false,
+    "trendingRatio": 0
+  },
+  {
     "menuGameTitle": "EA Sports FC Mobile",
     "gameId": "188",
     "category": "Account",
@@ -3098,7 +3186,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.18948322756119673
+    "trendingRatio": 0.1871362048894063
   },
   {
     "menuGameTitle": "Marvel Contest of Champions",
@@ -3190,7 +3278,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.30044082739911837
+    "trendingRatio": 0.19469026548672566
   },
   {
     "menuGameTitle": "League of Legends: Wild Rift",
@@ -3285,6 +3373,28 @@
     "trendingRatio": 0
   },
   {
+    "menuGameTitle": "Last Island of Survival",
+    "gameId": "342",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "Last Island of Survival",
+    "gameGroup": null,
+    "legacyUrlId": null,
+    "imageAlt": "last island of survival accounts",
+    "seoAlias": "last-island-of-survival-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "Last Island of Survival",
+      "LIOS"
+    ],
+    "createdDate": "2025-12-29T10:12:05.7645077Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false,
+    "trendingRatio": 0
+  },
+  {
     "menuGameTitle": "Project SEKAI",
     "gameId": "185",
     "category": "Account",
@@ -3353,6 +3463,28 @@
       "The Finals"
     ],
     "createdDate": "2024-01-04T10:13:24.9723301Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false,
+    "trendingRatio": 0
+  },
+  {
+    "menuGameTitle": "DarkOrbit",
+    "gameId": "344",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "DarkOrbit",
+    "gameGroup": null,
+    "legacyUrlId": null,
+    "imageAlt": "darkorbit accounts",
+    "seoAlias": "darkorbit-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "DarkOrbit",
+      "Dark Orbit"
+    ],
+    "createdDate": "2025-12-29T11:03:26.1639552Z",
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
@@ -3554,10 +3686,10 @@
       "フォトナ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151738Z",
-    "popularGameSortOrder": 3,
+    "popularGameSortOrder": 2,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.2316807738814994
+    "trendingRatio": 0.15644257703081232
   },
   {
     "menuGameTitle": "Clash of Clans",
@@ -3720,7 +3852,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.23038192312415573
+    "trendingRatio": 0.14693516264660322
   },
   {
     "menuGameTitle": "Madoka Magica Magia Exedra",
@@ -3764,10 +3896,10 @@
       "アダプトミー"
     ],
     "createdDate": "2024-07-30T07:23:57.7160592Z",
-    "popularGameSortOrder": 23,
+    "popularGameSortOrder": 28,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.3008226112634465
+    "trendingRatio": 0.1433791917454858
   },
   {
     "menuGameTitle": "#Compass",
@@ -3949,7 +4081,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1634559252772913
+    "trendingRatio": 0
   },
   {
     "menuGameTitle": "War Thunder",
@@ -3995,7 +4127,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.17785714285714285
+    "trendingRatio": 0
   },
   {
     "menuGameTitle": "Path of Exile 2",
@@ -4094,9 +4226,9 @@
       "レインボーシージ"
     ],
     "createdDate": "2021-07-01T06:40:33.115092Z",
-    "popularGameSortOrder": 11,
+    "popularGameSortOrder": 9,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.23230660710086998
+    "trendingRatio": 0.2152216161996113
   }
 ]
