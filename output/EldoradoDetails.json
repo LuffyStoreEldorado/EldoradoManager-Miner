@@ -794,7 +794,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.18304431599229287
+    "trendingRatio": 0.1797608881298036
   },
   {
     "isActive": true,
@@ -1633,6 +1633,37 @@
     "isActive": true,
     "imageLocation": null,
     "unitSystem": "1",
+    "seoMetaDescription": "Buy WolfTeam accounts on Eldorado.gg with legendary weapons and lots of boxes. Safe WolfTeam account sales with warranty and instant delivery from verified sellers.",
+    "seoTitle": "WolfTeam Accounts for Sale | Eldorado.gg",
+    "gameAccountDetailsLabels": [],
+    "tradeEnvironments": [],
+    "attributes": [],
+    "boostingCategories": [],
+    "menuGameTitle": "WolfTeam",
+    "gameId": "343",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "WolfTeam",
+    "gameGroup": null,
+    "legacyUrlId": null,
+    "imageAlt": "wolfteam accounts",
+    "seoAlias": "wolfteam-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "WolfTeam",
+      "Wolf Team"
+    ],
+    "createdDate": "2025-12-29T10:47:45.0585907Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false,
+    "trendingRatio": 0
+  },
+  {
+    "isActive": true,
+    "imageLocation": null,
+    "unitSystem": "1",
     "seoMetaDescription": "Buy Fallout 76 accounts packed with rare weapons and high levels. Safe, verified sellers and fast delivery for PC, PS4, and Xbox. Start exploring now!",
     "seoTitle": "Fallout 76 Accounts For Sale | Eldorado.gg",
     "gameAccountDetailsLabels": [],
@@ -2047,7 +2078,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.3478483606557377
+    "trendingRatio": 0.13151536071798411
   },
   {
     "isActive": true,
@@ -2113,7 +2144,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.2623690863127483
+    "trendingRatio": 0.21792870153525892
   },
   {
     "isActive": true,
@@ -4347,7 +4378,7 @@
     "popularGameSortOrder": 5,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.19408003788775752
+    "trendingRatio": 0.17675270317404954
   },
   {
     "isActive": true,
@@ -4591,7 +4622,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.18752006850048164
+    "trendingRatio": 0.17845911949685533
   },
   {
     "isActive": true,
@@ -4692,7 +4723,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.16276978417266186
+    "trendingRatio": 0.1839080459770115
   },
   {
     "isActive": true,
@@ -5345,10 +5376,10 @@
       "ロケリ"
     ],
     "createdDate": "2021-07-01T06:40:33.1152239Z",
-    "popularGameSortOrder": 38,
+    "popularGameSortOrder": 42,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.16430530164533821
+    "trendingRatio": 0.165820269375138
   },
   {
     "isActive": true,
@@ -5743,7 +5774,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1721478793377183
+    "trendingRatio": 0.14816351940236563
   },
   {
     "isActive": true,
@@ -6570,10 +6601,10 @@
       "99 Nights In The Forest"
     ],
     "createdDate": "2021-07-01T06:40:33.1149892Z",
-    "popularGameSortOrder": 7,
+    "popularGameSortOrder": 9,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.22614353944289514
+    "trendingRatio": 0.1818714696792071
   },
   {
     "isActive": true,
@@ -9142,10 +9173,10 @@
       "old school rs"
     ],
     "createdDate": "2021-07-01T06:40:33.1152207Z",
-    "popularGameSortOrder": 21,
+    "popularGameSortOrder": 24,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.18956590999601752
+    "trendingRatio": 0.13465703971119133
   },
   {
     "isActive": true,
@@ -9395,6 +9426,51 @@
         "imageLocation": null,
         "displayOrderIndex": 13,
         "childTradeEnvironments": null
+      },
+      {
+        "gameId": "329",
+        "category": "Account",
+        "id": "14",
+        "parentGameId": "329",
+        "parentCategory": "Account",
+        "parentId": null,
+        "isDefault": false,
+        "isHidden": false,
+        "name": "Race",
+        "value": "Vampire",
+        "imageLocation": null,
+        "displayOrderIndex": 14,
+        "childTradeEnvironments": null
+      },
+      {
+        "gameId": "329",
+        "category": "Account",
+        "id": "15",
+        "parentGameId": "329",
+        "parentCategory": "Account",
+        "parentId": null,
+        "isDefault": false,
+        "isHidden": false,
+        "name": "Race",
+        "value": "Felynx",
+        "imageLocation": null,
+        "displayOrderIndex": 15,
+        "childTradeEnvironments": null
+      },
+      {
+        "gameId": "329",
+        "category": "Account",
+        "id": "16",
+        "parentGameId": "329",
+        "parentCategory": "Account",
+        "parentId": null,
+        "isDefault": false,
+        "isHidden": false,
+        "name": "Race",
+        "value": "Archangel",
+        "imageLocation": null,
+        "displayOrderIndex": 16,
+        "childTradeEnvironments": null
       }
     ],
     "attributes": [],
@@ -9419,7 +9495,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.17388514597369265
+    "trendingRatio": 0.10064834825563446
   },
   {
     "isActive": true,
@@ -9984,10 +10060,10 @@
       "CS GO"
     ],
     "createdDate": "2021-07-01T06:40:33.1150134Z",
-    "popularGameSortOrder": 40,
+    "popularGameSortOrder": 43,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1837483617300131
+    "trendingRatio": 0.1734745335350479
   },
   {
     "isActive": true,
@@ -10931,6 +11007,37 @@
     "isActive": true,
     "imageLocation": null,
     "unitSystem": "1",
+    "seoMetaDescription": "Buy Knight Online accounts with high NPS characters and PvP ready builds. Instant delivery and warranty for all sales. Only on Eldorado.gg!",
+    "seoTitle": "Knight Online Accounts for Sale | Eldorado.gg",
+    "gameAccountDetailsLabels": [],
+    "tradeEnvironments": [],
+    "attributes": [],
+    "boostingCategories": [],
+    "menuGameTitle": "Knight Online",
+    "gameId": "338",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "Knight Online",
+    "gameGroup": null,
+    "legacyUrlId": null,
+    "imageAlt": "knight online accounts",
+    "seoAlias": "knight-online-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "Knight Online",
+      "KO"
+    ],
+    "createdDate": "2025-12-29T10:25:50.6784281Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false,
+    "trendingRatio": 0
+  },
+  {
+    "isActive": true,
+    "imageLocation": null,
+    "unitSystem": "1",
     "seoMetaDescription": "Buy EA Sports FC 26 Accounts. Get the cheapest Ultimate Edition accounts with bonuses. Fast delivery and 24/7 customer support available.",
     "seoTitle": "Buy EA FC 26 Accounts | FIFA 26 Accounts For Sale | Eldorado.gg",
     "gameAccountDetailsLabels": [],
@@ -11141,6 +11248,37 @@
       "FC 26"
     ],
     "createdDate": "2023-09-18T12:29:53.1882993Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false,
+    "trendingRatio": 0
+  },
+  {
+    "isActive": true,
+    "imageLocation": null,
+    "unitSystem": "1",
+    "seoMetaDescription": "Buy high level Royale Online accounts with lots of yang instantly. No more waiting for your next dream account in Royale Online. Guaranteed purchase safety with every sale.",
+    "seoTitle": "Royale Online Accounts for Sale | Eldorado.gg",
+    "gameAccountDetailsLabels": [],
+    "tradeEnvironments": [],
+    "attributes": [],
+    "boostingCategories": [],
+    "menuGameTitle": "Royale Online",
+    "gameId": "341",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "Royale Online",
+    "gameGroup": null,
+    "legacyUrlId": null,
+    "imageAlt": "royale online accounts",
+    "seoAlias": "royale-online-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "Royale Online",
+      "Royale Online Metin2"
+    ],
+    "createdDate": "2025-12-29T09:51:48.9318761Z",
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
@@ -11394,7 +11532,7 @@
     "popularGameSortOrder": 1,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.11705428676903429
+    "trendingRatio": 0.10317087361260294
   },
   {
     "isActive": true,
@@ -12248,10 +12386,10 @@
       "bo7"
     ],
     "createdDate": "2021-07-01T06:40:33.1151072Z",
-    "popularGameSortOrder": 35,
+    "popularGameSortOrder": 40,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14661654135338345
+    "trendingRatio": 0.15086820381440363
   },
   {
     "isActive": true,
@@ -12361,7 +12499,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.24706211527700056
+    "trendingRatio": 0.14125239005736137
   },
   {
     "isActive": true,
@@ -12615,10 +12753,10 @@
       "マイクラjava"
     ],
     "createdDate": "2021-07-01T06:40:33.1149805Z",
-    "popularGameSortOrder": 34,
+    "popularGameSortOrder": 31,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15890227576974564
+    "trendingRatio": 0.16937633262260127
   },
   {
     "isActive": true,
@@ -13229,7 +13367,7 @@
     "popularGameSortOrder": 37,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1333163069850594
+    "trendingRatio": 0.13867320528538346
   },
   {
     "isActive": true,
@@ -13547,7 +13685,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14481489057066885
+    "trendingRatio": 0.1877293110476967
   },
   {
     "isActive": true,
@@ -13705,6 +13843,37 @@
       "ブロスタ"
     ],
     "createdDate": "2021-07-01T06:40:33.1150839Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false,
+    "trendingRatio": 0
+  },
+  {
+    "isActive": true,
+    "imageLocation": null,
+    "unitSystem": "1",
+    "seoMetaDescription": "Whiteout Survival Accounts for sale on Eldorado.gg with SSR heroes, T1 gear and high VIP levels. Skip early grind with instant delivery of legit accounts!",
+    "seoTitle": "Whiteout Survival Accounts for Sale | Eldorado.gg",
+    "gameAccountDetailsLabels": [],
+    "tradeEnvironments": [],
+    "attributes": [],
+    "boostingCategories": [],
+    "menuGameTitle": "Whiteout Survival",
+    "gameId": "208",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "Whiteout Survival",
+    "gameGroup": null,
+    "legacyUrlId": null,
+    "imageAlt": "whiteout survival accounts",
+    "seoAlias": "whiteout-survival-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "Whiteout Survival",
+      "ホワイトアウトサバイバル"
+    ],
+    "createdDate": "2025-12-29T11:15:04.526782Z",
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
@@ -13878,7 +14047,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1689149560117302
+    "trendingRatio": 0.1773498131647025
   },
   {
     "isActive": true,
@@ -14190,7 +14359,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.24239513288504644
+    "trendingRatio": 0.13091849935316946
   },
   {
     "isActive": true,
@@ -14401,6 +14570,37 @@
     "isActive": true,
     "imageLocation": null,
     "unitSystem": "1",
+    "seoMetaDescription": "Cheap LIOS accounts for sale with max talents, legendary rifles and lots of skins. Instant delivery by trusted sellers available 24/7.",
+    "seoTitle": "Last Island of Survival Accounts for Sale | Eldorado.gg",
+    "gameAccountDetailsLabels": [],
+    "tradeEnvironments": [],
+    "attributes": [],
+    "boostingCategories": [],
+    "menuGameTitle": "Last Island of Survival",
+    "gameId": "342",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "Last Island of Survival",
+    "gameGroup": null,
+    "legacyUrlId": null,
+    "imageAlt": "last island of survival accounts",
+    "seoAlias": "last-island-of-survival-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "Last Island of Survival",
+      "LIOS"
+    ],
+    "createdDate": "2025-12-29T10:12:05.7645077Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false,
+    "trendingRatio": 0
+  },
+  {
+    "isActive": true,
+    "imageLocation": null,
+    "unitSystem": "1",
     "seoMetaDescription": "Project SEKAI Accounts for Sale with top 4-star characters & plenty of Gems. Enjoy safe transactions and 24/7 support. Elevate your rhythm game experience!",
     "seoTitle": "Project SEKAI Accounts for Sale | Buy PJSK Account | 24/7 Support",
     "gameAccountDetailsLabels": [],
@@ -14585,6 +14785,37 @@
       "The Finals"
     ],
     "createdDate": "2024-01-04T10:13:24.9723301Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false,
+    "trendingRatio": 0
+  },
+  {
+    "isActive": true,
+    "imageLocation": null,
+    "unitSystem": "1",
+    "seoMetaDescription": "DarkOrbit accounts for sale from original owners only on Eldorado.gg! Any ships, drones and upgrades together with lots of Credits, URI and Honor. Instant delivery 24/7.",
+    "seoTitle": "DarkOrbit Account for Sale | DarkOrbit Accounts | Eldorado.gg",
+    "gameAccountDetailsLabels": [],
+    "tradeEnvironments": [],
+    "attributes": [],
+    "boostingCategories": [],
+    "menuGameTitle": "DarkOrbit",
+    "gameId": "344",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "DarkOrbit",
+    "gameGroup": null,
+    "legacyUrlId": null,
+    "imageAlt": "darkorbit accounts",
+    "seoAlias": "darkorbit-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "DarkOrbit",
+      "Dark Orbit"
+    ],
+    "createdDate": "2025-12-29T11:03:26.1639552Z",
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
@@ -15303,10 +15534,10 @@
       "フォトナ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151738Z",
-    "popularGameSortOrder": 2,
+    "popularGameSortOrder": 3,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.18848531684698608
+    "trendingRatio": 0.1482451906502103
   },
   {
     "isActive": true,
@@ -15715,7 +15946,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.17277848028509024
+    "trendingRatio": 0.13569189431258397
   },
   {
     "isActive": true,
@@ -15951,10 +16182,10 @@
       "アダプトミー"
     ],
     "createdDate": "2024-07-30T07:23:57.7160592Z",
-    "popularGameSortOrder": 28,
+    "popularGameSortOrder": 35,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.2798562587342783
+    "trendingRatio": 0.14200794575380113
   },
   {
     "isActive": true,
@@ -17057,9 +17288,9 @@
       "レインボーシージ"
     ],
     "createdDate": "2021-07-01T06:40:33.115092Z",
-    "popularGameSortOrder": 9,
+    "popularGameSortOrder": 7,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1567325624766878
+    "trendingRatio": 0.20820990266610243
   }
 ]
