@@ -59,24 +59,6 @@ async function fetchGameDetails(gameId) {
 	}
 }
 
-async function fetchGameTags(gameId) {
-	const url = `${config.url}/${gameId}/Account/filters/`;
-	try {
-		const response = await fetch(url);
-		if (!response.ok) {
-			console.error(
-				messages.fetchTagsError(gameId, response.status, response.statusText),
-			);
-			return null;
-		}
-		const data = await response.json();
-		return { gameId, tags: data };
-	} catch (error) {
-		console.error(messages.fetchErrorGeneric(gameId), error);
-		return null;
-	}
-}
-
 async function runFetchGames() {
 	await ensureDir(OUTPUT_DIR);
 
@@ -154,58 +136,6 @@ async function runFetchDetails() {
 	}
 }
 
-async function runFetchTags() {
-	await ensureDir(OUTPUT_DIR);
-
-	let initialGamesData;
-	const gamesFilePath = `${OUTPUT_DIR}/${config.games.name}`;
-	try {
-		const gamesContent = await fs.readFile(gamesFilePath, { encoding: "utf8" });
-		initialGamesData = JSON.parse(gamesContent);
-	} catch (_error) {
-		console.error(messages.couldNotReadGamesFile(gamesFilePath));
-		process.exit(1);
-	}
-
-	const gameIds = initialGamesData
-		.map((game) => game.gameId)
-		.filter((id) => id);
-	if (gameIds.length === 0) {
-		console.log(messages.noGameIdsForFetch("tags"));
-		return;
-	}
-
-	console.log(messages.fetchTagsStart);
-	const allTags = [];
-	const batchSize = config.tags.batchSize;
-
-	for (let i = 0; i < gameIds.length; i += batchSize) {
-		const batch = gameIds.slice(i, i + batchSize);
-		const currentBatchNum = Math.floor(i / batchSize) + 1;
-		const totalBatches = Math.ceil(gameIds.length / batchSize);
-		console.log(messages.processingBatch(currentBatchNum, totalBatches, batch));
-
-		const batchPromises = batch.map((gameId) => fetchGameTags(gameId));
-		const results = await Promise.all(batchPromises);
-		allTags.push(...results.filter((tag) => tag !== null));
-
-		if (i + batchSize < gameIds.length) {
-			const delayMinutes = config.tags.batchDelayMs / (60 * 1000);
-			console.log(messages.batchCompleteWaiting(delayMinutes));
-			await delay(config.tags.batchDelayMs);
-		}
-	}
-
-	const tagsFilePath = `${OUTPUT_DIR}/${config.tags.name}`;
-	try {
-		await fs.writeFile(tagsFilePath, JSON.stringify(allTags, null, 2));
-		console.log(messages.tagsSaveSuccess(allTags.length, tagsFilePath));
-	} catch (error) {
-		console.error(messages.tagsSaveError(tagsFilePath), error);
-		process.exit(1);
-	}
-}
-
 async function main() {
 	const args = process.argv.slice(2);
 	const command = args[0];
@@ -217,9 +147,6 @@ async function main() {
 				break;
 			case "details":
 				await runFetchDetails();
-				break;
-			case "tags":
-				await runFetchTags();
 				break;
 			default:
 				console.error(

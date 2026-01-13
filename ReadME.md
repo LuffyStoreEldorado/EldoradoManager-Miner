@@ -10,8 +10,6 @@ This project focuses on extracting **Account** game listing data from Eldorado.g
 
 * **Detailed Offer Information**: Granular details for each account offer, including `tradeEnvironments` and `attributes`.
 
-* **Offer Tags**: Associated tags for each account offer, providing categorization and features.
-
 * **API Definition**: The project also includes a script to fetch and save the latest seller API definition (`swagger.json`), which details endpoints for managing offers, orders, and notifications.
 
 ## How it Works 🛠️
