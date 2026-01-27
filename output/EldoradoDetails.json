@@ -761,7 +761,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1456032719836401
+    "trendingRatio": 0.20318887980376124
   },
   {
     "isActive": true,
@@ -1087,7 +1087,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.5700431034482759
+    "trendingRatio": 0.2192090395480226
   },
   {
     "isActive": true,
@@ -2009,7 +2009,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.11306209850107066
+    "trendingRatio": 0
   },
   {
     "isActive": true,
@@ -2041,7 +2041,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.12588800668616798
+    "trendingRatio": 0.1639111950873878
   },
   {
     "isActive": true,
@@ -2805,10 +2805,10 @@
       "ヴァロ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151106Z",
-    "popularGameSortOrder": 7,
+    "popularGameSortOrder": 6,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.14371649547816834
+    "trendingRatio": 0.181191088260497
   },
   {
     "isActive": true,
@@ -2973,17 +2973,17 @@
     "imageAlt": "discord accounts",
     "seoAlias": "discord-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": false,
+    "isPopularGame": true,
     "synonymNames": [
       "Discord",
       "DC",
       "ディスコード"
     ],
     "createdDate": "2025-05-20T06:42:45.9371342Z",
-    "popularGameSortOrder": null,
+    "popularGameSortOrder": 40,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.14454855195911415
+    "trendingRatio": 0.15234881910199843
   },
   {
     "isActive": true,
@@ -3014,6 +3014,38 @@
     "filterGroups": [],
     "isHighRisk": false,
     "trendingRatio": 0
+  },
+  {
+    "isActive": true,
+    "imageLocation": null,
+    "unitSystem": "1",
+    "seoMetaDescription": "Cheap Arknights Endfield Accounts with instant delivery! Get any account of your choice, from cheap reroll accounts to stacked Arknights Endfield whale accounts fast!",
+    "seoTitle": "Buy Arknights Endfield Account | Eldorado.gg",
+    "gameAccountDetailsLabels": [],
+    "tradeEnvironments": [],
+    "attributes": [],
+    "boostingCategories": [],
+    "menuGameTitle": "Arknights: Endfield",
+    "gameId": "358",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "Arknights: Endfield",
+    "gameGroup": null,
+    "legacyUrlId": null,
+    "imageAlt": "arknights endfield accounts",
+    "seoAlias": "arknights-endfield-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "Arknights: Endfield",
+      "アークナイツ:エンドフィールド",
+      "アークナイツ エンドフィールド"
+    ],
+    "createdDate": "2026-01-19T09:59:33.1335884Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false,
+    "trendingRatio": 6.865671641791045
   },
   {
     "isActive": true,
@@ -3084,7 +3116,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.166189111747851
+    "trendingRatio": 0.15669291338582678
   },
   {
     "isActive": true,
@@ -3668,10 +3700,10 @@
       "ロケリ"
     ],
     "createdDate": "2021-07-01T06:40:33.1152239Z",
-    "popularGameSortOrder": 35,
+    "popularGameSortOrder": 24,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.17991300909450375
+    "trendingRatio": 0.19477693144722524
   },
   {
     "isActive": true,
@@ -4033,13 +4065,13 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1315136476426799
+    "trendingRatio": 0.2348097671777399
   },
   {
     "isActive": true,
     "imageLocation": null,
     "unitSystem": "1",
-    "seoMetaDescription": "Buy Genshin Impact accounts with top characters like Mavuika & Skirk! Safe transactions, fast delivery, and verified sellers. Start your adventure today!",
+    "seoMetaDescription": "Buy Genshin Impact accounts with top characters like Mavuika & Columbina! Safe transactions, fast delivery, and verified sellers. Start your adventure today!",
     "seoTitle": "Genshin Impact Accounts For Sale | Eldorado.gg",
     "gameAccountDetailsLabels": [],
     "tradeEnvironments": [
@@ -4116,7 +4148,7 @@
     "imageAlt": "genshin impacts",
     "seoAlias": "genshin-impact-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": true,
+    "isPopularGame": false,
     "synonymNames": [
       "Genshin Impact",
       "原神",
@@ -4125,10 +4157,10 @@
       "げんしんインパクト"
     ],
     "createdDate": "2021-07-01T06:40:33.1151004Z",
-    "popularGameSortOrder": 41,
+    "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.26430348258706465
+    "trendingRatio": 0.16550695825049702
   },
   {
     "isActive": true,
@@ -4587,7 +4619,7 @@
     "popularGameSortOrder": 12,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1335197051037827
+    "trendingRatio": 0.1440901395942608
   },
   {
     "isActive": true,
@@ -4655,7 +4687,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0
+    "trendingRatio": 0.19798868636077938
   },
   {
     "isActive": true,
@@ -4819,6 +4851,36 @@
       "Blood Strike"
     ],
     "createdDate": "2025-08-21T08:56:55.9651253Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false,
+    "trendingRatio": 0
+  },
+  {
+    "isActive": true,
+    "imageLocation": null,
+    "unitSystem": "1",
+    "seoMetaDescription": "Get early access accounts for Hytale much cheaper! Guaranteed beta access accounts with instant delivery from legit sellers with warranty, only on Eldorado.gg!",
+    "seoTitle": "Hytale Early Access Accounts for Sale | Eldorado.gg",
+    "gameAccountDetailsLabels": [],
+    "tradeEnvironments": [],
+    "attributes": [],
+    "boostingCategories": [],
+    "menuGameTitle": "Hytale",
+    "gameId": "363",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "Hytale",
+    "gameGroup": null,
+    "legacyUrlId": null,
+    "imageAlt": "hytale account",
+    "seoAlias": "hytale-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "Hytale"
+    ],
+    "createdDate": "2026-01-26T09:11:08.7630576Z",
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
@@ -7117,10 +7179,10 @@
       "old school rs"
     ],
     "createdDate": "2021-07-01T06:40:33.1152207Z",
-    "popularGameSortOrder": 17,
+    "popularGameSortOrder": 16,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14048964218455745
+    "trendingRatio": 0.20750293083235638
   },
   {
     "isActive": true,
@@ -7971,10 +8033,10 @@
       "CS GO"
     ],
     "createdDate": "2021-07-01T06:40:33.1150134Z",
-    "popularGameSortOrder": 40,
+    "popularGameSortOrder": 41,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15689244752218134
+    "trendingRatio": 0.18812745525971192
   },
   {
     "isActive": true,
@@ -9348,9 +9410,41 @@
   },
   {
     "isActive": true,
+    "imageLocation": null,
+    "unitSystem": "1",
+    "seoMetaDescription": "Best Aion 2 Account Marketplace with Instant delivery! Get any account of your choice fast in any server, including KR and TW. Only legit account offers!",
+    "seoTitle": "Buy Aion 2 Account | Aion 2 Accounts for Sale | Eldorado.gg",
+    "gameAccountDetailsLabels": [],
+    "tradeEnvironments": [],
+    "attributes": [],
+    "boostingCategories": [],
+    "menuGameTitle": "Aion 2",
+    "gameId": "360",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "Aion 2",
+    "gameGroup": null,
+    "legacyUrlId": null,
+    "imageAlt": "aion 2 accounts",
+    "seoAlias": "aion-2-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "Aion 2",
+      "AION2",
+      "アイオン2"
+    ],
+    "createdDate": "2026-01-20T07:04:19.2167339Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false,
+    "trendingRatio": 0
+  },
+  {
+    "isActive": true,
     "imageLocation": "gta5-default",
     "unitSystem": "1",
-    "seoMetaDescription": "GTA 5 accounts with billions, unique cars, and max stats. Instant delivery and 24/7 support for PC, PlayStation and Xbox",
+    "seoMetaDescription": "GTA 5 accounts with billions, unique cars, and max stats. Instant delivery and 24/7 support for PC, PlayStation and Xbox.",
     "seoTitle": "Buy GTA 5 Accounts Cheap and Safe | Eldorado.gg",
     "gameAccountDetailsLabels": [],
     "tradeEnvironments": [
@@ -9474,7 +9568,7 @@
     "popularGameSortOrder": 1,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.12608480914414733
+    "trendingRatio": 0.150749063670412
   },
   {
     "isActive": true,
@@ -10328,10 +10422,10 @@
       "bo7"
     ],
     "createdDate": "2021-07-01T06:40:33.1151072Z",
-    "popularGameSortOrder": 33,
+    "popularGameSortOrder": 34,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.16283863368669022
+    "trendingRatio": 0.17800729040097205
   },
   {
     "isActive": true,
@@ -10362,7 +10456,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.3011093502377179
+    "trendingRatio": 0.18703919285991463
   },
   {
     "isActive": true,
@@ -10441,7 +10535,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.11878787878787879
+    "trendingRatio": 0.19060442848593656
   },
   {
     "isActive": true,
@@ -10695,10 +10789,10 @@
       "マイクラjava"
     ],
     "createdDate": "2021-07-01T06:40:33.1149805Z",
-    "popularGameSortOrder": 34,
+    "popularGameSortOrder": 37,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.16976252057371266
+    "trendingRatio": 0.15865163368614818
   },
   {
     "isActive": true,
@@ -11306,10 +11400,10 @@
       "レジェンドオブリーグ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151712Z",
-    "popularGameSortOrder": 37,
+    "popularGameSortOrder": 27,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14905687136576373
+    "trendingRatio": 0.1887347625052543
   },
   {
     "isActive": true,
@@ -11627,7 +11721,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1713293106600841
+    "trendingRatio": 0.15935334872979215
   },
   {
     "isActive": true,
@@ -11989,7 +12083,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.21353006681514478
+    "trendingRatio": 0.15192255982791072
   },
   {
     "isActive": true,
@@ -12301,7 +12395,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.13645390070921987
+    "trendingRatio": 0.1680820948336872
   },
   {
     "isActive": true,
@@ -13010,7 +13104,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0
+    "trendingRatio": 0.3175470552519733
   },
   {
     "isActive": true,
@@ -13314,16 +13408,16 @@
       "フォトナ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151738Z",
-    "popularGameSortOrder": 3,
+    "popularGameSortOrder": 4,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.12057877813504823
+    "trendingRatio": 0.1412142284033164
   },
   {
     "isActive": true,
     "imageLocation": null,
     "unitSystem": "1",
-    "seoMetaDescription": "Buy Clash of Clans accounts, including maxed TH17 bases! Safe transactions, fast delivery & 24/7 support from trusted sellers. Upgrade your village now!",
+    "seoMetaDescription": "Buy Clash of Clans accounts, including maxed TH18 bases! Safe transactions, fast delivery & 24/7 support from trusted sellers. Upgrade your village now!",
     "seoTitle": "Clash of Clans Accounts For Sale | Eldorado.gg",
     "gameAccountDetailsLabels": [],
     "tradeEnvironments": [],
@@ -13355,7 +13449,7 @@
     "isActive": true,
     "imageLocation": null,
     "unitSystem": "1",
-    "seoMetaDescription": "Buy Hay Day accounts with max barn & silo! Trusted by 2.7M+ orders, 4.9/5 ratings. Cheap accounts with tons of coins, fast delivery & secure payments.",
+    "seoMetaDescription": "Buy Hay Day accounts with max barn & silo! Trusted by 4.7M+ orders, 4.9/5 ratings. Cheap accounts with tons of coins, fast delivery & secure payments.",
     "seoTitle": "Hay Day Accounts For Sale | Eldorado.gg",
     "gameAccountDetailsLabels": [],
     "tradeEnvironments": [],
@@ -13603,7 +13697,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.08196943054240498
+    "trendingRatio": 0.07616438356164383
   },
   {
     "isActive": true,
@@ -13778,7 +13872,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.149446364341632
+    "trendingRatio": 0.16584311303273624
   },
   {
     "isActive": true,
@@ -14294,7 +14388,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.17956819378620326
+    "trendingRatio": 0.18728266269249877
   },
   {
     "isActive": true,
@@ -14853,6 +14947,6 @@
     "popularGameSortOrder": 9,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14535137494543868
+    "trendingRatio": 0.1890191097511691
   }
 ]
