@@ -761,7 +761,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.20318887980376124
+    "trendingRatio": 0.1930879038317055
   },
   {
     "isActive": true,
@@ -1087,7 +1087,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.2192090395480226
+    "trendingRatio": 0
   },
   {
     "isActive": true,
@@ -2009,7 +2009,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0
+    "trendingRatio": 0.20660146699266504
   },
   {
     "isActive": true,
@@ -2041,7 +2041,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1639111950873878
+    "trendingRatio": 0.17869117099217682
   },
   {
     "isActive": true,
@@ -2805,10 +2805,10 @@
       "ヴァロ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151106Z",
-    "popularGameSortOrder": 6,
+    "popularGameSortOrder": 4,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.181191088260497
+    "trendingRatio": 0.17454002983590253
   },
   {
     "isActive": true,
@@ -2958,7 +2958,7 @@
     "imageLocation": null,
     "unitSystem": "1",
     "seoMetaDescription": "Discord Accounts for Sale available 24/7. Aged, bulk and early supporter DC accounts with instant delivery and top-notch customer support.",
-    "seoTitle": "Buy Discord Accounts | Aged Discount Accounts | Eldorado.gg",
+    "seoTitle": "Buy Discord Accounts | Aged Discord Accounts | Eldorado.gg",
     "gameAccountDetailsLabels": [],
     "tradeEnvironments": [],
     "attributes": [],
@@ -2973,17 +2973,17 @@
     "imageAlt": "discord accounts",
     "seoAlias": "discord-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": true,
+    "isPopularGame": false,
     "synonymNames": [
       "Discord",
       "DC",
       "ディスコード"
     ],
     "createdDate": "2025-05-20T06:42:45.9371342Z",
-    "popularGameSortOrder": 40,
+    "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.15234881910199843
+    "trendingRatio": 0.16853932584269662
   },
   {
     "isActive": true,
@@ -3045,7 +3045,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 6.865671641791045
+    "trendingRatio": 0.31373989713445993
   },
   {
     "isActive": true,
@@ -3116,7 +3116,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15669291338582678
+    "trendingRatio": 0.1654810932235118
   },
   {
     "isActive": true,
@@ -3700,10 +3700,10 @@
       "ロケリ"
     ],
     "createdDate": "2021-07-01T06:40:33.1152239Z",
-    "popularGameSortOrder": 24,
+    "popularGameSortOrder": 26,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.19477693144722524
+    "trendingRatio": 0.1810593900481541
   },
   {
     "isActive": true,
@@ -4065,7 +4065,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.2348097671777399
+    "trendingRatio": 0.2038036494474428
   },
   {
     "isActive": true,
@@ -4160,7 +4160,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.16550695825049702
+    "trendingRatio": 0.1480658070253446
   },
   {
     "isActive": true,
@@ -4616,10 +4616,10 @@
       "99 Nights In The Forest"
     ],
     "createdDate": "2021-07-01T06:40:33.1149892Z",
-    "popularGameSortOrder": 12,
+    "popularGameSortOrder": 13,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1440901395942608
+    "trendingRatio": 0.1715873774802773
   },
   {
     "isActive": true,
@@ -4687,7 +4687,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.19798868636077938
+    "trendingRatio": 0.1800262812089356
   },
   {
     "isActive": true,
@@ -7179,10 +7179,10 @@
       "old school rs"
     ],
     "createdDate": "2021-07-01T06:40:33.1152207Z",
-    "popularGameSortOrder": 16,
+    "popularGameSortOrder": 15,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.20750293083235638
+    "trendingRatio": 0.17274939172749393
   },
   {
     "isActive": true,
@@ -8033,10 +8033,10 @@
       "CS GO"
     ],
     "createdDate": "2021-07-01T06:40:33.1150134Z",
-    "popularGameSortOrder": 41,
+    "popularGameSortOrder": 34,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.18812745525971192
+    "trendingRatio": 0.1882591093117409
   },
   {
     "isActive": true,
@@ -9568,7 +9568,7 @@
     "popularGameSortOrder": 1,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.150749063670412
+    "trendingRatio": 0.151020770066278
   },
   {
     "isActive": true,
@@ -9630,7 +9630,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0
+    "trendingRatio": 0.2163289630512515
   },
   {
     "isActive": true,
@@ -9666,7 +9666,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0
+    "trendingRatio": 0.35870384325546345
   },
   {
     "isActive": true,
@@ -9750,7 +9750,7 @@
     "isActive": true,
     "imageLocation": null,
     "unitSystem": "1",
-    "seoMetaDescription": "Buy Cheap Stacked Grow a Garden accounts with millions of Sheckles, Divine Pets, Gears and Seeds. Instant delivery 24/7.",
+    "seoMetaDescription": "Buy Cheap Stacked Grow a Garden accounts with lots of Tokens, Divine Pets, Gears and Seeds. Instant delivery 24/7.",
     "seoTitle": "Grow a Garden Roblox Accounts for Sale | Eldorado.gg",
     "gameAccountDetailsLabels": [],
     "tradeEnvironments": [],
@@ -10422,10 +10422,10 @@
       "bo7"
     ],
     "createdDate": "2021-07-01T06:40:33.1151072Z",
-    "popularGameSortOrder": 34,
+    "popularGameSortOrder": 33,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.17800729040097205
+    "trendingRatio": 0.2399886395910253
   },
   {
     "isActive": true,
@@ -10447,16 +10447,16 @@
     "imageAlt": "arc raiders accounts",
     "seoAlias": "arc-raiders-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": false,
+    "isPopularGame": true,
     "synonymNames": [
       "Arc Raiders",
       "アークレイダース"
     ],
     "createdDate": "2025-10-29T08:59:16.4355169Z",
-    "popularGameSortOrder": null,
+    "popularGameSortOrder": 42,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.18703919285991463
+    "trendingRatio": 0.19029495718363462
   },
   {
     "isActive": true,
@@ -10535,7 +10535,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.19060442848593656
+    "trendingRatio": 0.1764870148003351
   },
   {
     "isActive": true,
@@ -10789,10 +10789,10 @@
       "マイクラjava"
     ],
     "createdDate": "2021-07-01T06:40:33.1149805Z",
-    "popularGameSortOrder": 37,
+    "popularGameSortOrder": 38,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15865163368614818
+    "trendingRatio": 0.16330737517178195
   },
   {
     "isActive": true,
@@ -11400,10 +11400,10 @@
       "レジェンドオブリーグ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151712Z",
-    "popularGameSortOrder": 27,
+    "popularGameSortOrder": 24,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1887347625052543
+    "trendingRatio": 0.17794845092423847
   },
   {
     "isActive": true,
@@ -11721,7 +11721,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15935334872979215
+    "trendingRatio": 0.16402396053558843
   },
   {
     "isActive": true,
@@ -12083,7 +12083,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15192255982791072
+    "trendingRatio": 0.191511658370448
   },
   {
     "isActive": true,
@@ -12395,7 +12395,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.1680820948336872
+    "trendingRatio": 0.19649248389405868
   },
   {
     "isActive": true,
@@ -12600,7 +12600,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0
+    "trendingRatio": 0.1992161985630307
   },
   {
     "isActive": true,
@@ -13104,7 +13104,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.3175470552519733
+    "trendingRatio": 0.23011505752876438
   },
   {
     "isActive": true,
@@ -13408,10 +13408,10 @@
       "フォトナ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151738Z",
-    "popularGameSortOrder": 4,
+    "popularGameSortOrder": 3,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.1412142284033164
+    "trendingRatio": 0.18306327160493827
   },
   {
     "isActive": true,
@@ -13443,7 +13443,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0
+    "trendingRatio": 0.21573604060913706
   },
   {
     "isActive": true,
@@ -13697,7 +13697,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.07616438356164383
+    "trendingRatio": 0.182062966031483
   },
   {
     "isActive": true,
@@ -13872,7 +13872,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.16584311303273624
+    "trendingRatio": 0.28130401382753983
   },
   {
     "isActive": true,
@@ -14388,7 +14388,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.18728266269249877
+    "trendingRatio": 0.18262411347517732
   },
   {
     "isActive": true,
@@ -14944,9 +14944,9 @@
       "レインボーシージ"
     ],
     "createdDate": "2021-07-01T06:40:33.115092Z",
-    "popularGameSortOrder": 9,
+    "popularGameSortOrder": 10,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1890191097511691
+    "trendingRatio": 0.19064493267186391
   }
 ]
