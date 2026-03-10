@@ -761,7 +761,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.13879660391288298
+    "trendingRatio": 0.1493880489560835
   },
   {
     "isActive": true,
@@ -1432,7 +1432,7 @@
   },
   {
     "isActive": true,
-    "imageLocation": null,
+    "imageLocation": "crunchyroll-default",
     "unitSystem": "1",
     "seoMetaDescription": "Buy Crunchyroll Accounts with active subscriptions. Watch your favorite anime cheaper! Instant delivery from verified sellers.",
     "seoTitle": "Buy Crunchyroll Account | Crunchyroll Accounts for Sale | Eldorado.gg",
@@ -1697,7 +1697,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0
+    "trendingRatio": 0.18328141225337488
   },
   {
     "isActive": true,
@@ -2039,7 +2039,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15687910712423073
+    "trendingRatio": 0.15087538619979401
   },
   {
     "isActive": true,
@@ -2806,7 +2806,7 @@
     "popularGameSortOrder": 6,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.15838956706346197
+    "trendingRatio": 0.15571560622400246
   },
   {
     "isActive": true,
@@ -2981,7 +2981,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.1615339540334657
+    "trendingRatio": 0.15959608030592734
   },
   {
     "isActive": true,
@@ -3114,7 +3114,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.16282018767435963
+    "trendingRatio": 0.17035852934459922
   },
   {
     "isActive": true,
@@ -3698,10 +3698,10 @@
       "ロケリ"
     ],
     "createdDate": "2021-07-01T06:40:33.1152239Z",
-    "popularGameSortOrder": 23,
+    "popularGameSortOrder": 26,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.19567880610312952
+    "trendingRatio": 0.14086528603649784
   },
   {
     "isActive": true,
@@ -4063,7 +4063,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1721410146173689
+    "trendingRatio": 0.1662346079066753
   },
   {
     "isActive": true,
@@ -4158,7 +4158,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.19862000985707245
+    "trendingRatio": 0.15603487838458008
   },
   {
     "isActive": true,
@@ -4586,7 +4586,7 @@
     "popularGameSortOrder": 12,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.2051186943620178
+    "trendingRatio": 0.1507079238744958
   },
   {
     "isActive": true,
@@ -4718,6 +4718,37 @@
       "七つの大罪グラクロ"
     ],
     "createdDate": "2024-02-12T12:24:09.4969115Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false,
+    "trendingRatio": 0
+  },
+  {
+    "isActive": true,
+    "imageLocation": null,
+    "unitSystem": "1",
+    "seoMetaDescription": "Buy CHEAP BGMI ACCOUNTS with high popularity, lots of weapon skins, supercars, ultimate & mythic sets. Thousands of accounts with instant delivery!",
+    "seoTitle": "BGMI Account for Sale | Buy BGMI ID | Eldorado.gg",
+    "gameAccountDetailsLabels": [],
+    "tradeEnvironments": [],
+    "attributes": [],
+    "boostingCategories": [],
+    "menuGameTitle": "BGMI",
+    "gameId": "382",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "BGMI",
+    "gameGroup": null,
+    "legacyUrlId": null,
+    "imageAlt": "bgmi accounts",
+    "seoAlias": "bgmi-accounts-for-sale",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "BGMI",
+      "Battlegrounds Mobile India Accounts"
+    ],
+    "createdDate": "2026-03-03T09:40:18.4054331Z",
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
@@ -7111,10 +7142,10 @@
       "old school rs"
     ],
     "createdDate": "2021-07-01T06:40:33.1152207Z",
-    "popularGameSortOrder": 24,
+    "popularGameSortOrder": 17,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14222932481022774
+    "trendingRatio": 0.15625
   },
   {
     "isActive": true,
@@ -7955,7 +7986,7 @@
     "imageAlt": "CS2 Accounts For Sale",
     "seoAlias": "cs2-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": false,
+    "isPopularGame": true,
     "synonymNames": [
       "Counter-Strike 2",
       "cs2",
@@ -7965,10 +7996,10 @@
       "CS GO"
     ],
     "createdDate": "2021-07-01T06:40:33.1150134Z",
-    "popularGameSortOrder": null,
+    "popularGameSortOrder": 39,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.13453061224489796
+    "trendingRatio": 0.1313588850174216
   },
   {
     "isActive": true,
@@ -8871,7 +8902,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.2145748987854251
+    "trendingRatio": 0.23552696684809502
   },
   {
     "isActive": true,
@@ -9184,7 +9215,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15773660490736105
+    "trendingRatio": 0
   },
   {
     "isActive": true,
@@ -9495,10 +9526,10 @@
       "GTA 5 Legacy"
     ],
     "createdDate": "2021-07-01T06:40:33.1151231Z",
-    "popularGameSortOrder": 2,
+    "popularGameSortOrder": 1,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.16852540272614622
+    "trendingRatio": 0.1412347217894117
   },
   {
     "isActive": true,
@@ -9560,7 +9591,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0
+    "trendingRatio": 0.1627689429373246
   },
   {
     "isActive": true,
@@ -10352,10 +10383,10 @@
       "bo7"
     ],
     "createdDate": "2021-07-01T06:40:33.1151072Z",
-    "popularGameSortOrder": 19,
+    "popularGameSortOrder": 22,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1797203746436813
+    "trendingRatio": 0.15790874018890516
   },
   {
     "isActive": true,
@@ -10386,11 +10417,11 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1378492802709568
+    "trendingRatio": 0.12556580050293378
   },
   {
     "isActive": true,
-    "imageLocation": null,
+    "imageLocation": "fh5-default",
     "unitSystem": "1",
     "seoMetaDescription": "Buy Forza Horizon 5 accounts with maxed-out features. Get instant delivery, great prices, and modded accounts from trusted sellers.",
     "seoTitle": "Forza Horizon 5 Modded Accounts For Sale | Eldorado.gg",
@@ -10465,7 +10496,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.13554392088423503
+    "trendingRatio": 0.14358647096362476
   },
   {
     "isActive": true,
@@ -10677,7 +10708,7 @@
     "imageAlt": "minecraft accounts",
     "seoAlias": "minecraft-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": true,
+    "isPopularGame": false,
     "synonymNames": [
       "Minecraft",
       "MC",
@@ -10686,10 +10717,10 @@
       "マイクラjava"
     ],
     "createdDate": "2021-07-01T06:40:33.1149805Z",
-    "popularGameSortOrder": 38,
+    "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.172318657316933
+    "trendingRatio": 0.15172947286993038
   },
   {
     "isActive": true,
@@ -11297,10 +11328,10 @@
       "レジェンドオブリーグ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151712Z",
-    "popularGameSortOrder": 25,
+    "popularGameSortOrder": 23,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15242699289660616
+    "trendingRatio": 0.16165671203368256
   },
   {
     "isActive": true,
@@ -11615,10 +11646,10 @@
       "ウォッチオーバー"
     ],
     "createdDate": "2021-07-01T06:40:33.1151205Z",
-    "popularGameSortOrder": 37,
+    "popularGameSortOrder": 35,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.18521107072966173
+    "trendingRatio": 0.17707924034053701
   },
   {
     "isActive": true,
@@ -11720,6 +11751,37 @@
     "isActive": true,
     "imageLocation": null,
     "unitSystem": "1",
+    "seoMetaDescription": "Buy cheap Disney Plus at Eldorado.gg and enjoy 4K movie quality ad-free. Guaranteed working accounts from legit suppliers available 24/7 with instant delivery!",
+    "seoTitle": "Cheap Disney Plus | Eldorado.gg",
+    "gameAccountDetailsLabels": [],
+    "tradeEnvironments": [],
+    "attributes": [],
+    "boostingCategories": [],
+    "menuGameTitle": "Disney+",
+    "gameId": "383",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "Disney+",
+    "gameGroup": null,
+    "legacyUrlId": null,
+    "imageAlt": "cheap disney plus",
+    "seoAlias": "cheap-disney-plus",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "Disney+",
+      "ディズニープラス"
+    ],
+    "createdDate": "2026-03-05T07:24:22.4910168Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false,
+    "trendingRatio": 0
+  },
+  {
+    "isActive": true,
+    "imageLocation": null,
+    "unitSystem": "1",
     "seoMetaDescription": "ASTD X Accounts for Sale with lots of gems, trait burners and meta units. Instant delivery and cheapest prices available 24/7 on Eldorado.gg!",
     "seoTitle": "ASTD X Accounts for Sale | Eldorado.gg",
     "gameAccountDetailsLabels": [],
@@ -11779,7 +11841,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.273972602739726
+    "trendingRatio": 0.19385474860335195
   },
   {
     "isActive": true,
@@ -11980,7 +12042,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14824120603015076
+    "trendingRatio": 0.1456430510984942
   },
   {
     "isActive": true,
@@ -12292,7 +12354,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.19123606889564337
+    "trendingRatio": 0.1828638497652582
   },
   {
     "isActive": true,
@@ -12388,7 +12450,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0
+    "trendingRatio": 0.21230982019363762
   },
   {
     "isActive": true,
@@ -12497,7 +12559,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1497005988023952
+    "trendingRatio": 0.14450312049927988
   },
   {
     "isActive": true,
@@ -13001,7 +13063,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.19346171070309
+    "trendingRatio": 0.20940695296523518
   },
   {
     "isActive": true,
@@ -13305,10 +13367,10 @@
       "フォトナ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151738Z",
-    "popularGameSortOrder": 5,
+    "popularGameSortOrder": 4,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.19235744850233855
+    "trendingRatio": 0.15429928741092636
   },
   {
     "isActive": true,
@@ -13594,7 +13656,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.10007251631617115
+    "trendingRatio": 0.08967096540918404
   },
   {
     "isActive": true,
@@ -13766,10 +13828,10 @@
       "アダプトミー"
     ],
     "createdDate": "2024-07-30T07:23:57.7160592Z",
-    "popularGameSortOrder": 17,
+    "popularGameSortOrder": 20,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.3533800748495902
+    "trendingRatio": 0.12598823714200946
   },
   {
     "isActive": true,
@@ -14285,7 +14347,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.17354675652906487
+    "trendingRatio": 0.17430813713341595
   },
   {
     "isActive": true,
@@ -14841,9 +14903,9 @@
       "レインボーシージ"
     ],
     "createdDate": "2021-07-01T06:40:33.115092Z",
-    "popularGameSortOrder": 7,
+    "popularGameSortOrder": 5,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.17928434911870886
+    "trendingRatio": 0.17079511453377152
   }
 ]
