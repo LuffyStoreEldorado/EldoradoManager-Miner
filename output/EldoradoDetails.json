@@ -761,7 +761,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1493880489560835
+    "trendingRatio": 0.13733075435203096
   },
   {
     "isActive": true,
@@ -1697,7 +1697,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.18328141225337488
+    "trendingRatio": 0
   },
   {
     "isActive": true,
@@ -2039,7 +2039,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15087538619979401
+    "trendingRatio": 0.13779872834904627
   },
   {
     "isActive": true,
@@ -2803,10 +2803,10 @@
       "ヴァロ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151106Z",
-    "popularGameSortOrder": 6,
+    "popularGameSortOrder": 5,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.15571560622400246
+    "trendingRatio": 0.15913291236716465
   },
   {
     "isActive": true,
@@ -2981,7 +2981,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.15959608030592734
+    "trendingRatio": 0.14861605604685885
   },
   {
     "isActive": true,
@@ -3114,7 +3114,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.17035852934459922
+    "trendingRatio": 0.15703735881841877
   },
   {
     "isActive": true,
@@ -3698,10 +3698,10 @@
       "ロケリ"
     ],
     "createdDate": "2021-07-01T06:40:33.1152239Z",
-    "popularGameSortOrder": 26,
+    "popularGameSortOrder": 25,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14086528603649784
+    "trendingRatio": 0.14742300772568526
   },
   {
     "isActive": true,
@@ -4063,7 +4063,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1662346079066753
+    "trendingRatio": 0.1582977207977208
   },
   {
     "isActive": true,
@@ -4158,7 +4158,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15603487838458008
+    "trendingRatio": 0.14316892186817984
   },
   {
     "isActive": true,
@@ -4583,10 +4583,10 @@
       "Garden Horizons"
     ],
     "createdDate": "2021-07-01T06:40:33.1149892Z",
-    "popularGameSortOrder": 12,
+    "popularGameSortOrder": 15,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1507079238744958
+    "trendingRatio": 0.14610176270605377
   },
   {
     "isActive": true,
@@ -7142,10 +7142,10 @@
       "old school rs"
     ],
     "createdDate": "2021-07-01T06:40:33.1152207Z",
-    "popularGameSortOrder": 17,
+    "popularGameSortOrder": 23,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15625
+    "trendingRatio": 0
   },
   {
     "isActive": true,
@@ -7996,10 +7996,10 @@
       "CS GO"
     ],
     "createdDate": "2021-07-01T06:40:33.1150134Z",
-    "popularGameSortOrder": 39,
+    "popularGameSortOrder": 35,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1313588850174216
+    "trendingRatio": 0.18958611481975968
   },
   {
     "isActive": true,
@@ -8902,7 +8902,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.23552696684809502
+    "trendingRatio": 0.20568495854717725
   },
   {
     "isActive": true,
@@ -9215,7 +9215,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0
+    "trendingRatio": 0.16869918699186992
   },
   {
     "isActive": true,
@@ -9529,7 +9529,7 @@
     "popularGameSortOrder": 1,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1412347217894117
+    "trendingRatio": 0.17054623348804
   },
   {
     "isActive": true,
@@ -9591,7 +9591,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1627689429373246
+    "trendingRatio": 0.1356382978723404
   },
   {
     "isActive": true,
@@ -10386,7 +10386,7 @@
     "popularGameSortOrder": 22,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15790874018890516
+    "trendingRatio": 0.15852546567669662
   },
   {
     "isActive": true,
@@ -10417,7 +10417,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.12556580050293378
+    "trendingRatio": 0.1567127746135069
   },
   {
     "isActive": true,
@@ -10496,7 +10496,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14358647096362476
+    "trendingRatio": 0.12223756906077347
   },
   {
     "isActive": true,
@@ -10720,7 +10720,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15172947286993038
+    "trendingRatio": 0.14548361310951238
   },
   {
     "isActive": true,
@@ -11328,10 +11328,10 @@
       "レジェンドオブリーグ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151712Z",
-    "popularGameSortOrder": 23,
+    "popularGameSortOrder": 19,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.16165671203368256
+    "trendingRatio": 0.1665847665847666
   },
   {
     "isActive": true,
@@ -11646,10 +11646,10 @@
       "ウォッチオーバー"
     ],
     "createdDate": "2021-07-01T06:40:33.1151205Z",
-    "popularGameSortOrder": 35,
+    "popularGameSortOrder": 36,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.17707924034053701
+    "trendingRatio": 0.14087106299212598
   },
   {
     "isActive": true,
@@ -11775,8 +11775,8 @@
     "createdDate": "2026-03-05T07:24:22.4910168Z",
     "popularGameSortOrder": null,
     "filterGroups": [],
-    "isHighRisk": false,
-    "trendingRatio": 0
+    "isHighRisk": true,
+    "trendingRatio": 0.7169811320754716
   },
   {
     "isActive": true,
@@ -11841,7 +11841,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.19385474860335195
+    "trendingRatio": 0.19500480307396734
   },
   {
     "isActive": true,
@@ -12042,7 +12042,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1456430510984942
+    "trendingRatio": 0.14965443912812335
   },
   {
     "isActive": true,
@@ -12354,7 +12354,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.1828638497652582
+    "trendingRatio": 0.2004836227742361
   },
   {
     "isActive": true,
@@ -12450,7 +12450,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.21230982019363762
+    "trendingRatio": 0.17418981481481483
   },
   {
     "isActive": true,
@@ -12559,7 +12559,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14450312049927988
+    "trendingRatio": 0.1627565982404692
   },
   {
     "isActive": true,
@@ -13063,7 +13063,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.20940695296523518
+    "trendingRatio": 0.32629196529611465
   },
   {
     "isActive": true,
@@ -13367,10 +13367,10 @@
       "フォトナ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151738Z",
-    "popularGameSortOrder": 4,
+    "popularGameSortOrder": 3,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.15429928741092636
+    "trendingRatio": 0.160235749148172
   },
   {
     "isActive": true,
@@ -13656,7 +13656,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.08967096540918404
+    "trendingRatio": 0.13613193403298351
   },
   {
     "isActive": true,
@@ -13828,10 +13828,10 @@
       "アダプトミー"
     ],
     "createdDate": "2024-07-30T07:23:57.7160592Z",
-    "popularGameSortOrder": 20,
+    "popularGameSortOrder": 28,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.12598823714200946
+    "trendingRatio": 0.1451827242524917
   },
   {
     "isActive": true,
@@ -14347,7 +14347,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.17430813713341595
+    "trendingRatio": 0.19861698040722245
   },
   {
     "isActive": true,
@@ -14903,9 +14903,9 @@
       "レインボーシージ"
     ],
     "createdDate": "2021-07-01T06:40:33.115092Z",
-    "popularGameSortOrder": 5,
+    "popularGameSortOrder": 6,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.17079511453377152
+    "trendingRatio": 0.1594739590751555
   }
 ]
