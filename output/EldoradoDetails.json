@@ -761,7 +761,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.13733075435203096
+    "trendingRatio": 0.1391054575297497
   },
   {
     "isActive": true,
@@ -1697,7 +1697,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0
+    "trendingRatio": 0.14943566591422122
   },
   {
     "isActive": true,
@@ -2039,7 +2039,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.13779872834904627
+    "trendingRatio": 0.1651913875598086
   },
   {
     "isActive": true,
@@ -2806,7 +2806,7 @@
     "popularGameSortOrder": 5,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.15913291236716465
+    "trendingRatio": 0.17269648217997075
   },
   {
     "isActive": true,
@@ -2981,7 +2981,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.14861605604685885
+    "trendingRatio": 0.1473232649703238
   },
   {
     "isActive": true,
@@ -3060,7 +3060,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "DonutSMP",
-    "gameGroup": null,
+    "gameGroup": "",
     "legacyUrlId": null,
     "imageAlt": "donut smp accounts",
     "seoAlias": "donut-smp-accounts",
@@ -3069,7 +3069,8 @@
     "synonymNames": [
       "DonutSMP",
       "Minecraft",
-      "mc"
+      "mc",
+      "Donut SMP"
     ],
     "createdDate": "2025-11-25T11:12:58.2383128Z",
     "popularGameSortOrder": null,
@@ -3114,7 +3115,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15703735881841877
+    "trendingRatio": 0.1228298611111111
   },
   {
     "isActive": true,
@@ -3698,10 +3699,10 @@
       "ロケリ"
     ],
     "createdDate": "2021-07-01T06:40:33.1152239Z",
-    "popularGameSortOrder": 25,
+    "popularGameSortOrder": 35,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14742300772568526
+    "trendingRatio": 0.13035674220327576
   },
   {
     "isActive": true,
@@ -4063,7 +4064,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1582977207977208
+    "trendingRatio": 0.1759480696959344
   },
   {
     "isActive": true,
@@ -4158,7 +4159,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14316892186817984
+    "trendingRatio": 0.14532125916343253
   },
   {
     "isActive": true,
@@ -4583,10 +4584,10 @@
       "Garden Horizons"
     ],
     "createdDate": "2021-07-01T06:40:33.1149892Z",
-    "popularGameSortOrder": 15,
+    "popularGameSortOrder": 12,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14610176270605377
+    "trendingRatio": 0.20110933211344922
   },
   {
     "isActive": true,
@@ -4749,6 +4750,39 @@
       "Battlegrounds Mobile India Accounts"
     ],
     "createdDate": "2026-03-03T09:40:18.4054331Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false,
+    "trendingRatio": 0
+  },
+  {
+    "isActive": true,
+    "imageLocation": null,
+    "unitSystem": "1",
+    "seoMetaDescription": "Cheap 7DSO Reroll Accounts for Sale. Get account with Meliodas, Elaine, King and many other SSR characters instantly from legit sellers. Available 24/7!",
+    "seoTitle": "The Seven Deadly Sins Origin Accounts for Sale | Eldorado.gg",
+    "gameAccountDetailsLabels": [],
+    "tradeEnvironments": [],
+    "attributes": [],
+    "boostingCategories": [],
+    "menuGameTitle": "The Seven Deadly Sins Origin",
+    "gameId": "390",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "The Seven Deadly Sins Origin",
+    "gameGroup": null,
+    "legacyUrlId": null,
+    "imageAlt": "seven deadly sins origin accounts",
+    "seoAlias": "seven-deadly-sins-origin-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "The Seven Deadly Sins Origin",
+      "7DS Origin",
+      "7DSO",
+      "七つの大罪：Origin"
+    ],
+    "createdDate": "2026-03-19T09:34:38.1828376Z",
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
@@ -7142,7 +7176,7 @@
       "old school rs"
     ],
     "createdDate": "2021-07-01T06:40:33.1152207Z",
-    "popularGameSortOrder": 23,
+    "popularGameSortOrder": 27,
     "filterGroups": [],
     "isHighRisk": false,
     "trendingRatio": 0
@@ -7996,10 +8030,10 @@
       "CS GO"
     ],
     "createdDate": "2021-07-01T06:40:33.1150134Z",
-    "popularGameSortOrder": 35,
+    "popularGameSortOrder": 39,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.18958611481975968
+    "trendingRatio": 0.18486607979022288
   },
   {
     "isActive": true,
@@ -8902,7 +8936,39 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.20568495854717725
+    "trendingRatio": 0.16168658698539176
+  },
+  {
+    "isActive": true,
+    "imageLocation": null,
+    "unitSystem": "1",
+    "seoMetaDescription": "Get Max Level Account in Roblox Sailor Piece Instantly! Only legit sellers of the best Sailor Piece accounts. Available 24/7 on Eldorado.gg.",
+    "seoTitle": "Sailor Piece Accounts for Sale | Eldorado.gg",
+    "gameAccountDetailsLabels": [],
+    "tradeEnvironments": [],
+    "attributes": [],
+    "boostingCategories": [],
+    "menuGameTitle": "Sailor Piece",
+    "gameId": "380",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "Sailor Piece",
+    "gameGroup": "Roblox",
+    "legacyUrlId": null,
+    "imageAlt": "sailor piece accounts",
+    "seoAlias": "sailor-piece-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "Sailor Piece",
+      "Sailor Piece Roblox",
+      "セーラーピース"
+    ],
+    "createdDate": "2026-03-23T07:15:17.3378128Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false,
+    "trendingRatio": 0
   },
   {
     "isActive": true,
@@ -9215,7 +9281,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.16869918699186992
+    "trendingRatio": 0
   },
   {
     "isActive": true,
@@ -9529,7 +9595,7 @@
     "popularGameSortOrder": 1,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.17054623348804
+    "trendingRatio": 0.16979934407730013
   },
   {
     "isActive": true,
@@ -9591,7 +9657,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1356382978723404
+    "trendingRatio": 0
   },
   {
     "isActive": true,
@@ -10383,10 +10449,10 @@
       "bo7"
     ],
     "createdDate": "2021-07-01T06:40:33.1151072Z",
-    "popularGameSortOrder": 22,
+    "popularGameSortOrder": 28,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15852546567669662
+    "trendingRatio": 0.15038860103626944
   },
   {
     "isActive": true,
@@ -10417,7 +10483,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1567127746135069
+    "trendingRatio": 0.0870926164610569
   },
   {
     "isActive": true,
@@ -10496,7 +10562,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.12223756906077347
+    "trendingRatio": 0.13371868978805396
   },
   {
     "isActive": true,
@@ -10720,7 +10786,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14548361310951238
+    "trendingRatio": 0.16206239580852583
   },
   {
     "isActive": true,
@@ -11328,10 +11394,10 @@
       "レジェンドオブリーグ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151712Z",
-    "popularGameSortOrder": 19,
+    "popularGameSortOrder": 22,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1665847665847666
+    "trendingRatio": 0.14871451782471568
   },
   {
     "isActive": true,
@@ -11636,7 +11702,7 @@
     "imageAlt": "overwatch 2 accounts",
     "seoAlias": "overwatch-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": true,
+    "isPopularGame": false,
     "synonymNames": [
       "Overwatch",
       "ow",
@@ -11646,10 +11712,10 @@
       "ウォッチオーバー"
     ],
     "createdDate": "2021-07-01T06:40:33.1151205Z",
-    "popularGameSortOrder": 36,
+    "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14087106299212598
+    "trendingRatio": 0.12937326956959477
   },
   {
     "isActive": true,
@@ -11776,7 +11842,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.7169811320754716
+    "trendingRatio": 0
   },
   {
     "isActive": true,
@@ -11831,17 +11897,17 @@
     "imageAlt": "brawl stars accounts",
     "seoAlias": "brawl-stars-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": false,
+    "isPopularGame": true,
     "synonymNames": [
       "Brawl Stars",
       "bs",
       "ブロスタ"
     ],
     "createdDate": "2021-07-01T06:40:33.1150839Z",
-    "popularGameSortOrder": null,
+    "popularGameSortOrder": 37,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.19500480307396734
+    "trendingRatio": 0.15960912052117263
   },
   {
     "isActive": true,
@@ -12042,7 +12108,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14965443912812335
+    "trendingRatio": 0.1376223776223776
   },
   {
     "isActive": true,
@@ -12354,7 +12420,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.2004836227742361
+    "trendingRatio": 0.1919351650523819
   },
   {
     "isActive": true,
@@ -12450,7 +12516,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.17418981481481483
+    "trendingRatio": 0
   },
   {
     "isActive": true,
@@ -12559,7 +12625,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1627565982404692
+    "trendingRatio": 0.17217898832684825
   },
   {
     "isActive": true,
@@ -13063,7 +13129,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.32629196529611465
+    "trendingRatio": 0.2642183945401365
   },
   {
     "isActive": true,
@@ -13370,7 +13436,7 @@
     "popularGameSortOrder": 3,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.160235749148172
+    "trendingRatio": 0.1657823699152937
   },
   {
     "isActive": true,
@@ -13656,7 +13722,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.13613193403298351
+    "trendingRatio": 0.10644607460589979
   },
   {
     "isActive": true,
@@ -13828,10 +13894,10 @@
       "アダプトミー"
     ],
     "createdDate": "2024-07-30T07:23:57.7160592Z",
-    "popularGameSortOrder": 28,
+    "popularGameSortOrder": 15,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1451827242524917
+    "trendingRatio": 0.360472027972028
   },
   {
     "isActive": true,
@@ -14347,7 +14413,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.19861698040722245
+    "trendingRatio": 0.1472785485592316
   },
   {
     "isActive": true,
@@ -14903,9 +14969,9 @@
       "レインボーシージ"
     ],
     "createdDate": "2021-07-01T06:40:33.115092Z",
-    "popularGameSortOrder": 6,
+    "popularGameSortOrder": 7,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1594739590751555
+    "trendingRatio": 0.15970009372071228
   }
 ]
