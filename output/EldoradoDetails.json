@@ -761,7 +761,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1391054575297497
+    "trendingRatio": 0.16119402985074627
   },
   {
     "isActive": true,
@@ -1000,7 +1000,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Zenless Zone Zero",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "194-1-0",
     "imageAlt": "zenless zone zero accounts",
     "seoAlias": "zenless-zone-zero-accounts",
@@ -1036,7 +1036,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Jujutsu Kaisen Phantom Parade",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "179-1-0",
     "imageAlt": "jujutsu phanpara accounts",
     "seoAlias": "jujutsu-phanpara-accounts",
@@ -1071,7 +1071,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Pokemon TCG Pocket",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": null,
     "imageAlt": "pokemon tcg pocket accounts",
     "seoAlias": "pokemon-tcg-pocket-accounts",
@@ -1135,7 +1135,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "mo.co",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": null,
     "imageAlt": "moco accounts",
     "seoAlias": "moco-accounts",
@@ -1166,7 +1166,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Sky: Children of the Light",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "177-1-0",
     "imageAlt": "sky children of the light accounts",
     "seoAlias": "sky-children-of-the-light-accounts",
@@ -1201,7 +1201,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Arena Breakout",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": null,
     "imageAlt": "arena breakout accounts",
     "seoAlias": "arena-breakout-accounts",
@@ -1233,7 +1233,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Kaiju No. 8",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": null,
     "imageAlt": "kaiju no 8 accounts",
     "seoAlias": "kaiju-no-8-accounts",
@@ -1410,7 +1410,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Call of Duty Mobile",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "59-1-0",
     "imageAlt": "call of duty mobile accounts",
     "seoAlias": "call-of-duty-mobile-accounts",
@@ -1478,7 +1478,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Seven Knights Re:BIRTH",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": null,
     "imageAlt": "seven knights re birth accounts",
     "seoAlias": "seven-knights-re-birth-accounts",
@@ -1511,7 +1511,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Kingshot",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": null,
     "imageAlt": "kingshot accounts",
     "seoAlias": "kingshot-accounts-for-sale",
@@ -1542,7 +1542,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Car Parking Multiplayer",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": null,
     "imageAlt": "car parking multiplayer accounts",
     "seoAlias": "car-parking-multiplayer-accounts",
@@ -1697,7 +1697,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.14943566591422122
+    "trendingRatio": 0.18630705394190872
   },
   {
     "isActive": true,
@@ -1745,7 +1745,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Lords Mobile",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "74-1-0",
     "imageAlt": "lords mobile accounts",
     "seoAlias": "lords-mobile-accounts",
@@ -2039,7 +2039,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1651913875598086
+    "trendingRatio": 0.18255627998523805
   },
   {
     "isActive": true,
@@ -2132,7 +2132,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Wuthering Waves",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "190-1-0",
     "imageAlt": "wuthering waves accounts",
     "seoAlias": "wuthering-waves-accounts",
@@ -2806,7 +2806,7 @@
     "popularGameSortOrder": 5,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.17269648217997075
+    "trendingRatio": 0.18083675756443782
   },
   {
     "isActive": true,
@@ -2869,7 +2869,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Etheria: Restart",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": null,
     "imageAlt": "etheria restart accounts",
     "seoAlias": "etheria-restart-accounts",
@@ -2932,7 +2932,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "One Piece Treasure Cruise",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "184-1-0",
     "imageAlt": "one piece treasure cruise accounts",
     "seoAlias": "one-piece-treasure-cruise-accounts",
@@ -2981,7 +2981,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.1473232649703238
+    "trendingRatio": 0.15341114186018528
   },
   {
     "isActive": true,
@@ -2998,7 +2998,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Wartune Ultra",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": null,
     "imageAlt": "wartune ultra accounts",
     "seoAlias": "wartune-ultra-accounts",
@@ -3028,7 +3028,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Arknights: Endfield",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": null,
     "imageAlt": "arknights endfield accounts",
     "seoAlias": "arknights-endfield-accounts",
@@ -3115,7 +3115,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1228298611111111
+    "trendingRatio": 0.1328326683877024
   },
   {
     "isActive": true,
@@ -3690,7 +3690,7 @@
     "imageAlt": "rocket league accounts",
     "seoAlias": "rocket-league-accounts-for-sale",
     "isSingleOfferGame": false,
-    "isPopularGame": true,
+    "isPopularGame": false,
     "synonymNames": [
       "Rocket League",
       "rleague",
@@ -3699,10 +3699,10 @@
       "ロケリ"
     ],
     "createdDate": "2021-07-01T06:40:33.1152239Z",
-    "popularGameSortOrder": 35,
+    "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.13035674220327576
+    "trendingRatio": 0.13947105788423153
   },
   {
     "isActive": true,
@@ -3826,7 +3826,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Summoners War",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "29-0-0",
     "imageAlt": "summoners war accounts",
     "seoAlias": "summoners-war-accounts",
@@ -3843,7 +3843,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0
+    "trendingRatio": 0.22299168975069253
   },
   {
     "isActive": true,
@@ -4064,7 +4064,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1759480696959344
+    "trendingRatio": 0.15122907018168863
   },
   {
     "isActive": true,
@@ -4142,7 +4142,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Genshin Impact",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "39-0-0",
     "imageAlt": "genshin impacts",
     "seoAlias": "genshin-impact-accounts",
@@ -4159,7 +4159,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14532125916343253
+    "trendingRatio": 0
   },
   {
     "isActive": true,
@@ -4378,7 +4378,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "SD Gundam G Generation ETERNAL",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": null,
     "imageAlt": "sd gundam g generation eternal accounts",
     "seoAlias": "sd-gundam-g-generation-eternal-accounts",
@@ -4492,7 +4492,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Bleach: Brave Souls",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "138-1-0",
     "imageAlt": "bleach brave souls accounts",
     "seoAlias": "bleach-brave-souls-accounts",
@@ -4584,10 +4584,10 @@
       "Garden Horizons"
     ],
     "createdDate": "2021-07-01T06:40:33.1149892Z",
-    "popularGameSortOrder": 12,
+    "popularGameSortOrder": 11,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.20110933211344922
+    "trendingRatio": 0.15150583037387097
   },
   {
     "isActive": true,
@@ -4635,7 +4635,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "One Piece Bounty Rush",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "135-1-0",
     "imageAlt": "opbr accounts",
     "seoAlias": "one-piece-bounty-rush-accounts",
@@ -4703,7 +4703,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "The Seven Deadly Sins",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "186-1-0",
     "imageAlt": "seven deadly sins accounts",
     "seoAlias": "seven-deadly-sins-accounts",
@@ -4739,7 +4739,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "BGMI",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": null,
     "imageAlt": "bgmi accounts",
     "seoAlias": "bgmi-accounts-for-sale",
@@ -4838,7 +4838,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Blood Strike",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": null,
     "imageAlt": "blood strike accounts",
     "seoAlias": "blood-strike-accounts",
@@ -6539,7 +6539,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Tower of Fantasy",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "119-1-0",
     "imageAlt": "tower of fantasy accounts",
     "seoAlias": "tower-of-fantasy-accounts",
@@ -6678,7 +6678,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Honkai Impact 3rd",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "154-1-0",
     "imageAlt": "honkai impact 3rd accounts",
     "seoAlias": "honkai-impact-3rd-accounts",
@@ -6741,7 +6741,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Mobile Legends",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "55-1-0",
     "imageAlt": "mobile legends accounts",
     "seoAlias": "mobile-legends-accounts",
@@ -6821,7 +6821,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Arknights",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "166-1-0",
     "imageAlt": "arknights accounts",
     "seoAlias": "arknights-accounts",
@@ -7176,10 +7176,10 @@
       "old school rs"
     ],
     "createdDate": "2021-07-01T06:40:33.1152207Z",
-    "popularGameSortOrder": 27,
+    "popularGameSortOrder": 25,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0
+    "trendingRatio": 0.14489990467111535
   },
   {
     "isActive": true,
@@ -7196,7 +7196,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Delta Force",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": null,
     "imageAlt": "delta force accounts",
     "seoAlias": "delta-force-accounts",
@@ -7766,7 +7766,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Yo-kai Watch: Wibble Wobble",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "178-1-0",
     "imageAlt": "yokai punipuni accounts",
     "seoAlias": "yokai-punipuni-accounts",
@@ -8030,10 +8030,10 @@
       "CS GO"
     ],
     "createdDate": "2021-07-01T06:40:33.1150134Z",
-    "popularGameSortOrder": 39,
+    "popularGameSortOrder": 34,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.18486607979022288
+    "trendingRatio": 0.17671111111111112
   },
   {
     "isActive": true,
@@ -8083,7 +8083,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Yu-Gi-Oh! Master Duel",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": null,
     "imageAlt": "yu gi oh master duel accounts",
     "seoAlias": "yu-gi-oh-master-duel-accounts",
@@ -8181,7 +8181,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Cookie Run: Kingdom",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": null,
     "imageAlt": "cookie run kingdom accounts",
     "seoAlias": "cookie-run-kingdom-accounts",
@@ -8350,7 +8350,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "eFootball 2026",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "183-1-0",
     "imageAlt": "efootball accounts",
     "seoAlias": "efootball-accounts",
@@ -8419,7 +8419,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Rise of Kingdoms",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "94-1-0",
     "imageAlt": "rise of kingdoms accounts for sale",
     "seoAlias": "rise-of-kingdoms-accounts-for-sale",
@@ -8452,7 +8452,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Monster Hunter Now",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "175-1-0",
     "imageAlt": "monster hunter now accounts",
     "seoAlias": "monster-hunter-now-accounts",
@@ -8520,7 +8520,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Stella Sora",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": null,
     "imageAlt": "stella sora accounts",
     "seoAlias": "stella-sora-accounts",
@@ -8551,7 +8551,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Growtopia",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "99-1-0",
     "imageAlt": "growtopia accounts",
     "seoAlias": "growtopia-accounts",
@@ -8733,7 +8733,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Girls Frontline 2: Exilium",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": null,
     "imageAlt": "girls frontline 2 accounts",
     "seoAlias": "girls-frontline-2-accounts",
@@ -8918,7 +8918,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Pokemon Go",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "57-1-0",
     "imageAlt": "pokemon go accounts",
     "seoAlias": "pokemon-go-accounts",
@@ -8936,7 +8936,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.16168658698539176
+    "trendingRatio": 0.14866931783420007
   },
   {
     "isActive": true,
@@ -8968,7 +8968,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0
+    "trendingRatio": 1.4343065693430657
   },
   {
     "isActive": true,
@@ -9330,7 +9330,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Bleach: Soul Resonance",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": null,
     "imageAlt": "bleach soul resonance accounts",
     "seoAlias": "bleach-soul-resonance-accounts",
@@ -9416,7 +9416,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Granblue Fantasy",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "157-1-0",
     "imageAlt": "granblue fantasy accounts",
     "seoAlias": "granblue-fantasy-accounts",
@@ -9450,7 +9450,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Aion 2",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": null,
     "imageAlt": "aion 2 accounts",
     "seoAlias": "aion-2-accounts",
@@ -9595,7 +9595,7 @@
     "popularGameSortOrder": 1,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.16979934407730013
+    "trendingRatio": 0.18101829310704598
   },
   {
     "isActive": true,
@@ -9643,7 +9643,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "8 Ball Pool",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "77-1-0",
     "imageAlt": "8 ball pool accounts",
     "seoAlias": "8-ball-pool-accounts",
@@ -9657,7 +9657,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0
+    "trendingRatio": 0.15459882583170254
   },
   {
     "isActive": true,
@@ -9674,7 +9674,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Dragon Ball Z Dokkan Battle",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "156-1-0",
     "imageAlt": "dokkan battle accounts",
     "seoAlias": "dbz-dokkan-battle-accounts",
@@ -10449,10 +10449,10 @@
       "bo7"
     ],
     "createdDate": "2021-07-01T06:40:33.1151072Z",
-    "popularGameSortOrder": 28,
+    "popularGameSortOrder": 29,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15038860103626944
+    "trendingRatio": 0.12884615384615383
   },
   {
     "isActive": true,
@@ -10483,7 +10483,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.0870926164610569
+    "trendingRatio": 0.13728448275862068
   },
   {
     "isActive": true,
@@ -10562,7 +10562,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.13371868978805396
+    "trendingRatio": 0.16311166875784192
   },
   {
     "isActive": true,
@@ -10774,7 +10774,7 @@
     "imageAlt": "minecraft accounts",
     "seoAlias": "minecraft-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": false,
+    "isPopularGame": true,
     "synonymNames": [
       "Minecraft",
       "MC",
@@ -10783,10 +10783,10 @@
       "マイクラjava"
     ],
     "createdDate": "2021-07-01T06:40:33.1149805Z",
-    "popularGameSortOrder": null,
+    "popularGameSortOrder": 35,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.16206239580852583
+    "trendingRatio": 0.17082929194956353
   },
   {
     "isActive": true,
@@ -10803,7 +10803,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Duet Night Abyss",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": null,
     "imageAlt": "duet night abyss accounts",
     "seoAlias": "duet-night-abyss-accounts",
@@ -11394,10 +11394,10 @@
       "レジェンドオブリーグ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151712Z",
-    "popularGameSortOrder": 22,
+    "popularGameSortOrder": 24,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14871451782471568
+    "trendingRatio": 0.14821548177207922
   },
   {
     "isActive": true,
@@ -11446,7 +11446,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Monster Strike",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "149-1-0",
     "imageAlt": "monster strike accounts",
     "seoAlias": "monster-strike-accounts",
@@ -11510,7 +11510,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Chaos Zero Nightmare",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": null,
     "imageAlt": "chaos zero nightmare accounts",
     "seoAlias": "chaos-zero-nightmare-accounts",
@@ -11715,7 +11715,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.12937326956959477
+    "trendingRatio": 0.1516366065464262
   },
   {
     "isActive": true,
@@ -11763,7 +11763,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Fate/Grand Order",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "133-1-0",
     "imageAlt": "fgo accounts",
     "seoAlias": "fate-grand-order-accounts",
@@ -11892,7 +11892,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Brawl Stars",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "56-1-0",
     "imageAlt": "brawl stars accounts",
     "seoAlias": "brawl-stars-accounts",
@@ -11904,10 +11904,10 @@
       "ブロスタ"
     ],
     "createdDate": "2021-07-01T06:40:33.1150839Z",
-    "popularGameSortOrder": 37,
+    "popularGameSortOrder": 33,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15960912052117263
+    "trendingRatio": 0.1584875301689461
   },
   {
     "isActive": true,
@@ -11924,7 +11924,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Whiteout Survival",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": null,
     "imageAlt": "whiteout survival accounts",
     "seoAlias": "whiteout-survival-accounts",
@@ -11986,7 +11986,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "EA Sports FC Mobile",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "188-1-0",
     "imageAlt": "fc mobile accounts",
     "seoAlias": "fc-mobile-accounts",
@@ -12108,7 +12108,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1376223776223776
+    "trendingRatio": 0.1657673860911271
   },
   {
     "isActive": true,
@@ -12156,7 +12156,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Marvel Contest of Champions",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": null,
     "imageAlt": "marvel contest of champions accounts",
     "seoAlias": "marvel-contest-of-champions-accounts",
@@ -12342,7 +12342,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Epic Seven",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "134-1-0",
     "imageAlt": "epic seven accounts",
     "seoAlias": "epic-seven-accounts",
@@ -12375,7 +12375,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Last War: Survival",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": null,
     "imageAlt": "last war accounts for sale",
     "seoAlias": "last-war-accounts-for-sale",
@@ -12420,7 +12420,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.1919351650523819
+    "trendingRatio": 0.1657965796579658
   },
   {
     "isActive": true,
@@ -12468,7 +12468,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "League of Legends: Wild Rift",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "53-1-0",
     "imageAlt": "lol wild rift accounts",
     "seoAlias": "lol-wild-rift-accounts",
@@ -12516,7 +12516,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0
+    "trendingRatio": 0.17216321967579654
   },
   {
     "isActive": true,
@@ -12625,7 +12625,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.17217898832684825
+    "trendingRatio": 0.16928197812648596
   },
   {
     "isActive": true,
@@ -12642,7 +12642,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Last Island of Survival",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": null,
     "imageAlt": "last island of survival accounts",
     "seoAlias": "last-island-of-survival-accounts",
@@ -12704,7 +12704,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Project SEKAI",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "185-1-0",
     "imageAlt": "project sekai accounts",
     "seoAlias": "project-sekai-accounts",
@@ -12928,7 +12928,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Uma Musume Pretty Derby",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "151-1-0",
     "imageAlt": "uma musume accounts",
     "seoAlias": "uma-musume-accounts",
@@ -12960,7 +12960,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "PUBG Mobile",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "21-1-0",
     "imageAlt": "PUBG Mobile Accounts For Sale",
     "seoAlias": "pubg-mobile-accounts-for-sale",
@@ -13112,7 +13112,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Raid: Shadow Legends",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "73-1-0",
     "imageAlt": "raid shadow legends accounts",
     "seoAlias": "raid-shadow-legends-accounts",
@@ -13129,7 +13129,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.2642183945401365
+    "trendingRatio": 0.1212295317437518
   },
   {
     "isActive": true,
@@ -13436,7 +13436,7 @@
     "popularGameSortOrder": 3,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.1657823699152937
+    "trendingRatio": 0.16723770719511066
   },
   {
     "isActive": true,
@@ -13453,7 +13453,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Clash of Clans",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "18-1-0",
     "imageAlt": "Clash of Clans Account For Sale",
     "seoAlias": "clash-of-clans-account-for-sale",
@@ -13468,7 +13468,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0
+    "trendingRatio": 0.1884328358208955
   },
   {
     "isActive": true,
@@ -13485,7 +13485,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Hay Day",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "139-1-0",
     "imageAlt": "hay day accounts",
     "seoAlias": "hay-day-accounts",
@@ -13516,7 +13516,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Diablo Immortal",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "115-1-0",
     "imageAlt": "diablo immortal accounts",
     "seoAlias": "diablo-immortal-accounts",
@@ -13593,7 +13593,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Albion Online",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "41-1-0",
     "imageAlt": "albion online accounts",
     "seoAlias": "albion-online-accounts",
@@ -13624,7 +13624,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Goddess of Victory: Nikke",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "143-1-0",
     "imageAlt": "nikke accounts",
     "seoAlias": "goddess-of-victory-nikke-accounts",
@@ -13705,7 +13705,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Dragon Ball Legends",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "130-1-0",
     "imageAlt": "db legends accounts",
     "seoAlias": "dragon-ball-legends-accounts",
@@ -13722,7 +13722,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.10644607460589979
+    "trendingRatio": 0.11460142067876875
   },
   {
     "isActive": true,
@@ -13894,10 +13894,10 @@
       "アダプトミー"
     ],
     "createdDate": "2024-07-30T07:23:57.7160592Z",
-    "popularGameSortOrder": 15,
+    "popularGameSortOrder": 23,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.360472027972028
+    "trendingRatio": 0.13428070614748966
   },
   {
     "isActive": true,
@@ -13914,7 +13914,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Watcher of Realms",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": null,
     "imageAlt": "watcher of realms accounts",
     "seoAlias": "watcher-of-realms-accounts-for-sale",
@@ -14007,7 +14007,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Honkai: Star Rail",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "137-1-0",
     "imageAlt": "hsr accounts",
     "seoAlias": "honkai-star-rail-accounts",
@@ -14212,7 +14212,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Standoff 2",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": null,
     "imageAlt": "standoff 2 accounts",
     "seoAlias": "standoff-2-accounts",
@@ -14242,7 +14242,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Clash Royale",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "52-1-0",
     "imageAlt": "clash royale accounts",
     "seoAlias": "clash-royale-accounts",
@@ -14413,7 +14413,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1472785485592316
+    "trendingRatio": 0.16400425985090522
   },
   {
     "isActive": true,
@@ -14659,7 +14659,7 @@
     "category": "Account",
     "title": "Accounts",
     "gameName": "Garena Free Fire",
-    "gameGroup": null,
+    "gameGroup": "Mobile",
     "legacyUrlId": "46-1-0",
     "imageAlt": "free fire accounts",
     "seoAlias": "free-fire-accounts",
@@ -14972,6 +14972,6 @@
     "popularGameSortOrder": 7,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15970009372071228
+    "trendingRatio": 0.1686532144533083
   }
 ]
