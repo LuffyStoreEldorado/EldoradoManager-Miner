@@ -66,7 +66,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1295481807277089,
+    "trendingRatio": 0.1383523847063461,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -574,7 +574,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.1300861300861301,
+    "trendingRatio": 0.1485427765590724,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -673,7 +673,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.145296105281878,
+    "trendingRatio": 0.1395086379025957,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -699,7 +699,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.21090617481956697,
+    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -724,9 +724,9 @@
     "popularGameSortOrder": 3,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.1385812923397603,
+    "trendingRatio": 0.15411623085668427,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 6
+    "popularGameSortOrderV2": 5
   },
   {
     "menuGameTitle": "Etheria: Restart",
@@ -801,7 +801,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.13213825676255903,
+    "trendingRatio": 0.14598698481561823,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -907,7 +907,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.16763814408953137,
+    "trendingRatio": 0.15329105619943145,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1010,7 +1010,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.12332369182224559,
+    "trendingRatio": 0.12912831618841364,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1061,7 +1061,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.24867099822799762,
+    "trendingRatio": 0.1859398879266429,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1162,7 +1162,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.11824153612935827,
+    "trendingRatio": 0.1545025417574437,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1189,7 +1189,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14966592427616926,
+    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1389,12 +1389,12 @@
       "Garden Horizons"
     ],
     "createdDate": "2021-07-01T06:40:33.1149892Z",
-    "popularGameSortOrder": 15,
+    "popularGameSortOrder": 16,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14207324643078834,
+    "trendingRatio": 0.14363874928824302,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 16
+    "popularGameSortOrderV2": 13
   },
   {
     "menuGameTitle": "One Piece Bounty Rush",
@@ -1729,12 +1729,12 @@
       "old school rs"
     ],
     "createdDate": "2021-07-01T06:40:33.1152207Z",
-    "popularGameSortOrder": 25,
+    "popularGameSortOrder": 24,
     "filterGroups": [],
     "isHighRisk": false,
     "trendingRatio": 0,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 34
+    "popularGameSortOrderV2": 36
   },
   {
     "menuGameTitle": "Delta Force",
@@ -1875,7 +1875,7 @@
     "imageAlt": "CS2 Accounts For Sale",
     "seoAlias": "cs2-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": true,
+    "isPopularGame": false,
     "synonymNames": [
       "Counter-Strike 2",
       "cs2",
@@ -1885,10 +1885,10 @@
       "CS GO"
     ],
     "createdDate": "2021-07-01T06:40:33.1150134Z",
-    "popularGameSortOrder": 32,
+    "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.12494279176201373,
+    "trendingRatio": 0.1593915343915344,
     "isPopularGameV2": true,
     "popularGameSortOrderV2": 38
   },
@@ -2251,7 +2251,33 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1484350790207623,
+    "trendingRatio": 0.17503022974607013,
+    "isPopularGameV2": false,
+    "popularGameSortOrderV2": null
+  },
+  {
+    "menuGameTitle": "Neverness to Everness",
+    "gameId": "400",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "Neverness to Everness",
+    "gameGroup": null,
+    "legacyUrlId": null,
+    "imageAlt": "neverness to everness accounts",
+    "seoAlias": "neverness-to-everness-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "Neverness to Everness",
+      "NTE",
+      "エヌティーイー：ネバーネス トゥ エバーネス",
+      "异环"
+    ],
+    "createdDate": "2026-04-23T09:26:04.3551936Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false,
+    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2276,7 +2302,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.13602391629297458,
+    "trendingRatio": 0.19872476089266738,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2377,7 +2403,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.2248995983935743,
+    "trendingRatio": 0.2642692870583316,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2511,9 +2537,9 @@
     "popularGameSortOrder": 1,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.12794612794612795,
+    "trendingRatio": 0.14374288244970265,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 1
+    "popularGameSortOrderV2": 2
   },
   {
     "menuGameTitle": "Metin2",
@@ -2559,7 +2585,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1423095352180163,
+    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2672,12 +2698,12 @@
       "bo7"
     ],
     "createdDate": "2021-07-01T06:40:33.1151072Z",
-    "popularGameSortOrder": 29,
+    "popularGameSortOrder": 27,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1567257996926945,
+    "trendingRatio": 0.1563801590306702,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 25
+    "popularGameSortOrderV2": 29
   },
   {
     "menuGameTitle": "Arc Raiders",
@@ -2699,7 +2725,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14670932358318098,
+    "trendingRatio": 0.11709868121873579,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2725,7 +2751,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14100486223662884,
+    "trendingRatio": 0.13721498371335505,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2827,12 +2853,12 @@
       "マイクラjava"
     ],
     "createdDate": "2021-07-01T06:40:33.1149805Z",
-    "popularGameSortOrder": 34,
+    "popularGameSortOrder": 32,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14205607476635515,
+    "trendingRatio": 0.17971098826495976,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 27
+    "popularGameSortOrderV2": 32
   },
   {
     "menuGameTitle": "Duet Night Abyss",
@@ -2882,7 +2908,7 @@
     "popularGameSortOrder": 26,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.12620192307692307,
+    "trendingRatio": 0.1404080068958912,
     "isPopularGameV2": true,
     "popularGameSortOrderV2": 33
   },
@@ -2987,7 +3013,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14601191340985037,
+    "trendingRatio": 0.15141579731743665,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3113,9 +3139,9 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.11634241245136187,
-    "isPopularGameV2": false,
-    "popularGameSortOrderV2": null
+    "trendingRatio": 0.188174190970835,
+    "isPopularGameV2": true,
+    "popularGameSortOrderV2": 37
   },
   {
     "menuGameTitle": "Whiteout Survival",
@@ -3209,7 +3235,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1539035305818001,
+    "trendingRatio": 0.1661800486618005,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3309,7 +3335,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.13355563355563355,
+    "trendingRatio": 0.11540595524320325,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3360,7 +3386,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.2028913260219342,
+    "trendingRatio": 0.14879186095803307,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3409,7 +3435,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1453871499176277,
+    "trendingRatio": 0.13615608136156082,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3606,7 +3632,7 @@
     "imageAlt": "raid shadow legends accounts",
     "seoAlias": "raid-shadow-legends-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": false,
+    "isPopularGame": true,
     "synonymNames": [
       "Raid: Shadow Legends",
       "レイドシャドウレジェンド",
@@ -3615,10 +3641,10 @@
       "レイドシャドウ"
     ],
     "createdDate": "2021-07-09T07:32:49.8089677Z",
-    "popularGameSortOrder": null,
+    "popularGameSortOrder": 33,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14212874442319948,
+    "trendingRatio": 0.16785079928952043,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3675,9 +3701,9 @@
     "popularGameSortOrder": 2,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.1406507722297196,
+    "trendingRatio": 0.1435851318944844,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 2
+    "popularGameSortOrderV2": 4
   },
   {
     "menuGameTitle": "Clash of Clans",
@@ -3700,7 +3726,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
+    "trendingRatio": 0.1515609264853978,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3827,7 +3853,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.11051955204699834,
+    "trendingRatio": 0.07459207459207459,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3849,12 +3875,12 @@
       "アダプトミー"
     ],
     "createdDate": "2024-07-30T07:23:57.7160592Z",
-    "popularGameSortOrder": 27,
+    "popularGameSortOrder": 31,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1259647808167853,
-    "isPopularGameV2": true,
-    "popularGameSortOrderV2": 30
+    "trendingRatio": 0.08018305763455214,
+    "isPopularGameV2": false,
+    "popularGameSortOrderV2": null
   },
   {
     "menuGameTitle": "Watcher of Realms",
@@ -4073,12 +4099,12 @@
       "エーペックスレジェンズ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151097Z",
-    "popularGameSortOrder": 38,
+    "popularGameSortOrder": 35,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15109223300970873,
+    "trendingRatio": 0.17347838870920318,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 36
+    "popularGameSortOrderV2": 34
   },
   {
     "menuGameTitle": "Path of Exile 2",
@@ -4183,11 +4209,11 @@
       "レインボーシージ"
     ],
     "createdDate": "2021-07-01T06:40:33.115092Z",
-    "popularGameSortOrder": 8,
+    "popularGameSortOrder": 7,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.10254761315854563,
+    "trendingRatio": 0.12288236697685516,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 9
+    "popularGameSortOrderV2": 8
   }
 ]
