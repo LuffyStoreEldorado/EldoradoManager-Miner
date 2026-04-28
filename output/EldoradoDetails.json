@@ -765,7 +765,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.144973968762515,
+    "trendingRatio": 0.13525236593059936,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1741,7 +1741,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.13648528099910795,
+    "trendingRatio": 0.13639240506329114,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2091,7 +2091,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14999125415427672,
+    "trendingRatio": 0.14698093220338984,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2859,12 +2859,12 @@
       "ヴァロ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151106Z",
-    "popularGameSortOrder": 3,
+    "popularGameSortOrder": 6,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.14282471953829193,
+    "trendingRatio": 0.15528768233387358,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 7
+    "popularGameSortOrderV2": 5
   },
   {
     "isActive": true,
@@ -3043,7 +3043,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.1385214422871773,
+    "trendingRatio": 0.15023933855526544,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3185,7 +3185,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.17374340142299746,
+    "trendingRatio": 0.16154696132596685,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3780,7 +3780,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.12163758037003018,
+    "trendingRatio": 0.13059497816593887,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3925,9 +3925,9 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.2610981308411215,
-    "isPopularGameV2": true,
-    "popularGameSortOrderV2": 35
+    "trendingRatio": 0.19106699751861042,
+    "isPopularGameV2": false,
+    "popularGameSortOrderV2": null
   },
   {
     "isActive": true,
@@ -4154,7 +4154,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.140611796518506,
+    "trendingRatio": 0.1471510234187719,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -4251,7 +4251,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14310722100656456,
+    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -4721,12 +4721,12 @@
       "Garden Horizons"
     ],
     "createdDate": "2021-07-01T06:40:33.1149892Z",
-    "popularGameSortOrder": 16,
+    "popularGameSortOrder": 12,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15545927209705374,
+    "trendingRatio": 0.14569502473534462,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 12
+    "popularGameSortOrderV2": 6
   },
   {
     "isActive": true,
@@ -7339,12 +7339,12 @@
       "old school rs"
     ],
     "createdDate": "2021-07-01T06:40:33.1152207Z",
-    "popularGameSortOrder": 24,
+    "popularGameSortOrder": 31,
     "filterGroups": [],
     "isHighRisk": false,
     "trendingRatio": 0,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 36
+    "popularGameSortOrderV2": 30
   },
   {
     "isActive": true,
@@ -8195,7 +8195,7 @@
     "imageAlt": "CS2 Accounts For Sale",
     "seoAlias": "cs2-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": false,
+    "isPopularGame": true,
     "synonymNames": [
       "Counter-Strike 2",
       "cs2",
@@ -8205,12 +8205,12 @@
       "CS GO"
     ],
     "createdDate": "2021-07-01T06:40:33.1150134Z",
-    "popularGameSortOrder": null,
+    "popularGameSortOrder": 38,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.13470779724073786,
-    "isPopularGameV2": false,
-    "popularGameSortOrderV2": null
+    "trendingRatio": 0.1492488030378075,
+    "isPopularGameV2": true,
+    "popularGameSortOrderV2": 38
   },
   {
     "isActive": true,
@@ -9139,9 +9139,44 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1549426712116517,
+    "trendingRatio": 0.17255968570565125,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 34
+    "popularGameSortOrderV2": 42
+  },
+  {
+    "isActive": true,
+    "imageLocation": null,
+    "unitSystem": "1",
+    "seoMetaDescription": "Buy a cheap NTE account with your favorite S-Rank characters like Nanally and Daffodil and forget wasting hours on rerolls. Instant delivery guaranteed!",
+    "seoTitle": "Buy Neverness to Everness Accounts | NTE Account for Sale",
+    "gameAccountDetailsLabels": [],
+    "tradeEnvironments": [],
+    "attributes": [],
+    "boostingCategories": [],
+    "menuGameTitle": "Neverness to Everness",
+    "gameId": "400",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "Neverness to Everness",
+    "gameGroup": null,
+    "legacyUrlId": null,
+    "imageAlt": "neverness to everness accounts",
+    "seoAlias": "neverness-to-everness-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "Neverness to Everness",
+      "NTE",
+      "エヌティーイー：ネバーネス トゥ エバーネス",
+      "异环"
+    ],
+    "createdDate": "2026-04-23T09:26:04.3551936Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false,
+    "trendingRatio": 0,
+    "isPopularGameV2": false,
+    "popularGameSortOrderV2": null
   },
   {
     "isActive": true,
@@ -9173,7 +9208,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.168993168993169,
+    "trendingRatio": 0.2033271719038817,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -9494,7 +9529,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.2395109752709086,
+    "trendingRatio": 0.2411403682439121,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -9815,12 +9850,12 @@
       "GTA 5 Legacy"
     ],
     "createdDate": "2021-07-01T06:40:33.1151231Z",
-    "popularGameSortOrder": 1,
+    "popularGameSortOrder": 2,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.13401027215301967,
+    "trendingRatio": 0.146358723623263,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 1
+    "popularGameSortOrderV2": 2
   },
   {
     "isActive": true,
@@ -9884,7 +9919,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15306615161757606,
+    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -10684,12 +10719,12 @@
       "bo7"
     ],
     "createdDate": "2021-07-01T06:40:33.1151072Z",
-    "popularGameSortOrder": 27,
+    "popularGameSortOrder": 30,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15618995333516333,
+    "trendingRatio": 0.15209414146526634,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 26
+    "popularGameSortOrderV2": 37
   },
   {
     "isActive": true,
@@ -10720,7 +10755,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14519748653500897,
+    "trendingRatio": 0.13251618871415355,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -10801,7 +10836,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1465587044534413,
+    "trendingRatio": 0.1369918699186992,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -11030,12 +11065,12 @@
       "マイクラjava"
     ],
     "createdDate": "2021-07-01T06:40:33.1149805Z",
-    "popularGameSortOrder": 32,
+    "popularGameSortOrder": 33,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15055653192735793,
-    "isPopularGameV2": false,
-    "popularGameSortOrderV2": null
+    "trendingRatio": 0.1786130536130536,
+    "isPopularGameV2": true,
+    "popularGameSortOrderV2": 35
   },
   {
     "isActive": true,
@@ -11645,10 +11680,10 @@
       "レジェンドオブリーグ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151712Z",
-    "popularGameSortOrder": 26,
+    "popularGameSortOrder": 28,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.13154950587357822,
+    "trendingRatio": 0.1420966024586197,
     "isPopularGameV2": true,
     "popularGameSortOrderV2": 28
   },
@@ -11974,7 +12009,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1557365130143958,
+    "trendingRatio": 0.14857571214392803,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -12107,7 +12142,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.15205327413984462,
+    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -12166,17 +12201,17 @@
     "imageAlt": "brawl stars accounts",
     "seoAlias": "brawl-stars-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": false,
+    "isPopularGame": true,
     "synonymNames": [
       "Brawl Stars",
       "bs",
       "ブロスタ"
     ],
     "createdDate": "2021-07-01T06:40:33.1150839Z",
-    "popularGameSortOrder": null,
+    "popularGameSortOrder": 37,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1421239636794315,
+    "trendingRatio": 0.17271293375394323,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -12385,7 +12420,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1691542288557214,
+    "trendingRatio": 0.14782397276926817,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -12705,7 +12740,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.14106638418079095,
+    "trendingRatio": 0.11502392344497607,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -12805,7 +12840,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.23194103194103194,
+    "trendingRatio": 0.14997887621461767,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -12918,7 +12953,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14763458401305057,
+    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -13426,7 +13461,7 @@
     "imageAlt": "raid shadow legends accounts",
     "seoAlias": "raid-shadow-legends-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": true,
+    "isPopularGame": false,
     "synonymNames": [
       "Raid: Shadow Legends",
       "レイドシャドウレジェンド",
@@ -13435,10 +13470,10 @@
       "レイドシャドウ"
     ],
     "createdDate": "2021-07-09T07:32:49.8089677Z",
-    "popularGameSortOrder": 33,
+    "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15130718954248365,
+    "trendingRatio": 0.14965986394557823,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -13746,12 +13781,12 @@
       "フォトナ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151738Z",
-    "popularGameSortOrder": 2,
+    "popularGameSortOrder": 3,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.15169884747792248,
+    "trendingRatio": 0.14217506631299734,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 2
+    "popularGameSortOrderV2": 1
   },
   {
     "isActive": true,
@@ -13783,7 +13818,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1413793103448276,
+    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -14047,7 +14082,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.10415879017013233,
+    "trendingRatio": 0.09154013015184381,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -14214,19 +14249,19 @@
     "imageAlt": "adopt me accounts",
     "seoAlias": "adopt-me-accounts-for-sale",
     "isSingleOfferGame": false,
-    "isPopularGame": true,
+    "isPopularGame": false,
     "synonymNames": [
       "Adopt Me",
       "Roblox Adopt Me",
       "アダプトミー"
     ],
     "createdDate": "2024-07-30T07:23:57.7160592Z",
-    "popularGameSortOrder": 31,
+    "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.13658272895175458,
-    "isPopularGameV2": true,
-    "popularGameSortOrderV2": 32
+    "trendingRatio": 0.08009909165978531,
+    "isPopularGameV2": false,
+    "popularGameSortOrderV2": null
   },
   {
     "isActive": true,
@@ -14758,7 +14793,7 @@
     "popularGameSortOrder": 35,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15277365766834766,
+    "trendingRatio": 0.17906498088797412,
     "isPopularGameV2": true,
     "popularGameSortOrderV2": 31
   },
@@ -15322,11 +15357,11 @@
       "レインボーシージ"
     ],
     "createdDate": "2021-07-01T06:40:33.115092Z",
-    "popularGameSortOrder": 7,
+    "popularGameSortOrder": 9,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.11923832552516246,
+    "trendingRatio": 0.1180265421479479,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 8
+    "popularGameSortOrderV2": 7
   }
 ]
