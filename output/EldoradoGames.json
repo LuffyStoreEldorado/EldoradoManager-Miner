@@ -66,7 +66,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1383523847063461,
+    "trendingRatio": 0.1506906655504395,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -574,7 +574,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.1485427765590724,
+    "trendingRatio": 0.14419053749597682,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -673,7 +673,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1395086379025957,
+    "trendingRatio": 0.15814040328603435,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -699,7 +699,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
+    "trendingRatio": 0.4044871794871795,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -721,12 +721,12 @@
       "ヴァロ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151106Z",
-    "popularGameSortOrder": 3,
+    "popularGameSortOrder": 6,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.15411623085668427,
+    "trendingRatio": 0.15685324846052723,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 5
+    "popularGameSortOrderV2": 4
   },
   {
     "menuGameTitle": "Etheria: Restart",
@@ -801,9 +801,9 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.14598698481561823,
-    "isPopularGameV2": false,
-    "popularGameSortOrderV2": null
+    "trendingRatio": 0.17194842093760246,
+    "isPopularGameV2": true,
+    "popularGameSortOrderV2": 33
   },
   {
     "menuGameTitle": "Wartune Ultra",
@@ -907,7 +907,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15329105619943145,
+    "trendingRatio": 0.18782722513089006,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1010,9 +1010,9 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.12912831618841364,
-    "isPopularGameV2": false,
-    "popularGameSortOrderV2": null
+    "trendingRatio": 0.12513049962714393,
+    "isPopularGameV2": true,
+    "popularGameSortOrderV2": 42
   },
   {
     "menuGameTitle": "Jujutsu Infinite",
@@ -1061,7 +1061,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1859398879266429,
+    "trendingRatio": 0.20418848167539266,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1162,7 +1162,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1545025417574437,
+    "trendingRatio": 0.1804154302670623,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1189,7 +1189,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
+    "trendingRatio": 0.18493150684931506,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1389,12 +1389,38 @@
       "Garden Horizons"
     ],
     "createdDate": "2021-07-01T06:40:33.1149892Z",
-    "popularGameSortOrder": 16,
+    "popularGameSortOrder": 12,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14363874928824302,
+    "trendingRatio": 0.15947669123126604,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 13
+    "popularGameSortOrderV2": 16
+  },
+  {
+    "menuGameTitle": "bridger: WESTERN",
+    "gameId": "399",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "bridger: WESTERN",
+    "gameGroup": "Roblox",
+    "legacyUrlId": null,
+    "imageAlt": "bridger western accounts",
+    "seoAlias": "bridger-western-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "bridger: WESTERN",
+      "ブリッジャー：ウェスタン",
+      "Bridger Western",
+      "Roblox"
+    ],
+    "createdDate": "2026-04-29T09:04:08.6540582Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false,
+    "trendingRatio": 0,
+    "isPopularGameV2": false,
+    "popularGameSortOrderV2": null
   },
   {
     "menuGameTitle": "One Piece Bounty Rush",
@@ -1707,7 +1733,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
+    "trendingRatio": 0.2103225806451613,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1729,12 +1755,12 @@
       "old school rs"
     ],
     "createdDate": "2021-07-01T06:40:33.1152207Z",
-    "popularGameSortOrder": 24,
+    "popularGameSortOrder": 31,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
+    "trendingRatio": 0.1385,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 36
+    "popularGameSortOrderV2": 27
   },
   {
     "menuGameTitle": "Delta Force",
@@ -1875,7 +1901,7 @@
     "imageAlt": "CS2 Accounts For Sale",
     "seoAlias": "cs2-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": false,
+    "isPopularGame": true,
     "synonymNames": [
       "Counter-Strike 2",
       "cs2",
@@ -1885,12 +1911,12 @@
       "CS GO"
     ],
     "createdDate": "2021-07-01T06:40:33.1150134Z",
-    "popularGameSortOrder": null,
+    "popularGameSortOrder": 38,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1593915343915344,
-    "isPopularGameV2": true,
-    "popularGameSortOrderV2": 38
+    "trendingRatio": 0.17976559806963116,
+    "isPopularGameV2": false,
+    "popularGameSortOrderV2": null
   },
   {
     "menuGameTitle": "Arena Breakout: Infinite",
@@ -2251,7 +2277,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.17503022974607013,
+    "trendingRatio": 0.18082033506643558,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2277,7 +2303,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
+    "trendingRatio": 1.3015873015873016,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2302,7 +2328,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.19872476089266738,
+    "trendingRatio": 0.14382360310699072,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2403,7 +2429,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.2642692870583316,
+    "trendingRatio": 0.2490030307864093,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2534,12 +2560,12 @@
       "GTA 5 Legacy"
     ],
     "createdDate": "2021-07-01T06:40:33.1151231Z",
-    "popularGameSortOrder": 1,
+    "popularGameSortOrder": 2,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14374288244970265,
+    "trendingRatio": 0.1662834730862862,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 2
+    "popularGameSortOrderV2": 1
   },
   {
     "menuGameTitle": "Metin2",
@@ -2558,6 +2584,32 @@
       "Metin 2"
     ],
     "createdDate": "2025-12-17T13:36:45.2166324Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false,
+    "trendingRatio": 0,
+    "isPopularGameV2": false,
+    "popularGameSortOrderV2": null
+  },
+  {
+    "menuGameTitle": "Bloodlines",
+    "gameId": "386",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "Bloodlines",
+    "gameGroup": "Roblox",
+    "legacyUrlId": null,
+    "imageAlt": "bloodlines roblox account",
+    "seoAlias": "bloodlines-roblox-account",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "Bloodlines",
+      "Bloodlines Roblox",
+      "ブラッドライン",
+      "Roblox"
+    ],
+    "createdDate": "2026-04-29T09:10:08.9958394Z",
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
@@ -2698,12 +2750,12 @@
       "bo7"
     ],
     "createdDate": "2021-07-01T06:40:33.1151072Z",
-    "popularGameSortOrder": 27,
+    "popularGameSortOrder": 30,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1563801590306702,
+    "trendingRatio": 0.1578287576783252,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 29
+    "popularGameSortOrderV2": 32
   },
   {
     "menuGameTitle": "Arc Raiders",
@@ -2725,7 +2777,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.11709868121873579,
+    "trendingRatio": 0.10501306723687337,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2751,7 +2803,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.13721498371335505,
+    "trendingRatio": 0.15935236472092032,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2853,12 +2905,12 @@
       "マイクラjava"
     ],
     "createdDate": "2021-07-01T06:40:33.1149805Z",
-    "popularGameSortOrder": 32,
+    "popularGameSortOrder": 33,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.17971098826495976,
+    "trendingRatio": 0.1799187463726059,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 32
+    "popularGameSortOrderV2": 41
   },
   {
     "menuGameTitle": "Duet Night Abyss",
@@ -2905,12 +2957,12 @@
       "レジェンドオブリーグ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151712Z",
-    "popularGameSortOrder": 26,
+    "popularGameSortOrder": 28,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1404080068958912,
+    "trendingRatio": 0.18445816047758778,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 33
+    "popularGameSortOrderV2": 23
   },
   {
     "menuGameTitle": "Jailbreak",
@@ -3013,7 +3065,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15141579731743665,
+    "trendingRatio": 0.1772094430992736,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3088,7 +3140,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0,
+    "trendingRatio": 0.2357630979498861,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3129,19 +3181,19 @@
     "imageAlt": "brawl stars accounts",
     "seoAlias": "brawl-stars-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": false,
+    "isPopularGame": true,
     "synonymNames": [
       "Brawl Stars",
       "bs",
       "ブロスタ"
     ],
     "createdDate": "2021-07-01T06:40:33.1150839Z",
-    "popularGameSortOrder": null,
+    "popularGameSortOrder": 37,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.188174190970835,
-    "isPopularGameV2": true,
-    "popularGameSortOrderV2": 37
+    "trendingRatio": 0.19984567901234568,
+    "isPopularGameV2": false,
+    "popularGameSortOrderV2": null
   },
   {
     "menuGameTitle": "Whiteout Survival",
@@ -3235,7 +3287,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1661800486618005,
+    "trendingRatio": 0.14913814639020734,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3335,7 +3387,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.11540595524320325,
+    "trendingRatio": 0.16551724137931034,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3386,7 +3438,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14879186095803307,
+    "trendingRatio": 0.15403934700711594,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3435,7 +3487,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.13615608136156082,
+    "trendingRatio": 0.17155555555555554,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3632,7 +3684,7 @@
     "imageAlt": "raid shadow legends accounts",
     "seoAlias": "raid-shadow-legends-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": true,
+    "isPopularGame": false,
     "synonymNames": [
       "Raid: Shadow Legends",
       "レイドシャドウレジェンド",
@@ -3641,12 +3693,12 @@
       "レイドシャドウ"
     ],
     "createdDate": "2021-07-09T07:32:49.8089677Z",
-    "popularGameSortOrder": 33,
+    "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.16785079928952043,
-    "isPopularGameV2": false,
-    "popularGameSortOrderV2": null
+    "trendingRatio": 0.2629362214199759,
+    "isPopularGameV2": true,
+    "popularGameSortOrderV2": 31
   },
   {
     "menuGameTitle": "Battlefield",
@@ -3698,12 +3750,12 @@
       "フォトナ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151738Z",
-    "popularGameSortOrder": 2,
+    "popularGameSortOrder": 3,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.1435851318944844,
+    "trendingRatio": 0.16625170669022568,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 4
+    "popularGameSortOrderV2": 2
   },
   {
     "menuGameTitle": "Clash of Clans",
@@ -3726,7 +3778,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1515609264853978,
+    "trendingRatio": 0.20515518148342976,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3853,7 +3905,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.07459207459207459,
+    "trendingRatio": 0.22951729239874238,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3868,17 +3920,17 @@
     "imageAlt": "adopt me accounts",
     "seoAlias": "adopt-me-accounts-for-sale",
     "isSingleOfferGame": false,
-    "isPopularGame": true,
+    "isPopularGame": false,
     "synonymNames": [
       "Adopt Me",
       "Roblox Adopt Me",
       "アダプトミー"
     ],
     "createdDate": "2024-07-30T07:23:57.7160592Z",
-    "popularGameSortOrder": 31,
+    "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.08018305763455214,
+    "trendingRatio": 0.0876420701832923,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -4102,9 +4154,9 @@
     "popularGameSortOrder": 35,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.17347838870920318,
-    "isPopularGameV2": true,
-    "popularGameSortOrderV2": 34
+    "trendingRatio": 0.15576867189770416,
+    "isPopularGameV2": false,
+    "popularGameSortOrderV2": null
   },
   {
     "menuGameTitle": "Path of Exile 2",
@@ -4209,11 +4261,11 @@
       "レインボーシージ"
     ],
     "createdDate": "2021-07-01T06:40:33.115092Z",
-    "popularGameSortOrder": 7,
+    "popularGameSortOrder": 9,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.12288236697685516,
+    "trendingRatio": 0.14596250638266833,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 8
+    "popularGameSortOrderV2": 12
   }
 ]
