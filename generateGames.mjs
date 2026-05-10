@@ -3,7 +3,7 @@ import { config, messages } from "./config.mjs";
 
 const OUTPUT_DIR = config.outputDirectory;
 
-async function ensureDir(dirPath) {
+async function ensureDir(/** @type {string} */ dirPath) {
 	try {
 		await fs.mkdir(dirPath, { recursive: true });
 		console.log(messages.ensuredDirectory(dirPath));
@@ -13,7 +13,7 @@ async function ensureDir(dirPath) {
 	}
 }
 
-async function delay(ms) {
+async function delay(/** @type {number} */ ms) {
 	return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
@@ -27,7 +27,10 @@ async function fetchGamesData() {
 			throw new Error(`HTTP error! status: ${response.status}`);
 		}
 
-		const data = await response.json();
+		const data =
+			/** @type {Array<{category: string, gameId: string | number}>} */ (
+				await response.json()
+			);
 		const accounts = data.filter((item) => item.category === "Account");
 		console.log(messages.initialFetchFound(accounts.length));
 		return accounts;
@@ -37,7 +40,30 @@ async function fetchGamesData() {
 	}
 }
 
-async function fetchGameDetails(gameId) {
+async function fetchOfferAttributes(/** @type {string | number} */ gameId) {
+	const url = `${config.url}/${gameId}/Account/attributes/offers`;
+	try {
+		const response = await fetch(url);
+		if (!response.ok) {
+			console.error(
+				messages.fetchOfferAttributesError(
+					gameId,
+					response.status,
+					response.statusText,
+				),
+			);
+			return [];
+		}
+		return /** @type {Array<{id: string, type: string, values: unknown[]}>} */ (
+			await response.json()
+		);
+	} catch (error) {
+		console.error(messages.fetchErrorGeneric(gameId), error);
+		return [];
+	}
+}
+
+async function fetchGameDetails(/** @type {string | number} */ gameId) {
 	const url = `${config.url}/${gameId}/Account/`;
 	try {
 		const response = await fetch(url);
@@ -51,8 +77,9 @@ async function fetchGameDetails(gameId) {
 			);
 			return null;
 		}
-		const data = await response.json();
-		return data;
+		const data = /** @type {Record<string, unknown>} */ (await response.json());
+		const offerAttributes = await fetchOfferAttributes(gameId);
+		return { ...data, offerAttributes, attributeIdsCsv: null };
 	} catch (error) {
 		console.error(messages.fetchErrorGeneric(gameId), error);
 		return null;
@@ -85,6 +112,7 @@ async function runFetchGames() {
 async function runFetchDetails() {
 	await ensureDir(OUTPUT_DIR);
 
+	/** @type {Array<{gameId: string | number}>} */
 	let initialGamesData;
 	const gamesFilePath = `${OUTPUT_DIR}/${config.games.name}`;
 	try {

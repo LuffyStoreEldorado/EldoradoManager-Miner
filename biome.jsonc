@@ -1,9 +1,34 @@
 {
-  "linter": {
-    "rules": {
-      "correctness": {
-        "noUndeclaredVariables": "error"
-      }
-    }
-  }
+	"$schema": "https://biomejs.dev/schemas/2.4.15/schema.json",
+	"assist": {
+		"actions": {
+			"source": {
+				"organizeImports": "on"
+			}
+		}
+	},
+	"linter": {
+		"enabled": true,
+		"rules": {
+			"recommended": true,
+			"correctness": {
+				"noUndeclaredVariables": "error"
+			}
+		}
+	},
+	"formatter": {
+		"enabled": true,
+		"indentStyle": "tab",
+		"lineWidth": 80
+	},
+	"javascript": {
+		"formatter": {
+			"quoteStyle": "double",
+			"trailingCommas": "all",
+			"semicolons": "always"
+		}
+	},
+	"files": {
+		"includes": ["**/*.mjs", "**/*.js", "**/*.ts", "!output", "!node_modules"]
+	}
 }

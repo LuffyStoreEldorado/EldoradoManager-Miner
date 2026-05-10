@@ -55,7 +55,7 @@ async function fetchSwaggerJson() {
 			);
 		}
 
-		const data = await response.json();
+		const data = /** @type {object} */ (await response.json());
 		console.log(messages.fetchSwaggerSuccess);
 		return data;
 	} catch (error) {

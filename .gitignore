@@ -1,2 +1,4 @@
 tmp
 output
+node_modules
+*.lock
