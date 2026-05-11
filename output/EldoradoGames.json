@@ -47,6 +47,32 @@
     "popularGameSortOrderV2": null
   },
   {
+    "menuGameTitle": "The Division 2",
+    "gameId": "411",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "The Division 2",
+    "gameGroup": null,
+    "legacyUrlId": null,
+    "imageAlt": "division 2 accounts for sale",
+    "seoAlias": "division-2-accounts-for-sale",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "The Division 2",
+      "Tom Clancy’s The Division 2",
+      "ディビジョン2",
+      "TD2"
+    ],
+    "createdDate": "2026-05-11T06:48:24.1855236Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false,
+    "trendingRatio": 0,
+    "isPopularGameV2": false,
+    "popularGameSortOrderV2": null
+  },
+  {
     "menuGameTitle": "Marvel Rivals",
     "gameId": "227",
     "category": "Account",
@@ -66,7 +92,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.13997477931904162,
+    "trendingRatio": 0.14590301003344483,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -197,7 +223,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
+    "trendingRatio": 0.15755855216465578,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -574,7 +600,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.17409184372858122,
+    "trendingRatio": 0.1997277985709425,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -673,7 +699,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1304860088365243,
+    "trendingRatio": 0.14059562679331156,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -699,7 +725,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.29694323144104806,
+    "trendingRatio": 0.2930387661525636,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -724,7 +750,7 @@
     "popularGameSortOrder": 6,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.16882891029877223,
+    "trendingRatio": 0.18221604723862453,
     "isPopularGameV2": true,
     "popularGameSortOrderV2": 3
   },
@@ -776,7 +802,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 1.1961722488038278,
+    "trendingRatio": 1.7443946188340806,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -801,7 +827,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.15129539124494193,
+    "trendingRatio": 0.1550751879699248,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -907,7 +933,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15164018980812874,
+    "trendingRatio": 0.16615130900845188,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -930,6 +956,57 @@
     ],
     "createdDate": "2021-07-01T06:40:33.1152161Z",
     "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false,
+    "trendingRatio": 0,
+    "isPopularGameV2": false,
+    "popularGameSortOrderV2": null
+  },
+  {
+    "menuGameTitle": "Forza Horizon 6",
+    "gameId": "414",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "Forza Horizon 6",
+    "gameGroup": null,
+    "legacyUrlId": null,
+    "imageAlt": "forza horizon 6 accounts",
+    "seoAlias": "forza-horizon-6-accounts",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "Forza Horizon 6"
+    ],
+    "createdDate": "2026-05-11T08:57:03.2046477Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false,
+    "trendingRatio": 0,
+    "isPopularGameV2": false,
+    "popularGameSortOrderV2": null
+  },
+  {
+    "menuGameTitle": "MapleStory",
+    "gameId": "120",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "MapleStory",
+    "gameGroup": "",
+    "legacyUrlId": "120-1-0",
+    "imageAlt": "maplestory accounts",
+    "seoAlias": "maplestory-accounts-for-sale",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "MapleStory",
+      "MS",
+      "メイプルストーリー",
+      "メイプル",
+      "メイポ",
+      "めいぽ"
+    ],
+    "createdDate": "2022-09-12T07:13:25.4549918Z",
+    "popularGameSortOrder": 0,
     "filterGroups": [],
     "isHighRisk": false,
     "trendingRatio": 0,
@@ -1010,7 +1087,7 @@
     "popularGameSortOrder": 42,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.13013698630136986,
+    "trendingRatio": 0.13958616010854816,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1061,7 +1138,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1322930800542741,
+    "trendingRatio": 0.12932482364796774,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1162,7 +1239,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1301190236029857,
+    "trendingRatio": 0.14796021920032473,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1189,7 +1266,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.17567567567567569,
+    "trendingRatio": 0.20065328978068128,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1392,7 +1469,7 @@
     "popularGameSortOrder": 16,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.11719802424786709,
+    "trendingRatio": 0.13275690999291284,
     "isPopularGameV2": true,
     "popularGameSortOrderV2": 17
   },
@@ -1448,7 +1525,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.23513694054776219,
+    "trendingRatio": 0.23660130718954248,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1706,7 +1783,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 6.701612903225806,
+    "trendingRatio": 2.9096573208722742,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1812,7 +1889,7 @@
     "popularGameSortOrder": 38,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.173224043715847,
+    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1968,7 +2045,7 @@
     "popularGameSortOrder": 41,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1622673434856176,
+    "trendingRatio": 0.17240799865568812,
     "isPopularGameV2": true,
     "popularGameSortOrderV2": 35
   },
@@ -2331,7 +2408,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1271978021978022,
+    "trendingRatio": 0.14139740403203535,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2382,7 +2459,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.09462982273201251,
+    "trendingRatio": 0.12046291425565492,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2483,7 +2560,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1754739814441307,
+    "trendingRatio": 0.19925709737330857,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2617,7 +2694,7 @@
     "popularGameSortOrder": 1,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.13966992665036676,
+    "trendingRatio": 0.14872885717226472,
     "isPopularGameV2": true,
     "popularGameSortOrderV2": 2
   },
@@ -2807,7 +2884,7 @@
     "popularGameSortOrder": 33,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14300151591712987,
+    "trendingRatio": 0.1540716197272843,
     "isPopularGameV2": true,
     "popularGameSortOrderV2": 30
   },
@@ -2831,7 +2908,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.12029260363045245,
+    "trendingRatio": 0.1280402571987699,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2857,7 +2934,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.12828371278458844,
+    "trendingRatio": 0.13717780690257755,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2962,7 +3039,7 @@
     "popularGameSortOrder": 34,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.13203279615493355,
+    "trendingRatio": 0.141643059490085,
     "isPopularGameV2": true,
     "popularGameSortOrderV2": 33
   },
@@ -3014,7 +3091,7 @@
     "popularGameSortOrder": 27,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.18072405160793376,
+    "trendingRatio": 0.18403862539051405,
     "isPopularGameV2": true,
     "popularGameSortOrderV2": 23
   },
@@ -3119,7 +3196,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15194610778443113,
+    "trendingRatio": 0.17452402538531278,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3194,7 +3271,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.21221864951768488,
+    "trendingRatio": 0.1970164609053498,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3245,7 +3322,7 @@
     "popularGameSortOrder": 39,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.13686455741201564,
+    "trendingRatio": 0.14481065918653577,
     "isPopularGameV2": true,
     "popularGameSortOrderV2": 32
   },
@@ -3341,7 +3418,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1596446700507614,
+    "trendingRatio": 0.15421383647798742,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3441,7 +3518,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.15349344978165938,
+    "trendingRatio": 0.16757701551234433,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3492,7 +3569,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.16792611251049538,
+    "trendingRatio": 0.16673596673596675,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3750,7 +3827,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.20102813852813853,
+    "trendingRatio": 0.2162883845126836,
     "isPopularGameV2": true,
     "popularGameSortOrderV2": 43
   },
@@ -3807,7 +3884,7 @@
     "popularGameSortOrder": 2,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.13839031917485584,
+    "trendingRatio": 0.14697757556061097,
     "isPopularGameV2": true,
     "popularGameSortOrderV2": 4
   },
@@ -3832,7 +3909,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1657882127455678,
+    "trendingRatio": 0.15591144606688648,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3959,7 +4036,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.11516346311812059,
+    "trendingRatio": 0.09688412852969815,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3984,7 +4061,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.09136622390891841,
+    "trendingRatio": 0.12323424338763068,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -4208,7 +4285,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.13488783943329397,
+    "trendingRatio": 0.14669051878354203,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -4318,7 +4395,7 @@
     "popularGameSortOrder": 12,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.12896053362979434,
+    "trendingRatio": 0.14046205679448098,
     "isPopularGameV2": true,
     "popularGameSortOrderV2": 12
   }
