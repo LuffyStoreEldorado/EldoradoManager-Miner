@@ -35,7 +35,7 @@
     "imageAlt": "rocket league accounts",
     "seoAlias": "rocket-league-accounts-for-sale",
     "isSingleOfferGame": false,
-    "isPopularGame": true,
+    "isPopularGame": false,
     "synonymNames": [
       "Rocket League",
       "rleague",
@@ -44,10 +44,10 @@
       "ロケリ"
     ],
     "createdDate": "2021-07-01T06:40:33.1152239Z",
-    "popularGameSortOrder": 40,
+    "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14456981664315938,
+    "trendingRatio": 0.1499632892804699,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -69,10 +69,10 @@
       "old school rs"
     ],
     "createdDate": "2021-07-01T06:40:33.1152207Z",
-    "popularGameSortOrder": 31,
+    "popularGameSortOrder": 33,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1420274551214361,
+    "trendingRatio": 0.14799588900308325,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -96,7 +96,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.2537625418060201,
+    "trendingRatio": 0.1853803095159697,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -125,7 +125,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
+    "trendingRatio": 0.1570552147239264,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -151,7 +151,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15480172001911133,
+    "trendingRatio": 0.1613372093023256,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -380,9 +380,9 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.11179550354173083,
-    "isPopularGameV2": false,
-    "popularGameSortOrderV2": null
+    "trendingRatio": 0.9668096214805146,
+    "isPopularGameV2": true,
+    "popularGameSortOrderV2": 18
   },
   {
     "menuGameTitle": "Diablo 4",
@@ -488,7 +488,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
+    "trendingRatio": 0.20425531914893616,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -803,12 +803,12 @@
       "フォトナ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151738Z",
-    "popularGameSortOrder": 2,
+    "popularGameSortOrder": 5,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.14712758851035404,
+    "trendingRatio": 0.1628723040054776,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 5
+    "popularGameSortOrderV2": 3
   },
   {
     "menuGameTitle": "Arknights",
@@ -877,12 +877,12 @@
       "レジェンドオブリーグ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151712Z",
-    "popularGameSortOrder": 18,
+    "popularGameSortOrder": 20,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.17135782088320264,
+    "trendingRatio": 0.15800652355306077,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 19
+    "popularGameSortOrderV2": 21
   },
   {
     "menuGameTitle": "Throne and Liberty",
@@ -1042,7 +1042,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.16860986547085202,
+    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1160,7 +1160,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
+    "trendingRatio": 0.6467661691542289,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1235,7 +1235,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1411800120409392,
+    "trendingRatio": 0.13647058823529412,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1314,12 +1314,12 @@
       "CS GO"
     ],
     "createdDate": "2021-07-01T06:40:33.1150134Z",
-    "popularGameSortOrder": 36,
+    "popularGameSortOrder": 34,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15345990899105602,
-    "isPopularGameV2": true,
-    "popularGameSortOrderV2": 37
+    "trendingRatio": 0.13569970158630437,
+    "isPopularGameV2": false,
+    "popularGameSortOrderV2": null
   },
   {
     "menuGameTitle": "Adopt Me",
@@ -1342,9 +1342,9 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.11080764728833398,
-    "isPopularGameV2": false,
-    "popularGameSortOrderV2": null
+    "trendingRatio": 0.9413030116779348,
+    "isPopularGameV2": true,
+    "popularGameSortOrderV2": 15
   },
   {
     "menuGameTitle": "Blox Fruits",
@@ -1367,7 +1367,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14082563939297463,
+    "trendingRatio": 0.17036267036267036,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1495,9 +1495,9 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.15153792205189862,
+    "trendingRatio": 0.14617642668789493,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 32
+    "popularGameSortOrderV2": 33
   },
   {
     "menuGameTitle": "Fisch",
@@ -1644,7 +1644,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1659043659043659,
+    "trendingRatio": 0.14843432289548597,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1959,12 +1959,12 @@
       "GTA 5 Legacy"
     ],
     "createdDate": "2021-07-01T06:40:33.1151231Z",
-    "popularGameSortOrder": 1,
+    "popularGameSortOrder": 2,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15621244893054553,
+    "trendingRatio": 0.1571783888351527,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 4
+    "popularGameSortOrderV2": 2
   },
   {
     "menuGameTitle": "Girls Frontline 2: Exilium",
@@ -2013,7 +2013,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.20030721966205836,
+    "trendingRatio": 0.19295392953929538,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2062,7 +2062,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.2031759843376115,
+    "trendingRatio": 0.15016469676419297,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2112,7 +2112,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.13776164032464758,
+    "trendingRatio": 0.16877443090365601,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2239,7 +2239,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1459734050500523,
+    "trendingRatio": 0.14249515576091817,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2416,7 +2416,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14677685950413222,
+    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2539,12 +2539,12 @@
       "ヴァロ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151106Z",
-    "popularGameSortOrder": 5,
+    "popularGameSortOrder": 4,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.162492605008874,
+    "trendingRatio": 0.15016035920461834,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 3
+    "popularGameSortOrderV2": 4
   },
   {
     "menuGameTitle": "Arena Breakout: Infinite",
@@ -2718,9 +2718,9 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1389841071985042,
-    "isPopularGameV2": true,
-    "popularGameSortOrderV2": 40
+    "trendingRatio": 0.15509103169251517,
+    "isPopularGameV2": false,
+    "popularGameSortOrderV2": null
   },
   {
     "menuGameTitle": "World of Warships",
@@ -3085,7 +3085,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.7098950524737632,
+    "trendingRatio": 0.2768224014609649,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3145,12 +3145,12 @@
       "bo7"
     ],
     "createdDate": "2021-07-01T06:40:33.1151072Z",
-    "popularGameSortOrder": 29,
+    "popularGameSortOrder": 26,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15857000498256105,
+    "trendingRatio": 0.13972637446161643,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 30
+    "popularGameSortOrderV2": 26
   },
   {
     "menuGameTitle": "Bleach: Soul Resonance",
@@ -3295,7 +3295,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.18998272884283246,
+    "trendingRatio": 0.16449885233358838,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3318,7 +3318,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.16276202219482122,
+    "trendingRatio": 0.14841250307654444,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3367,7 +3367,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.09329017068864037,
+    "trendingRatio": 0.10597302504816955,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3415,7 +3415,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.2019099590723056,
+    "trendingRatio": 0.16070742022299117,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3468,7 +3468,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
+    "trendingRatio": 0.15489233094068758,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3644,9 +3644,9 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 37.074074074074076,
+    "trendingRatio": 0.8151718357082984,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 25
+    "popularGameSortOrderV2": 11
   },
   {
     "menuGameTitle": "Steam",
@@ -3676,7 +3676,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.18052538020936204,
+    "trendingRatio": 0.13532282282282282,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3833,12 +3833,12 @@
       "レインボーシージ"
     ],
     "createdDate": "2021-07-01T06:40:33.115092Z",
-    "popularGameSortOrder": 11,
+    "popularGameSortOrder": 13,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.12523068810967572,
+    "trendingRatio": 0.1322859082533217,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 15
+    "popularGameSortOrderV2": 12
   },
   {
     "menuGameTitle": "Clash Royale",
@@ -3930,17 +3930,17 @@
     "imageAlt": "brawl stars accounts",
     "seoAlias": "brawl-stars-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": true,
+    "isPopularGame": false,
     "synonymNames": [
       "Brawl Stars",
       "bs",
       "ブロスタ"
     ],
     "createdDate": "2021-07-01T06:40:33.1150839Z",
-    "popularGameSortOrder": 41,
+    "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.13007284079084286,
+    "trendingRatio": 0.10202578268876611,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3955,7 +3955,7 @@
     "imageAlt": "pokemon go accounts",
     "seoAlias": "pokemon-go-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": false,
+    "isPopularGame": true,
     "synonymNames": [
       "Pokemon Go",
       "ポケモンGO",
@@ -3965,10 +3965,10 @@
       "ポケモンゴウ"
     ],
     "createdDate": "2021-07-01T06:40:33.1150836Z",
-    "popularGameSortOrder": null,
+    "popularGameSortOrder": 40,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.13531536537927202,
+    "trendingRatio": 0.1531791907514451,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -4011,7 +4011,7 @@
     "imageAlt": "minecraft accounts",
     "seoAlias": "minecraft-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": false,
+    "isPopularGame": true,
     "synonymNames": [
       "Minecraft",
       "MC",
@@ -4020,12 +4020,12 @@
       "マイクラjava"
     ],
     "createdDate": "2021-07-01T06:40:33.1149805Z",
-    "popularGameSortOrder": null,
+    "popularGameSortOrder": 30,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.17342999717540722,
+    "trendingRatio": 0.15551604753438758,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 34
+    "popularGameSortOrderV2": 25
   },
   {
     "menuGameTitle": "Origin",
@@ -4141,12 +4141,12 @@
       "Garden Horizons"
     ],
     "createdDate": "2021-07-01T06:40:33.1149892Z",
-    "popularGameSortOrder": 16,
+    "popularGameSortOrder": 18,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.13891763559992695,
+    "trendingRatio": 0.2568619151499365,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 11
+    "popularGameSortOrderV2": 16
   },
   {
     "menuGameTitle": "Raid: Shadow Legends",
@@ -4168,10 +4168,10 @@
       "レイドシャドウ"
     ],
     "createdDate": "2021-07-09T07:32:49.8089677Z",
-    "popularGameSortOrder": 42,
+    "popularGameSortOrder": 38,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.20344565492779326,
+    "trendingRatio": 0.14077555816686252,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -4244,7 +4244,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
+    "trendingRatio": 0.1665815022994379,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
