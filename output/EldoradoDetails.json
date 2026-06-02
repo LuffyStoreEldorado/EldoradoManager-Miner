@@ -154,9 +154,9 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.140011068068622,
-    "isPopularGameV2": true,
-    "popularGameSortOrderV2": 28,
+    "trendingRatio": 0.15345174876396264,
+    "isPopularGameV2": false,
+    "popularGameSortOrderV2": null,
     "offerAttributes": [],
     "attributeIdsCsv": null
   },
@@ -476,12 +476,12 @@
       "old school rs"
     ],
     "createdDate": "2021-07-01T06:40:33.1152207Z",
-    "popularGameSortOrder": 29,
+    "popularGameSortOrder": 32,
     "filterGroups": [],
     "isHighRisk": false,
     "trendingRatio": 0,
-    "isPopularGameV2": true,
-    "popularGameSortOrderV2": 21,
+    "isPopularGameV2": false,
+    "popularGameSortOrderV2": null,
     "offerAttributes": [
       {
         "selectValues": [
@@ -537,6 +537,87 @@
       {
         "selectValues": [
           {
+            "id": "combat-313",
+            "name": "3-13",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "combat-1424",
+            "name": "14-24",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "combat-2535",
+            "name": "25-35",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "combat-3646",
+            "name": "36-46",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "combat-4757",
+            "name": "47-57",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "combat-5868",
+            "name": "58-68",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "combat-6979",
+            "name": "69-79",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "combat-8090",
+            "name": "80-90",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "combat-91101",
+            "name": "91-101",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "combat-102112",
+            "name": "102-112",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "combat-113126",
+            "name": "113-126",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "combat-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "osrs-combat-level",
+        "name": "Combat Level",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
             "id": "jagex-launcher",
             "name": "Jagex Launcher",
             "imageLocation": null,
@@ -570,6 +651,126 @@
       {
         "selectValues": [
           {
+            "id": "pets-1",
+            "name": "1",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "pets-2",
+            "name": "2",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "pets-3",
+            "name": "3",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "pets-4",
+            "name": "4",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "pets-5",
+            "name": "5",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "pets-6",
+            "name": "6",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "pets-7",
+            "name": "7",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "pets-8",
+            "name": "8",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "pets-9",
+            "name": "9",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "pets-10plus",
+            "name": "10+",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "pets-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "osrs-pets",
+        "name": "Pets",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "points-099",
+            "name": "0-99",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "points-100199",
+            "name": "100-199",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "points-200299",
+            "name": "200-299",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "points-300plus",
+            "name": "300+",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "points-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "osrs-quest-points",
+        "name": "Quest Points",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "2000",
+            "name": "2000-2376",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
             "id": "32-499",
             "name": "32-499",
             "imageLocation": null,
@@ -590,12 +791,6 @@
           {
             "id": "1500-1999",
             "name": "1500-1999",
-            "imageLocation": null,
-            "isDefault": false
-          },
-          {
-            "id": "2000",
-            "name": "2000",
             "imageLocation": null,
             "isDefault": false
           }
@@ -638,7 +833,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.19429810969941122,
+    "trendingRatio": 0.1703091684434968,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -767,7 +962,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15335305719921105,
+    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -3175,12 +3370,12 @@
       "ドラレジェ"
     ],
     "createdDate": "2023-03-24T14:07:12.8598337Z",
-    "popularGameSortOrder": 30,
+    "popularGameSortOrder": 33,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.38894861320146207,
+    "trendingRatio": 0.21451104100946372,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 29,
+    "popularGameSortOrderV2": 36,
     "offerAttributes": [],
     "attributeIdsCsv": null
   },
@@ -3573,7 +3768,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1343028229255774,
+    "trendingRatio": 0.15782774713619008,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -4755,10 +4950,10 @@
       "フォトナ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151738Z",
-    "popularGameSortOrder": 4,
+    "popularGameSortOrder": 2,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.15743389683571737,
+    "trendingRatio": 0.17647554806070825,
     "isPopularGameV2": true,
     "popularGameSortOrderV2": 2,
     "offerAttributes": [
@@ -4799,6 +4994,186 @@
         "isRequired": true,
         "id": "fortnite-account-type",
         "name": "Account Type",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "emotes-149",
+            "name": "1-49",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "emotes-5099",
+            "name": "50-99",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "emotes-100199",
+            "name": "100-199",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "emotes-200499",
+            "name": "200-499",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "emotes-500plus",
+            "name": "500+",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "emotes-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "fortnite-emotes",
+        "name": "Emotes",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "outfits-149",
+            "name": "1-49",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "outfits-5099",
+            "name": "50-99",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "outfits-100199",
+            "name": "100-199",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "outfits-200499",
+            "name": "200-499",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "outfits-500plus",
+            "name": "500+",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "outfits-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "fortnite-outfits-skins",
+        "name": "Outfits/Skins",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "pickaxes-149",
+            "name": "1-49",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "pickaxes-5099",
+            "name": "50-99",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "pickaxes-100199",
+            "name": "100-199",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "pickaxes-200499",
+            "name": "200-499",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "pickaxes-500plus",
+            "name": "500+",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "pickaxes-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "fortnite-pickaxes",
+        "name": "Pickaxes",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "vbucks-1499",
+            "name": "1-499",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "vbucks-500999",
+            "name": "500-999",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "vbucks-1199",
+            "name": "1K-1.99K",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "vbucks-2499",
+            "name": "2K-4.99K",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "vbucks-5",
+            "name": "5K+",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "vbucks-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "fortnite-vbucks",
+        "name": "V-Bucks",
         "type": "Select"
       }
     ],
@@ -5531,13 +5906,205 @@
       "レジェンドオブリーグ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151712Z",
-    "popularGameSortOrder": 20,
+    "popularGameSortOrder": 19,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.13611007809594644,
+    "trendingRatio": 0.1518987341772152,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 18,
+    "popularGameSortOrderV2": 25,
     "offerAttributes": [
+      {
+        "selectValues": [
+          {
+            "id": "champion-119",
+            "name": "1-19",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "champion-2049",
+            "name": "20-49",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "champion-5079",
+            "name": "50-79",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "champion-80119",
+            "name": "80-119",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "champion-120plus",
+            "name": "120+",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "champion-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "league-of-legends-champion-count",
+        "name": "Champion Count",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "previous-unranked",
+            "name": "Unranked",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "previous-iron",
+            "name": "Iron",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "previous-bronze",
+            "name": "Bronze",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "previous-silver",
+            "name": "Silver",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "previous-gold",
+            "name": "Gold",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "previous-platinum",
+            "name": "Platinum",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "previous-emerald",
+            "name": "Emerald",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "previous-diamond",
+            "name": "Diamond",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "previous-master",
+            "name": "Master",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "previous-grandmaster",
+            "name": "Grandmaster",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "previous-challenger",
+            "name": "Challenger",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "previous-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "league-of-legends-previous-rank",
+        "name": "Previous Rank",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "ready-yes",
+            "name": "Yes",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "ready-no",
+            "name": "No",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "league-of-legends-ranked-ready",
+        "name": "Ranked Ready",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "riot-999",
+            "name": "0-999",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "riot-1399",
+            "name": "1K-3.99K",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "riot-4999",
+            "name": "4K-9.99K",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "riot-101999",
+            "name": "10K-19.99K",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "riot-20plus",
+            "name": "20K+",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "riot-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "league-of-legends-riot-points",
+        "name": "Riot Points",
+        "type": "Select"
+      },
       {
         "selectValues": [
           {
@@ -5642,6 +6209,24 @@
           {
             "id": "other",
             "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "current-master",
+            "name": "Master",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "current-grandmaster",
+            "name": "Grandmaster",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "current-challenger",
+            "name": "Challenger",
             "imageLocation": null,
             "isDefault": false
           }
@@ -6079,10 +6664,245 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
+    "trendingRatio": 0.2511647606946209,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
-    "offerAttributes": [],
+    "offerAttributes": [
+      {
+        "selectValues": [
+          {
+            "id": "rank-unranked",
+            "name": "Unranked",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "rank-skeleton",
+            "name": "Skeleton",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "rank-barbarian",
+            "name": "Barbarian",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "rank-archer",
+            "name": "Archer",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "rank-wizard",
+            "name": "Wizard",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "rank-valkyrie",
+            "name": "Valkyrie",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "rank-witch",
+            "name": "Witch",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "rank-golem",
+            "name": "Golem",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "rank-pekka",
+            "name": "P.E.K.K.A",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "rank-titan",
+            "name": "Titan",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "rank-dragon",
+            "name": "Dragon",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "rank-electro",
+            "name": "Electro",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "rank-legend",
+            "name": "Legend",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "rank-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "clash-of-clans-current-rank",
+        "name": "Current Rank",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "maxed-yes",
+            "name": "Yes",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "maxed-no",
+            "name": "No",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "maxed-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "clash-of-clans-maxed-account",
+        "name": "Maxed Account",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "hall-13",
+            "name": "1-3",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "hall-46",
+            "name": "4-6",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "hall-79",
+            "name": "7-9",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "hall-1012",
+            "name": "10-12",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "hall-1315",
+            "name": "13-15",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "hall-1617",
+            "name": "16-17",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "hall-18",
+            "name": "18",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "hall-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "clash-of-clans-town-hall",
+        "name": "Town Hall",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "gems-0499",
+            "name": "0-499",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "gems-500999",
+            "name": "500-999",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "gems-1249",
+            "name": "1k-2.49k",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "gems-25499",
+            "name": "2.5K-4.99K",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "gems-5999",
+            "name": "5K-9.99K",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "gems-102499",
+            "name": "10K-24.99K",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "gems-25plus",
+            "name": "25K+",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "gems-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "coc-gems",
+        "name": "Gems",
+        "type": "Select"
+      }
+    ],
     "attributeIdsCsv": null
   },
   {
@@ -6644,7 +7464,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.10465429109496906,
+    "trendingRatio": 0.1562043795620438,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -7114,7 +7934,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.12987223030891154,
+    "trendingRatio": 0.1532979781239642,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [
@@ -7539,17 +8359,17 @@
     "imageAlt": "adopt me accounts",
     "seoAlias": "adopt-me-accounts-for-sale",
     "isSingleOfferGame": false,
-    "isPopularGame": true,
+    "isPopularGame": false,
     "synonymNames": [
       "Adopt Me",
       "Roblox Adopt Me",
       "アダプトミー"
     ],
     "createdDate": "2024-07-30T07:23:57.7160592Z",
-    "popularGameSortOrder": 24,
+    "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.23644933228593873,
+    "trendingRatio": 0.11107201501290172,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [
@@ -7688,7 +8508,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15746445497630332,
+    "trendingRatio": 0.17909080499255697,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -7871,9 +8691,9 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.15016841787743201,
-    "isPopularGameV2": false,
-    "popularGameSortOrderV2": null,
+    "trendingRatio": 0.1710467925644692,
+    "isPopularGameV2": true,
+    "popularGameSortOrderV2": 31,
     "offerAttributes": [],
     "attributeIdsCsv": null
   },
@@ -8898,7 +9718,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.16341463414634147,
+    "trendingRatio": 0.1799375487900078,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -10209,9 +11029,9 @@
     "popularGameSortOrder": 3,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.163415402934893,
+    "trendingRatio": 0.1673312203932795,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 4,
+    "popularGameSortOrderV2": 3,
     "offerAttributes": [],
     "attributeIdsCsv": null
   },
@@ -10368,7 +11188,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.16328600405679514,
+    "trendingRatio": 0.17819706498951782,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -10439,7 +11259,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.10733035193466849,
+    "trendingRatio": 0.1203099510603589,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -10511,7 +11331,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.13518696069031638,
+    "trendingRatio": 0.15771230502599654,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -10905,74 +11725,74 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14571472534236035,
-    "isPopularGameV2": true,
-    "popularGameSortOrderV2": 30,
+    "trendingRatio": 0.1375515818431912,
+    "isPopularGameV2": false,
+    "popularGameSortOrderV2": null,
     "offerAttributes": [
       {
         "selectValues": [
           {
-            "id": "bronze",
+            "id": "tier-unranked",
+            "name": "Unranked",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "tier-bronze",
             "name": "Bronze",
             "imageLocation": null,
             "isDefault": false
           },
           {
-            "id": "champion",
-            "name": "Champion",
-            "imageLocation": null,
-            "isDefault": false
-          },
-          {
-            "id": "diamond",
-            "name": "Diamond",
-            "imageLocation": null,
-            "isDefault": false
-          },
-          {
-            "id": "gold",
-            "name": "Gold",
-            "imageLocation": null,
-            "isDefault": false
-          },
-          {
-            "id": "grandmaster",
-            "name": "Grandmaster",
-            "imageLocation": null,
-            "isDefault": false
-          },
-          {
-            "id": "master",
-            "name": "Master",
-            "imageLocation": null,
-            "isDefault": false
-          },
-          {
-            "id": "platinum",
-            "name": "Platinum",
-            "imageLocation": null,
-            "isDefault": false
-          },
-          {
-            "id": "ranked-ready",
-            "name": "Ranked Ready",
-            "imageLocation": null,
-            "isDefault": false
-          },
-          {
-            "id": "silver",
+            "id": "tier-silver",
             "name": "Silver",
             "imageLocation": null,
             "isDefault": false
           },
           {
-            "id": "top-500",
+            "id": "tier-gold",
+            "name": "Gold",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "tier-platinum",
+            "name": "Platinum",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "tier-diamond",
+            "name": "Diamond",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "tier-master",
+            "name": "Master",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "tier-grandmaster",
+            "name": "Grandmaster",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "tier-champion",
+            "name": "Champion",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "tier-top500",
             "name": "Top 500",
             "imageLocation": null,
             "isDefault": false
           },
           {
-            "id": "other",
+            "id": "tier-other",
             "name": "Other",
             "imageLocation": null,
             "isDefault": false
@@ -10980,8 +11800,332 @@
         ],
         "isEditable": true,
         "isRequired": true,
-        "id": "overwatch-2-rank",
-        "name": "Rank",
+        "id": "overwatch-damage-tier",
+        "name": "Damage Tier",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "weapons-019",
+            "name": "0-19",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "weapons-1024",
+            "name": "10-24",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "weapons-2549",
+            "name": "25-49",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "weapons-50plus",
+            "name": "50+",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "weapons-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "overwatch-golden-weapons",
+        "name": "Golden Weapons",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "skins-099",
+            "name": "0-99",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "skins-100199",
+            "name": "100-199",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "skins-200299",
+            "name": "200-299",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "skins-300399",
+            "name": "300-399",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "skins-400499",
+            "name": "400-499",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "skins-500plus",
+            "name": "500+",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "skins-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "overwatch-legendary-skins",
+        "name": "Legendary Skins",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "level-099",
+            "name": "0-99",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "level-100599",
+            "name": "100-599",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "level-600999",
+            "name": "600-999",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "level-1000plus",
+            "name": "1000+",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "level-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "overwatch-level",
+        "name": "Level",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "mythics-02",
+            "name": "0-2",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "mythics-35",
+            "name": "3-5",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "mythics-68",
+            "name": "6-8",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "mythics-912",
+            "name": "9-12",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "mythics-13plus",
+            "name": "13+",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "mythics-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "overwatch-mythics",
+        "name": "Mythics",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "tier-unranked",
+            "name": "Unranked",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "tier-bronze",
+            "name": "Bronze",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "tier-silver",
+            "name": "Silver",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "tier-gold",
+            "name": "Gold",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "tier-platinum",
+            "name": "Platinum",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "tier-diamond",
+            "name": "Diamond",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "tier-master",
+            "name": "Master",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "tier-grandmaster",
+            "name": "Grandmaster",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "tier-champion",
+            "name": "Champion",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "tier-top500",
+            "name": "Top 500",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "tier-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "overwatch-support-tier",
+        "name": "Support Tier",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "tier-unranked",
+            "name": "Unranked",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "tier-bronze",
+            "name": "Bronze",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "tier-silver",
+            "name": "Silver",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "tier-gold",
+            "name": "Gold",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "tier-platinum",
+            "name": "Platinum",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "tier-diamond",
+            "name": "Diamond",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "tier-master",
+            "name": "Master",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "tier-grandmaster",
+            "name": "Grandmaster",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "tier-champion",
+            "name": "Champion",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "tier-top500",
+            "name": "Top 500",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "tier-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "overwatch-tank-tier",
+        "name": "Tank Tier",
         "type": "Select"
       }
     ],
@@ -11052,7 +12196,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
+    "trendingRatio": 0.20757575757575758,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -11321,9 +12465,9 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.12447405329593268,
-    "isPopularGameV2": false,
-    "popularGameSortOrderV2": null,
+    "trendingRatio": 0.19049295774647887,
+    "isPopularGameV2": true,
+    "popularGameSortOrderV2": 41,
     "offerAttributes": [],
     "attributeIdsCsv": null
   },
@@ -12365,12 +13509,12 @@
       "ヴァロ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151106Z",
-    "popularGameSortOrder": 9,
+    "popularGameSortOrder": 6,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.13748204882719003,
+    "trendingRatio": 0.16764919138740897,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 7,
+    "popularGameSortOrderV2": 6,
     "offerAttributes": [
       {
         "selectValues": [
@@ -12399,14 +13543,20 @@
             "isDefault": false
           },
           {
-            "id": "20-plus-agents",
-            "name": "20+ Agents",
+            "id": "other",
+            "name": "Other",
             "imageLocation": null,
             "isDefault": false
           },
           {
-            "id": "other",
-            "name": "Other",
+            "id": "agents-2125",
+            "name": "21-25",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "agents-26plus",
+            "name": "26+",
             "imageLocation": null,
             "isDefault": false
           }
@@ -12415,6 +13565,51 @@
         "isRequired": true,
         "id": "valorant-agents",
         "name": "Agents",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "knives-04",
+            "name": "0-4",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "knives-59",
+            "name": "5-9",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "knives-1014",
+            "name": "10-14",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "knives-1519",
+            "name": "15-19",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "knives-20plus",
+            "name": "20+",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "knives-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "valorant-knives",
+        "name": "Knives",
         "type": "Select"
       },
       {
@@ -12496,6 +13691,51 @@
         "isRequired": true,
         "id": "valorant-rank",
         "name": "Rank",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "spent-0499",
+            "name": "0-4.99K",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "spent-5999",
+            "name": "5K-9.99K",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "spent-101999",
+            "name": "10K-19.99K",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "spent-203499",
+            "name": "20K-34.99K",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "spent-35plus",
+            "name": "35K+",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "spent-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "valorant-spent-points",
+        "name": "Spent Points",
         "type": "Select"
       },
       {
@@ -13147,10 +14387,302 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14898029726927065,
+    "trendingRatio": 0.17414782315221058,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
-    "offerAttributes": [],
+    "offerAttributes": [
+      {
+        "selectValues": [
+          {
+            "id": "exotic-019",
+            "name": "0-19",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "exotic-2059",
+            "name": "20-59",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "exotic-60119",
+            "name": "60-119",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "exotic-120239",
+            "name": "120-239",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "exotic-240plus",
+            "name": "240+",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "exotic-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "apex-legends-exotic-shards",
+        "name": "Exotic Shards",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "heirloom-03",
+            "name": "0-3",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "heirloom-47",
+            "name": "4-7",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "heirloom-811",
+            "name": "8-11",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "heirllom-1215",
+            "name": "12-15",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "heirloom-1620",
+            "name": "16-20",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "heirloom-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "apex-legends-heirloom",
+        "name": "Heirloom",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "skins-019",
+            "name": "0-19",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "skins-2039",
+            "name": "20-39",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "skins-4079",
+            "name": "40-79",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "skins-80119",
+            "name": "80-119",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "skins-120199",
+            "name": "120-199",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "skins-200449",
+            "name": "200-449",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "skins-450749",
+            "name": "450-749",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "skins-750999",
+            "name": "750-999",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "skins-1000plus",
+            "name": "1000+",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "skins-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "apex-legends-legendary-skins",
+        "name": "Legendary Skins",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "level-119",
+            "name": "1-19",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "level-2049",
+            "name": "20-49",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "level-5099",
+            "name": "50-99",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "level-100299",
+            "name": "100-299",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "level-300499",
+            "name": "300-499",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "level-500999",
+            "name": "500-999",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "level-10001499",
+            "name": "1000-1499",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "level-15002000",
+            "name": "1500-2000",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "level-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "apex-legends-level",
+        "name": "Level",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "rank-unranked",
+            "name": "Unranked",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "rank-rookie",
+            "name": "Rookie",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "rank-bronze",
+            "name": "Bronze",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "rank-silver",
+            "name": "Silver",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "rank-gold",
+            "name": "Gold",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "rank-platinum",
+            "name": "Platinum",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "rank-diamond",
+            "name": "Diamond",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "rank-master",
+            "name": "Master",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "rank-predator",
+            "name": "Predator",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "rank-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "apex-legends-rank",
+        "name": "Rank",
+        "type": "Select"
+      }
+    ],
     "attributeIdsCsv": null
   },
   {
@@ -13974,7 +15506,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.12226604517748296,
+    "trendingRatio": 0.15243840098149475,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -14741,10 +16273,10 @@
       "bo7"
     ],
     "createdDate": "2021-07-01T06:40:33.1151072Z",
-    "popularGameSortOrder": 26,
+    "popularGameSortOrder": 35,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.12387096774193548,
+    "trendingRatio": 0.126514131897712,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [
@@ -15278,7 +16810,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14825005502971605,
+    "trendingRatio": 0.13941751655977289,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -15364,7 +16896,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.11826899434472585,
+    "trendingRatio": 0.16877739892839747,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [
@@ -15644,7 +17176,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.11192307692307692,
+    "trendingRatio": 0.15926680244399186,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -15788,7 +17320,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1356954391255183,
+    "trendingRatio": 0.1543502002184201,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [
@@ -16419,12 +17951,12 @@
       "Forza Horizon 6"
     ],
     "createdDate": "2026-05-11T08:57:03.2046477Z",
-    "popularGameSortOrder": 10,
+    "popularGameSortOrder": 20,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.42309917833584076,
+    "trendingRatio": 0.21876308809158174,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 19,
+    "popularGameSortOrderV2": 29,
     "offerAttributes": [],
     "attributeIdsCsv": null
   },
@@ -16465,7 +17997,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.13444079582769944,
+    "trendingRatio": 0.15751056473300037,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -16503,7 +18035,29 @@
     "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
-    "offerAttributes": [],
+    "offerAttributes": [
+      {
+        "selectValues": [
+          {
+            "id": "mortal-kombat-ios",
+            "name": "iOS",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "mortal-kombat-android",
+            "name": "Android",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "mortal-kombat-device",
+        "name": "Device",
+        "type": "Select"
+      }
+    ],
     "attributeIdsCsv": null
   },
   {
@@ -17554,15 +19108,258 @@
       "レインボーシージ"
     ],
     "createdDate": "2021-07-01T06:40:33.115092Z",
-    "popularGameSortOrder": 15,
+    "popularGameSortOrder": 14,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1277560271996703,
+    "trendingRatio": 0.16301969365426697,
     "isPopularGameV2": true,
     "popularGameSortOrderV2": 17,
     "offerAttributes": [
       {
         "selectValues": [
+          {
+            "id": "purchased-yes",
+            "name": "Yes",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "purchased-no",
+            "name": "No",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "rainbow-six-game-purchased",
+        "name": "Game Purchased",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "operators-09",
+            "name": "0-9",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "operators-1014",
+            "name": "10-14",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "operators-1519",
+            "name": "15-19",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "operators-2024",
+            "name": "20-24",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "operators-2529",
+            "name": "25-29",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "operators-3034",
+            "name": "30-34",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "operators-3539",
+            "name": "35-39",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "operators-4044",
+            "name": "40-44",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "operators-4549",
+            "name": "45-49",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "operators-50plus",
+            "name": "50+",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "operators-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "rainbow-six-operators",
+        "name": "Operators",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "previous-unraked",
+            "name": "Unranked",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "previous-copper",
+            "name": "Copper",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "previous-bronze",
+            "name": "Bronze",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "previous-silver",
+            "name": "Silver",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "previous-gold",
+            "name": "Gold",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "previous-platinum",
+            "name": "Platinum",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "previous-emerald",
+            "name": "Emerald",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "previous-diamond",
+            "name": "Diamond",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "previous-champion",
+            "name": "Champion",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "previous-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "rainbow-six-previous-rank",
+        "name": "Previous Rank",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "ranked-unlocked-yes",
+            "name": "Yes",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "ranked-unlocked-no",
+            "name": "No",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "rainbow-six-ranked-unlocked",
+        "name": "Ranked Unlocked",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "renown-05",
+            "name": "0-5K",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "renown-619",
+            "name": "6K-19K",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "renown-2049",
+            "name": "20K-49K",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "renown-5074",
+            "name": "50K-74K",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "renown-7599",
+            "name": "75K-99K",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "renown-100plus",
+            "name": "100K+",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "renown-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "rainbow-six-renown",
+        "name": "Renown",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "50",
+            "name": "50+",
+            "imageLocation": null,
+            "isDefault": false
+          },
           {
             "id": "0",
             "name": "0",
@@ -17604,12 +19401,6 @@
             "name": "40-49",
             "imageLocation": null,
             "isDefault": false
-          },
-          {
-            "id": "50",
-            "name": "50",
-            "imageLocation": null,
-            "isDefault": false
           }
         ],
         "isEditable": true,
@@ -17621,14 +19412,14 @@
       {
         "selectValues": [
           {
-            "id": "bronze",
-            "name": "Bronze",
+            "id": "champions",
+            "name": "Champion",
             "imageLocation": null,
             "isDefault": false
           },
           {
-            "id": "champions",
-            "name": "Champions",
+            "id": "bronze",
+            "name": "Bronze",
             "imageLocation": null,
             "isDefault": false
           },
@@ -17902,7 +19693,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.11657926583299717,
+    "trendingRatio": 0.16666666666666666,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [
@@ -18654,7 +20445,7 @@
     "imageAlt": "pokemon go accounts",
     "seoAlias": "pokemon-go-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": false,
+    "isPopularGame": true,
     "synonymNames": [
       "Pokemon Go",
       "ポケモンGO",
@@ -18664,13 +20455,178 @@
       "ポケモンゴウ"
     ],
     "createdDate": "2021-07-01T06:40:33.1150836Z",
-    "popularGameSortOrder": null,
+    "popularGameSortOrder": 36,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.16909361069836554,
-    "isPopularGameV2": false,
-    "popularGameSortOrderV2": null,
+    "trendingRatio": 0.1891353811149033,
+    "isPopularGameV2": true,
+    "popularGameSortOrderV2": 35,
     "offerAttributes": [
+      {
+        "selectValues": [
+          {
+            "id": "hundo-024",
+            "name": "0-24",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "hundo-2549",
+            "name": "25-49",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "hundo-5074",
+            "name": "50-74",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "hundo-7599",
+            "name": "75-99",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "hundo-100149",
+            "name": "100-149",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "hundo-150199",
+            "name": "150-199",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "hundo-200plus",
+            "name": "200+",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "hundo-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "pokemon-go-hundo-pokemons",
+        "name": "Hundo Pokemons",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "items-099",
+            "name": "0-99",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "items-100199",
+            "name": "100-199",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "items-200299",
+            "name": "200-299",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "items-300399",
+            "name": "300-399",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "items-400499",
+            "name": "400-499",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "items-500plus",
+            "name": "500+",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "items-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "pokemon-go-items",
+        "name": "Items",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "legendary-024",
+            "name": "0-24",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "legendary-2549",
+            "name": "25-49",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "legendary-5074",
+            "name": "50-74",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "legendary-7599",
+            "name": "75-99",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "legendary-100149",
+            "name": "100-149",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "legendary-150199",
+            "name": "150-199",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "legendary-200plus",
+            "name": "200+",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "legendary-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "pokemon-go-legendary-pokemons",
+        "name": "Legendary Pokemons",
+        "type": "Select"
+      },
       {
         "selectValues": [
           {
@@ -18738,6 +20694,204 @@
         "isRequired": true,
         "id": "pokemon-go-level",
         "name": "Level",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "mythical-14",
+            "name": "0-4",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "mythical-59",
+            "name": "5-9",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "mythical-1019",
+            "name": "10-19",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "mythical-2049",
+            "name": "20-49",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "mythical-50plus",
+            "name": "50+",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "mythical-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "pokemon-go-mythical-pokemons",
+        "name": "Mythical Pokemons",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "pokecoins-0999",
+            "name": "0-999",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "pokecoins-1499",
+            "name": "1K-4.99K",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "pokecoins-5999",
+            "name": "5K-9.99K",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "pokecoins-104999",
+            "name": "10K-49.99K",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "pokecoins-50plus",
+            "name": "50K+",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "pokecoins-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "pokemon-go-pokecoinss",
+        "name": "PokeCoins",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "shiny-024",
+            "name": "0-24",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "shiny-2549",
+            "name": "25-49",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "shiny-5074",
+            "name": "50-74",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "shiny-7599",
+            "name": "75-99",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "shiny-100149",
+            "name": "100-149",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "shiny-150199",
+            "name": "150-199",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "shiny-200plus",
+            "name": "200+",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "shiny-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "pokemon-go-shiny-pokemons",
+        "name": "Shiny Pokemons",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "stardust-0499",
+            "name": "0-499K",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "stardust-500999",
+            "name": "500K-999K",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "stardust-1499",
+            "name": "1M-4.99M",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "stardust-5699",
+            "name": "5M-6.99M",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "stardust-7999",
+            "name": "7M-9.99M",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "stardust-10plus",
+            "name": "10M+",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "stardust-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "pokemon-go-stardust",
+        "name": "Stardust",
         "type": "Select"
       },
       {
@@ -18966,12 +21120,12 @@
       "マイクラjava"
     ],
     "createdDate": "2021-07-01T06:40:33.1149805Z",
-    "popularGameSortOrder": 28,
+    "popularGameSortOrder": 27,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14612089481199428,
+    "trendingRatio": 0.19130114264651676,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 32,
+    "popularGameSortOrderV2": 24,
     "offerAttributes": [
       {
         "selectValues": [
@@ -19331,15 +21485,20 @@
       "Bubble Gum Simulator Infinity",
       "bgsi",
       "99 Nights In The Forest",
-      "Garden Horizons"
+      "Garden Horizons",
+      "Survive Zombie Arena",
+      "Sell Lemons",
+      "Build a Rink Farm",
+      "Slime rng",
+      "+1 Speed Keyboard Escape"
     ],
     "createdDate": "2021-07-01T06:40:33.1149892Z",
     "popularGameSortOrder": 16,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.17342555071448157,
+    "trendingRatio": 0.1552344508538466,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 14,
+    "popularGameSortOrderV2": 16,
     "offerAttributes": [],
     "attributeIdsCsv": null
   },
@@ -19491,7 +21650,7 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.09020100502512562,
+    "trendingRatio": 0.13730222579780102,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [
@@ -19538,6 +21697,123 @@
         "isRequired": true,
         "id": "raid-shadow-legends-energy",
         "name": "Energy",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "legendary-019",
+            "name": "0-19",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "legendary-2049",
+            "name": "20-49",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "legendary-5099",
+            "name": "50-99",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "legendary-100plus",
+            "name": "100+",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "legendary-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "raid-shadow-legends-legendary-champions",
+        "name": "Legendary Champions",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "level-05",
+            "name": "0-5",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "level-639",
+            "name": "6-39",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "level-4069",
+            "name": "40-69",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "level-70plus",
+            "name": "70+",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "level-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "raid-shadow-legends-level",
+        "name": "Level",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "mythical-04",
+            "name": "0-4",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "mythical-59",
+            "name": "5-9",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "mythical-1029",
+            "name": "10-29",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "mythical-30plus",
+            "name": "30+",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "mythical-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "raid-shadow-legends-mythical-champions",
+        "name": "Mythical Champions",
         "type": "Select"
       },
       {
