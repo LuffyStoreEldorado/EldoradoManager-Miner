@@ -20,7 +20,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -47,7 +46,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15319926873857403,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -72,9 +70,8 @@
     "popularGameSortOrder": 32,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
-    "isPopularGameV2": false,
-    "popularGameSortOrderV2": null
+    "isPopularGameV2": true,
+    "popularGameSortOrderV2": 30
   },
   {
     "menuGameTitle": "Xbox",
@@ -96,7 +93,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.179291553133515,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -125,7 +121,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -151,7 +146,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -175,7 +169,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -201,7 +194,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -225,7 +217,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -249,7 +240,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -275,7 +265,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -303,7 +292,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -329,7 +317,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -353,7 +340,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -380,9 +366,8 @@
     "popularGameSortOrder": 33,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.23852140077821013,
-    "isPopularGameV2": true,
-    "popularGameSortOrderV2": 36
+    "isPopularGameV2": false,
+    "popularGameSortOrderV2": null
   },
   {
     "menuGameTitle": "Diablo 4",
@@ -406,7 +391,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -432,7 +416,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -458,7 +441,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -488,7 +470,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1362876254180602,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -516,7 +497,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -543,7 +523,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -567,7 +546,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -592,7 +570,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -620,7 +597,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -648,7 +624,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -674,7 +649,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -699,7 +673,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -724,7 +697,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -753,7 +725,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -780,7 +751,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -806,9 +776,8 @@
     "popularGameSortOrder": 2,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.17327659574468085,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 2
+    "popularGameSortOrderV2": 3
   },
   {
     "menuGameTitle": "Arknights",
@@ -831,7 +800,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -854,7 +822,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -880,9 +847,8 @@
     "popularGameSortOrder": 19,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15565063440542934,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 25
+    "popularGameSortOrderV2": 20
   },
   {
     "menuGameTitle": "Throne and Liberty",
@@ -907,7 +873,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -935,7 +900,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -963,7 +927,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -989,7 +952,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1017,7 +979,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1042,7 +1003,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14844407064760304,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1073,7 +1033,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1100,7 +1059,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1131,7 +1089,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1160,7 +1117,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1183,7 +1139,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1209,7 +1164,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1235,7 +1189,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15162764134780127,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1264,7 +1217,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1289,7 +1241,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1317,7 +1268,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15287148263946027,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1342,7 +1292,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.13922424242424242,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1367,7 +1316,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1841372912801484,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1393,7 +1341,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1417,7 +1364,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1446,7 +1392,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1470,7 +1415,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1495,9 +1439,8 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.17101406071446315,
-    "isPopularGameV2": true,
-    "popularGameSortOrderV2": 31
+    "isPopularGameV2": false,
+    "popularGameSortOrderV2": null
   },
   {
     "menuGameTitle": "Fisch",
@@ -1519,7 +1462,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1544,7 +1486,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1570,7 +1511,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1594,7 +1534,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1620,7 +1559,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1644,7 +1582,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.18235759493670886,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1668,7 +1605,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1696,7 +1632,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1720,7 +1655,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1745,7 +1679,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1770,7 +1703,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1797,7 +1729,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1821,7 +1752,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1846,7 +1776,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1874,7 +1803,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1899,7 +1827,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1930,7 +1857,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -1962,9 +1888,8 @@
     "popularGameSortOrder": 3,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.16490161246242144,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 3
+    "popularGameSortOrderV2": 5
   },
   {
     "menuGameTitle": "Girls Frontline 2: Exilium",
@@ -1988,7 +1913,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2013,7 +1937,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.1828922495274102,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2039,7 +1962,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2062,7 +1984,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.1170917854990962,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2087,7 +2008,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2112,7 +2032,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15632633121641426,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2138,7 +2057,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2161,7 +2079,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2186,7 +2103,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2211,7 +2127,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2239,9 +2154,8 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14861995753715498,
-    "isPopularGameV2": false,
-    "popularGameSortOrderV2": null
+    "isPopularGameV2": true,
+    "popularGameSortOrderV2": 39
   },
   {
     "menuGameTitle": "Blood Strike Accounts",
@@ -2262,7 +2176,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2288,7 +2201,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.19521604938271606,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2313,7 +2225,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2339,7 +2250,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2365,7 +2275,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2389,7 +2298,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2416,9 +2324,8 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.23218221895664953,
-    "isPopularGameV2": true,
-    "popularGameSortOrderV2": 41
+    "isPopularGameV2": false,
+    "popularGameSortOrderV2": null
   },
   {
     "menuGameTitle": "Elder Scrolls Online",
@@ -2441,7 +2348,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2467,7 +2373,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2493,7 +2398,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2517,7 +2421,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2542,7 +2445,6 @@
     "popularGameSortOrder": 6,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.17278379146022027,
     "isPopularGameV2": true,
     "popularGameSortOrderV2": 6
   },
@@ -2568,7 +2470,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2593,7 +2494,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2619,7 +2519,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2644,7 +2543,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2668,7 +2566,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2693,7 +2590,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2718,7 +2614,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.18843537414965986,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2742,7 +2637,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2768,7 +2662,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2794,7 +2687,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2817,7 +2709,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2841,7 +2732,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2864,7 +2754,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2888,7 +2777,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2912,7 +2800,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2937,7 +2824,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2960,7 +2846,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -2984,7 +2869,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3008,7 +2892,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3032,7 +2915,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3056,7 +2938,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3085,7 +2966,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.17991764333227747,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3111,7 +2991,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3148,9 +3027,8 @@
     "popularGameSortOrder": 35,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.12343874568163699,
-    "isPopularGameV2": false,
-    "popularGameSortOrderV2": null
+    "isPopularGameV2": true,
+    "popularGameSortOrderV2": 34
   },
   {
     "menuGameTitle": "Bleach: Soul Resonance",
@@ -3173,7 +3051,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3198,7 +3075,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3222,7 +3098,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3247,7 +3122,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3270,7 +3144,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3295,7 +3168,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.14450561084056743,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3318,9 +3190,8 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.17243920412675018,
-    "isPopularGameV2": false,
-    "popularGameSortOrderV2": null
+    "isPopularGameV2": true,
+    "popularGameSortOrderV2": 40
   },
   {
     "menuGameTitle": "Kingshot",
@@ -3342,7 +3213,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3367,7 +3237,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3391,7 +3260,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3415,7 +3283,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.15646534252128091,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3441,7 +3308,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3468,7 +3334,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1655653450807636,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3494,16 +3359,15 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
   {
-    "menuGameTitle": "bridger: WESTERN",
+    "menuGameTitle": "bridger: Western",
     "gameId": "399",
     "category": "Account",
     "title": "Accounts",
-    "gameName": "bridger: WESTERN",
+    "gameName": "bridger: Western",
     "gameGroup": "Roblox",
     "legacyUrlId": null,
     "imageAlt": "bridger western accounts",
@@ -3520,7 +3384,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3546,7 +3409,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3570,7 +3432,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3595,7 +3456,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3621,7 +3481,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3644,9 +3503,8 @@
     "popularGameSortOrder": 20,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.235249906050357,
-    "isPopularGameV2": true,
-    "popularGameSortOrderV2": 29
+    "isPopularGameV2": false,
+    "popularGameSortOrderV2": null
   },
   {
     "menuGameTitle": "Steam",
@@ -3676,7 +3534,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1514104778353483,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3700,7 +3557,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3724,7 +3580,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3749,7 +3604,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3772,7 +3626,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3796,7 +3649,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3822,7 +3674,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3849,7 +3700,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3875,7 +3725,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3900,7 +3749,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3932,9 +3780,8 @@
     "popularGameSortOrder": 14,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15858026701400196,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 17
+    "popularGameSortOrderV2": 8
   },
   {
     "menuGameTitle": "Clash Royale",
@@ -3957,7 +3804,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -3984,7 +3830,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -4011,7 +3856,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -4036,7 +3880,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1632213608957795,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -4064,9 +3907,8 @@
     "popularGameSortOrder": 36,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1884306987399771,
-    "isPopularGameV2": true,
-    "popularGameSortOrderV2": 35
+    "isPopularGameV2": false,
+    "popularGameSortOrderV2": null
   },
   {
     "menuGameTitle": "Call of Duty Mobile",
@@ -4092,7 +3934,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -4119,9 +3960,8 @@
     "popularGameSortOrder": 27,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1760477924017549,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 24
+    "popularGameSortOrderV2": 31
   },
   {
     "menuGameTitle": "Origin",
@@ -4143,7 +3983,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -4169,7 +4008,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -4245,9 +4083,8 @@
     "popularGameSortOrder": 16,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1618617575547065,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 16
+    "popularGameSortOrderV2": 11
   },
   {
     "menuGameTitle": "Raid: Shadow Legends",
@@ -4272,9 +4109,8 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1493118670475201,
-    "isPopularGameV2": false,
-    "popularGameSortOrderV2": null
+    "isPopularGameV2": true,
+    "popularGameSortOrderV2": 23
   },
   {
     "menuGameTitle": "Lords Mobile",
@@ -4298,7 +4134,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -4321,7 +4156,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -4345,7 +4179,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -4370,7 +4203,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -4395,7 +4227,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -4419,7 +4250,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -4447,7 +4277,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -4473,7 +4302,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   },
@@ -4496,7 +4324,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
   }
