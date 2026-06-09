@@ -64,7 +64,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -154,10 +153,220 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15345174876396264,
-    "isPopularGameV2": false,
-    "popularGameSortOrderV2": null,
-    "offerAttributes": [],
+    "isPopularGameV2": true,
+    "popularGameSortOrderV2": 40,
+    "offerAttributes": [
+      {
+        "selectValues": [
+          {
+            "id": "credits-0299",
+            "name": "0-299",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "credits-300999",
+            "name": "300-999",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "credits-1000plus",
+            "name": "1000+",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "credits-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "rl-credits",
+        "name": "Credits",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "rank-unranked",
+            "name": "Unranked",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "rank-bronze",
+            "name": "Bronze",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "rank-silver",
+            "name": "Silver",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "rank-gold",
+            "name": "Gold",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "rank-platinum",
+            "name": "Platinum",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "rank-diamond",
+            "name": "Diamond",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "rank-champion",
+            "name": "Champion",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "rank-grand-champion",
+            "name": "Grand Champion",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "rank-supersonic-legend",
+            "name": "Supersonic Legend",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "rank-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "rocket-league-current-rank",
+        "name": "Current Rank",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "level-09",
+            "name": "0-9",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "level-1049",
+            "name": "10-49",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "level-5099",
+            "name": "50-99",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "level-100499",
+            "name": "100-499",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "level-5001000",
+            "name": "500-1000",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "level-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "rocket-league-level",
+        "name": "Level",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "tag-red-glow",
+            "name": "Red Glow",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "tag-white-glow",
+            "name": "White Glow",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "tag-golden-glow",
+            "name": "Golden Glow",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "tag-green-glow",
+            "name": "Green Glow",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "tag-blue-glow",
+            "name": "Blue Glow",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "tag-cyan-glow",
+            "name": "Cyan Glow",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "tag-purple-glow",
+            "name": "Purple Glow",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "tag-pink-glow",
+            "name": "Pink Glow",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "tag-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "rocket-league-tags-titles",
+        "name": "Tags/Titles",
+        "type": "Select"
+      }
+    ],
     "attributeIdsCsv": null
   },
   {
@@ -479,9 +688,8 @@
     "popularGameSortOrder": 32,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
-    "isPopularGameV2": false,
-    "popularGameSortOrderV2": null,
+    "isPopularGameV2": true,
+    "popularGameSortOrderV2": 27,
     "offerAttributes": [
       {
         "selectValues": [
@@ -833,7 +1041,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1703091684434968,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -873,7 +1080,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -962,7 +1168,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -997,7 +1202,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -1103,7 +1307,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -1138,7 +1341,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -1173,7 +1375,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -3069,7 +3270,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -3211,7 +3411,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -3248,7 +3447,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -3283,7 +3481,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -3361,7 +3558,7 @@
     "imageAlt": "db legends accounts",
     "seoAlias": "dragon-ball-legends-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": true,
+    "isPopularGame": false,
     "synonymNames": [
       "Dragon Ball Legends",
       "DB Legends",
@@ -3370,12 +3567,11 @@
       "ドラレジェ"
     ],
     "createdDate": "2023-03-24T14:07:12.8598337Z",
-    "popularGameSortOrder": 33,
+    "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.21451104100946372,
-    "isPopularGameV2": true,
-    "popularGameSortOrderV2": 36,
+    "isPopularGameV2": false,
+    "popularGameSortOrderV2": null,
     "offerAttributes": [],
     "attributeIdsCsv": null
   },
@@ -3410,7 +3606,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -3482,7 +3677,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -3692,7 +3886,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -3768,7 +3961,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15782774713619008,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -3876,7 +4068,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -3914,7 +4105,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -3949,7 +4139,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -4037,7 +4226,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -4284,7 +4472,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -4323,7 +4510,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -4360,7 +4546,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -4431,7 +4616,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -4587,7 +4771,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -4627,7 +4810,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -4719,7 +4901,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [
@@ -4950,12 +5131,11 @@
       "フォトナ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151738Z",
-    "popularGameSortOrder": 2,
+    "popularGameSortOrder": 3,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.17647554806070825,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 2,
+    "popularGameSortOrderV2": 1,
     "offerAttributes": [
       {
         "selectValues": [
@@ -5261,7 +5441,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -5295,7 +5474,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -5906,12 +6084,11 @@
       "レジェンドオブリーグ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151712Z",
-    "popularGameSortOrder": 19,
+    "popularGameSortOrder": 22,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1518987341772152,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 25,
+    "popularGameSortOrderV2": 20,
     "offerAttributes": [
       {
         "selectValues": [
@@ -6474,7 +6651,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -6513,7 +6689,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -6552,7 +6727,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -6589,7 +6763,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -6628,7 +6801,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -6664,7 +6836,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.2511647606946209,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [
@@ -7010,7 +7181,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -7083,7 +7253,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -7160,7 +7329,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -7235,7 +7403,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -7304,7 +7471,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -7341,7 +7507,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -7464,7 +7629,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1562043795620438,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -7573,7 +7737,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -7661,7 +7824,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -7934,9 +8096,8 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1532979781239642,
-    "isPopularGameV2": false,
-    "popularGameSortOrderV2": null,
+    "isPopularGameV2": true,
+    "popularGameSortOrderV2": 33,
     "offerAttributes": [
       {
         "selectValues": [
@@ -8369,7 +8530,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.11107201501290172,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [
@@ -8508,7 +8668,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.17909080499255697,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -8545,7 +8704,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -8580,7 +8738,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -8620,7 +8777,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -8655,7 +8811,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -8681,19 +8836,18 @@
     "imageAlt": "discord accounts",
     "seoAlias": "discord-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": false,
+    "isPopularGame": true,
     "synonymNames": [
       "Discord",
       "DC",
       "ディスコード"
     ],
     "createdDate": "2025-05-20T06:42:45.9371342Z",
-    "popularGameSortOrder": null,
+    "popularGameSortOrder": 29,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.1710467925644692,
-    "isPopularGameV2": true,
-    "popularGameSortOrderV2": 31,
+    "isPopularGameV2": false,
+    "popularGameSortOrderV2": null,
     "offerAttributes": [],
     "attributeIdsCsv": null
   },
@@ -8726,7 +8880,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -8814,7 +8967,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -8851,7 +9003,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -8886,7 +9037,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -8923,7 +9073,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -9718,7 +9867,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1799375487900078,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -9753,7 +9901,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -9792,7 +9939,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -9827,7 +9973,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -9863,7 +10008,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -10311,7 +10455,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -10557,7 +10700,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -10592,7 +10734,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -10628,7 +10769,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -10702,7 +10842,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -10738,7 +10877,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -10883,7 +11021,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -11026,12 +11163,11 @@
       "GTA 5 Legacy"
     ],
     "createdDate": "2021-07-01T06:40:33.1151231Z",
-    "popularGameSortOrder": 3,
+    "popularGameSortOrder": 6,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1673312203932795,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 3,
+    "popularGameSortOrderV2": 6,
     "offerAttributes": [],
     "attributeIdsCsv": null
   },
@@ -11152,7 +11288,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -11188,7 +11323,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.17819706498951782,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -11225,7 +11359,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -11259,7 +11392,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.1203099510603589,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -11295,7 +11427,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -11331,7 +11462,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15771230502599654,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -11368,7 +11498,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -11402,7 +11531,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -11438,7 +11566,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -11526,7 +11653,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -11725,7 +11851,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1375515818431912,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [
@@ -11808,7 +11933,7 @@
         "selectValues": [
           {
             "id": "weapons-019",
-            "name": "0-19",
+            "name": "0-9",
             "imageLocation": null,
             "isDefault": false
           },
@@ -12159,7 +12284,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -12196,7 +12320,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.20757575757575758,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -12232,7 +12355,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -12269,7 +12391,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -12306,7 +12427,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -12341,7 +12461,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -12465,9 +12584,8 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.19049295774647887,
-    "isPopularGameV2": true,
-    "popularGameSortOrderV2": 41,
+    "isPopularGameV2": false,
+    "popularGameSortOrderV2": null,
     "offerAttributes": [],
     "attributeIdsCsv": null
   },
@@ -12658,7 +12776,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -12730,7 +12847,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -12767,7 +12883,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -12802,10 +12917,289 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
-    "offerAttributes": [],
+    "offerAttributes": [
+      {
+        "selectValues": [
+          {
+            "id": "blueprints-019",
+            "name": "0-19",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "blueprints-2049",
+            "name": "20-49",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "blueprints-5079",
+            "name": "50-79",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "blueprints-80plus",
+            "name": "80+",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "blueprints-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "arc-raiders-blueprints",
+        "name": "Blueprints",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "coins-0499",
+            "name": "0-499K",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "coins-500099",
+            "name": "500K-0.99M",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "coins-1199",
+            "name": "1M-1.99M",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "coins-2plus",
+            "name": "2M+",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "coins-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "arc-raiders-coins",
+        "name": "Coins",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "device-pc",
+            "name": "PC",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "device-playstation",
+            "name": "PlayStation",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "device-xbox",
+            "name": "Xbox",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "arc-raiders-device",
+        "name": "Device",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "expeditions-1",
+            "name": "1",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "expeditions-2",
+            "name": "2",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "expeditions-3",
+            "name": "3",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "expeditions-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "arc-raiders-expeditions",
+        "name": "Expeditions",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "level-019",
+            "name": "0-19",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "level-2039",
+            "name": "20-39",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "level-4059",
+            "name": "40-59",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "level-6069",
+            "name": "60-69",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "level-7074",
+            "name": "70-74",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "level-75",
+            "name": "75",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "level-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "arc-raiders-level",
+        "name": "Level",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "maxed-049",
+            "name": "0-49",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "maxed-5099",
+            "name": "50-99",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "maxed-100199",
+            "name": "100-199",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "maxed-200plus",
+            "name": "200+",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "maxed-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "arc-raiders-maxed-weapons",
+        "name": "Maxed Weapons",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "outfits-19",
+            "name": "1-9",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "outfits-1019",
+            "name": "10-19",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "outfits-2029",
+            "name": "20-29",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "outfits-3039",
+            "name": "30-39",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "outfits-4049",
+            "name": "40-49",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "outfits-50plus",
+            "name": "50+",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "outfits-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "arc-raiders-outfits",
+        "name": "Outfits",
+        "type": "Select"
+      }
+    ],
     "attributeIdsCsv": null
   },
   {
@@ -13509,12 +13903,11 @@
       "ヴァロ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151106Z",
-    "popularGameSortOrder": 6,
+    "popularGameSortOrder": 7,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.16764919138740897,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 6,
+    "popularGameSortOrderV2": 5,
     "offerAttributes": [
       {
         "selectValues": [
@@ -13571,7 +13964,7 @@
         "selectValues": [
           {
             "id": "knives-04",
-            "name": "0-4",
+            "name": "1-4",
             "imageLocation": null,
             "isDefault": false
           },
@@ -13602,6 +13995,12 @@
           {
             "id": "knives-other",
             "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "knives-0",
+            "name": "0",
             "imageLocation": null,
             "isDefault": false
           }
@@ -13829,7 +14228,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -13865,7 +14263,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -13902,7 +14299,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -13938,7 +14334,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -13973,7 +14368,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -14299,7 +14693,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -14387,7 +14780,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.17414782315221058,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [
@@ -14922,7 +15314,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -14994,7 +15385,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -15031,7 +15421,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -15065,7 +15454,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -15100,7 +15488,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -15134,7 +15521,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -15169,7 +15555,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -15204,7 +15589,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -15292,7 +15676,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -15326,7 +15709,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -15361,7 +15743,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -15396,7 +15777,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -15431,7 +15811,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -15466,7 +15845,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -15506,7 +15884,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15243840098149475,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -15543,7 +15920,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -16276,9 +16652,8 @@
     "popularGameSortOrder": 35,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.126514131897712,
-    "isPopularGameV2": false,
-    "popularGameSortOrderV2": null,
+    "isPopularGameV2": true,
+    "popularGameSortOrderV2": 41,
     "offerAttributes": [
       {
         "selectValues": [
@@ -16547,7 +16922,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -16583,7 +16957,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -16704,7 +17077,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -16740,7 +17112,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -16774,7 +17145,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -16810,7 +17180,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.13941751655977289,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -16896,7 +17265,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.16877739892839747,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [
@@ -17070,7 +17438,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -17106,7 +17473,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -17141,7 +17507,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -17176,7 +17541,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": true,
-    "trendingRatio": 0.15926680244399186,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -17213,7 +17577,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -17320,7 +17683,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1543502002184201,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [
@@ -17622,7 +17984,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -17638,11 +17999,11 @@
     "tradeEnvironments": [],
     "attributes": [],
     "boostingCategories": [],
-    "menuGameTitle": "bridger: WESTERN",
+    "menuGameTitle": "bridger: Western",
     "gameId": "399",
     "category": "Account",
     "title": "Accounts",
-    "gameName": "bridger: WESTERN",
+    "gameName": "bridger: Western",
     "gameGroup": "Roblox",
     "legacyUrlId": null,
     "imageAlt": "bridger western accounts",
@@ -17659,7 +18020,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -17696,7 +18056,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -17783,7 +18142,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -17819,7 +18177,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -17892,7 +18249,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [
@@ -17946,17 +18302,16 @@
     "imageAlt": "forza horizon 6 accounts",
     "seoAlias": "forza-horizon-6-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": true,
+    "isPopularGame": false,
     "synonymNames": [
       "Forza Horizon 6"
     ],
     "createdDate": "2026-05-11T08:57:03.2046477Z",
-    "popularGameSortOrder": 20,
+    "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.21876308809158174,
-    "isPopularGameV2": true,
-    "popularGameSortOrderV2": 29,
+    "isPopularGameV2": false,
+    "popularGameSortOrderV2": null,
     "offerAttributes": [],
     "attributeIdsCsv": null
   },
@@ -17997,7 +18352,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.15751056473300037,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -18032,7 +18386,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [
@@ -18089,7 +18442,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -18125,7 +18477,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -18159,7 +18510,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -18293,7 +18643,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [
@@ -18452,7 +18801,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -18490,7 +18838,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -18749,7 +19096,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -18837,7 +19183,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -19108,12 +19453,11 @@
       "レインボーシージ"
     ],
     "createdDate": "2021-07-01T06:40:33.115092Z",
-    "popularGameSortOrder": 14,
+    "popularGameSortOrder": 8,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.16301969365426697,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 17,
+    "popularGameSortOrderV2": 9,
     "offerAttributes": [
       {
         "selectValues": [
@@ -19283,14 +19627,14 @@
       {
         "selectValues": [
           {
-            "id": "ranked-unlocked-yes",
-            "name": "Yes",
+            "id": "ranked-unlocked-no",
+            "name": "No",
             "imageLocation": null,
             "isDefault": false
           },
           {
-            "id": "ranked-unlocked-no",
-            "name": "No",
+            "id": "ranked-unlocked-yes",
+            "name": "Yes",
             "imageLocation": null,
             "isDefault": false
           }
@@ -19511,7 +19855,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -19584,7 +19927,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -19657,7 +19999,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -19693,7 +20034,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.16666666666666666,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [
@@ -20455,12 +20795,11 @@
       "ポケモンゴウ"
     ],
     "createdDate": "2021-07-01T06:40:33.1150836Z",
-    "popularGameSortOrder": 36,
+    "popularGameSortOrder": 38,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1891353811149033,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 35,
+    "popularGameSortOrderV2": 30,
     "offerAttributes": [
       {
         "selectValues": [
@@ -20738,7 +21077,7 @@
         "isEditable": true,
         "isRequired": true,
         "id": "pokemon-go-mythical-pokemons",
-        "name": "Mythical Pokemons",
+        "name": "Mythical Pokémons",
         "type": "Select"
       },
       {
@@ -21057,7 +21396,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [
@@ -21120,10 +21458,9 @@
       "マイクラjava"
     ],
     "createdDate": "2021-07-01T06:40:33.1149805Z",
-    "popularGameSortOrder": 27,
+    "popularGameSortOrder": 24,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.19130114264651676,
     "isPopularGameV2": true,
     "popularGameSortOrderV2": 24,
     "offerAttributes": [
@@ -21199,6 +21536,12 @@
       {
         "selectValues": [
           {
+            "id": "included-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
             "id": "included-yes",
             "name": "Yes",
             "imageLocation": null,
@@ -21207,12 +21550,6 @@
           {
             "id": "included-no",
             "name": "No",
-            "imageLocation": null,
-            "isDefault": false
-          },
-          {
-            "id": "included-other",
-            "name": "Other",
             "imageLocation": null,
             "isDefault": false
           }
@@ -21372,7 +21709,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -21409,7 +21745,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -21496,10 +21831,628 @@
     "popularGameSortOrder": 16,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.1552344508538466,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 16,
-    "offerAttributes": [],
+    "popularGameSortOrderV2": 13,
+    "offerAttributes": [
+      {
+        "selectValues": [
+          {
+            "id": "type-4-letter",
+            "name": "4 Letter",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "type-inventory",
+            "name": "Big Inventory Value",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "type-offsale",
+            "name": "Offsales Account",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "type-old-account",
+            "name": "Old Account",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "type-rare-username",
+            "name": "Rare Username",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "type-robux-account",
+            "name": "Robux Account",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "type-limiteds",
+            "name": "Limiteds Account",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "type-korblox",
+            "name": "Korblox Account",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "type-headless",
+            "name": "Headless Account",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "type-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "roblox-account-type",
+        "name": "Account Type",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "game-adopt-me",
+            "name": "Adopt Me",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-grow-a-garden",
+            "name": "Grow a Garden",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-blox-fruits",
+            "name": "Blox Fruits",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-blockspin",
+            "name": "BlockSpin",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-bee-swarm-simulator",
+            "name": "Bee Swarm Simulator",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-anime-vanguards",
+            "name": "Anime Vanguards",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-volleyball-legends",
+            "name": "Volleyball Legends",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-fisch",
+            "name": "Fisch",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-aotr",
+            "name": "Attack on Titan Revolution",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-rivals",
+            "name": "Rivals",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-bridger-western",
+            "name": "bridger: Western",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-jailbreak",
+            "name": "Jailbreak",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-99-nights",
+            "name": "99 Nights in the Forest",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-platsvsbrainrots",
+            "name": "Plants vs Brainrots",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-bloodlines",
+            "name": "Bloodlines",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-astw",
+            "name": "All Star Tower Defense X",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-dead-rails",
+            "name": "Dead Rails",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-king-legacy",
+            "name": "King Legacy",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-bloxburg",
+            "name": "Welcome to Bloxburg",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-driving-empire",
+            "name": "Driving Empire",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-basketball-zero",
+            "name": "Basketball: Zero",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "blue-lock-rivals",
+            "name": "Blue Lock: Rivals",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-tower-defense-simulator",
+            "name": "Tower Defense Simulator",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-arsenal",
+            "name": "Arsenal",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-counter-blox",
+            "name": "Counter Blox",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-sailor-piece",
+            "name": "Sailor Piece",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-ink-game",
+            "name": "Ink Game",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-steal-a-brainrot",
+            "name": "Steal a Brainrot",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-evade",
+            "name": "Evade",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-pet-simulator-99",
+            "name": "Pet Simulator 99",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-pet-simulator-x",
+            "name": "Pet Simulator X",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-royale-high",
+            "name": "Royale High",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-dress-to-impress",
+            "name": "Dress to Impress",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-brookhaven-rp",
+            "name": "Brookhaven RP",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-the-strongest-battlegrounds",
+            "name": "The Strongest Battlegrounds",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-bubble-gum-simulator",
+            "name": "Bubble Gum Simulator",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-grand-piece-online",
+            "name": "Grand Piece Online",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-bedwars",
+            "name": "BedWars",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-war-tycoon",
+            "name": "War Tycoon",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-untitled-boxing-game",
+            "name": "Untitled Boxing Game",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-fight-in-a-school",
+            "name": "Fight in a School",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-da-hood",
+            "name": "Da Hood",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-shinobi-life-2",
+            "name": "Shinobi Life 2",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-blade-ball",
+            "name": "Blade Ball",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-murder-mystery-2",
+            "name": "Murder Mystery 2",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-death-ball",
+            "name": "Death Ball",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-your-bizarre-adventure",
+            "name": "Your Bizarre Adventure",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-fish-it",
+            "name": "Fish It!",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-spongebob-tower-defense",
+            "name": "SpongeBob Tower Defense",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-the-forge",
+            "name": "The Forge",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-taxi-boss",
+            "name": "Taxi Boss",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "game-doors",
+            "name": "Doors",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "roblox-game",
+        "name": "Game",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "value-0999",
+            "name": "0-999",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "value-1199",
+            "name": "1K-1.99K",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "value-2499",
+            "name": "2K-4.99K",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "value-5999",
+            "name": "5K-9.99K",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "value-101499",
+            "name": "10K-14.99K",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "value-151999",
+            "name": "15K-19.99K",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "value-202999",
+            "name": "20K-29.99K",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "value-304999",
+            "name": "30K-49.99K",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "value-50999",
+            "name": "50K-99.9K",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "value-100plus",
+            "name": "100K+",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "value-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "roblox-inventory-value",
+        "name": "Inventory Value",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "offsale-09",
+            "name": "0-9",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "offsale-1049",
+            "name": "10-49",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "offsale-5099",
+            "name": "50-99",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "offsale-100199",
+            "name": "100-199",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "offsale-200plus",
+            "name": "200+",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "offsale-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "roblox-offsale-items",
+        "name": "Offsale Items",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "robux-0999",
+            "name": "0-999",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "robux-1199",
+            "name": "1K-1.99K",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "robux-2499",
+            "name": "2K-4.99K",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "robux-5999",
+            "name": "5K-9.99K",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "robux-101499",
+            "name": "10K-14.99K",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "robux-151999",
+            "name": "15K-19.99K",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "robux-202999",
+            "name": "20K-29.99K",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "robux-304999",
+            "name": "30K-49.99K",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "robux-5099",
+            "name": "50K-99.99K",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "robux-100plus",
+            "name": "100K+",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "robux-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "roblox-robux-value",
+        "name": "Robux",
+        "type": "Select"
+      },
+      {
+        "selectValues": [
+          {
+            "id": "verified-yes",
+            "name": "Yes",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "verified-no",
+            "name": "No",
+            "imageLocation": null,
+            "isDefault": false
+          },
+          {
+            "id": "verified-other",
+            "name": "Other",
+            "imageLocation": null,
+            "isDefault": false
+          }
+        ],
+        "isEditable": true,
+        "isRequired": true,
+        "id": "roblox-verified",
+        "name": "Verified",
+        "type": "Select"
+      }
+    ],
     "attributeIdsCsv": null
   },
   {
@@ -21638,7 +22591,7 @@
     "imageAlt": "raid shadow legends accounts",
     "seoAlias": "raid-shadow-legends-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": false,
+    "isPopularGame": true,
     "synonymNames": [
       "Raid: Shadow Legends",
       "レイドシャドウレジェンド",
@@ -21647,10 +22600,9 @@
       "レイドシャドウ"
     ],
     "createdDate": "2021-07-09T07:32:49.8089677Z",
-    "popularGameSortOrder": null,
+    "popularGameSortOrder": 37,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0.13730222579780102,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [
@@ -21924,7 +22876,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -22010,7 +22961,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -22045,7 +22995,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -22133,7 +23082,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -22221,7 +23169,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -22301,7 +23248,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [
@@ -22374,7 +23320,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -22446,7 +23391,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
@@ -22480,7 +23424,6 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "trendingRatio": 0,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null,
     "offerAttributes": [],
