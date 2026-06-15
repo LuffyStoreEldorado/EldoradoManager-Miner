@@ -46,8 +46,8 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "isPopularGameV2": false,
-    "popularGameSortOrderV2": null
+    "isPopularGameV2": true,
+    "popularGameSortOrderV2": 28
   },
   {
     "menuGameTitle": "Old School RuneScape",
@@ -67,11 +67,11 @@
       "old school rs"
     ],
     "createdDate": "2021-07-01T06:40:33.1152207Z",
-    "popularGameSortOrder": 32,
+    "popularGameSortOrder": 23,
     "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 30
+    "popularGameSortOrderV2": 20
   },
   {
     "menuGameTitle": "Xbox",
@@ -354,7 +354,7 @@
     "imageAlt": "db legends accounts",
     "seoAlias": "dragon-ball-legends-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": true,
+    "isPopularGame": false,
     "synonymNames": [
       "Dragon Ball Legends",
       "DB Legends",
@@ -363,7 +363,7 @@
       "ドラレジェ"
     ],
     "createdDate": "2023-03-24T14:07:12.8598337Z",
-    "popularGameSortOrder": 33,
+    "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
@@ -777,7 +777,7 @@
     "filterGroups": [],
     "isHighRisk": true,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 3
+    "popularGameSortOrderV2": 2
   },
   {
     "menuGameTitle": "Arknights",
@@ -844,11 +844,11 @@
       "レジェンドオブリーグ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151712Z",
-    "popularGameSortOrder": 19,
+    "popularGameSortOrder": 21,
     "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 20
+    "popularGameSortOrderV2": 22
   },
   {
     "menuGameTitle": "Throne and Liberty",
@@ -1255,7 +1255,7 @@
     "imageAlt": "CS2 Accounts For Sale",
     "seoAlias": "cs2-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": false,
+    "isPopularGame": true,
     "synonymNames": [
       "Counter-Strike 2",
       "cs2",
@@ -1265,11 +1265,11 @@
       "CS GO"
     ],
     "createdDate": "2021-07-01T06:40:33.1150134Z",
-    "popularGameSortOrder": null,
+    "popularGameSortOrder": 34,
     "filterGroups": [],
     "isHighRisk": false,
-    "isPopularGameV2": false,
-    "popularGameSortOrderV2": null
+    "isPopularGameV2": true,
+    "popularGameSortOrderV2": 26
   },
   {
     "menuGameTitle": "Adopt Me",
@@ -1429,18 +1429,18 @@
     "imageAlt": "discord accounts",
     "seoAlias": "discord-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": false,
+    "isPopularGame": true,
     "synonymNames": [
       "Discord",
       "DC",
       "ディスコード"
     ],
     "createdDate": "2025-05-20T06:42:45.9371342Z",
-    "popularGameSortOrder": null,
+    "popularGameSortOrder": 31,
     "filterGroups": [],
     "isHighRisk": true,
-    "isPopularGameV2": false,
-    "popularGameSortOrderV2": null
+    "isPopularGameV2": true,
+    "popularGameSortOrderV2": 29
   },
   {
     "menuGameTitle": "Fisch",
@@ -1885,7 +1885,7 @@
       "GTA 5 Legacy"
     ],
     "createdDate": "2021-07-01T06:40:33.1151231Z",
-    "popularGameSortOrder": 3,
+    "popularGameSortOrder": 8,
     "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": true,
@@ -2154,8 +2154,8 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "isPopularGameV2": true,
-    "popularGameSortOrderV2": 39
+    "isPopularGameV2": false,
+    "popularGameSortOrderV2": null
   },
   {
     "menuGameTitle": "Blood Strike Accounts",
@@ -2442,7 +2442,7 @@
       "ヴァロ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151106Z",
-    "popularGameSortOrder": 6,
+    "popularGameSortOrder": 9,
     "filterGroups": [],
     "isHighRisk": true,
     "isPopularGameV2": true,
@@ -3024,11 +3024,11 @@
       "bo7"
     ],
     "createdDate": "2021-07-01T06:40:33.1151072Z",
-    "popularGameSortOrder": 35,
+    "popularGameSortOrder": 33,
     "filterGroups": [],
     "isHighRisk": false,
-    "isPopularGameV2": true,
-    "popularGameSortOrderV2": 34
+    "isPopularGameV2": false,
+    "popularGameSortOrderV2": null
   },
   {
     "menuGameTitle": "Bleach: Soul Resonance",
@@ -3190,8 +3190,8 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "isPopularGameV2": true,
-    "popularGameSortOrderV2": 40
+    "isPopularGameV2": false,
+    "popularGameSortOrderV2": null
   },
   {
     "menuGameTitle": "Kingshot",
@@ -3495,12 +3495,12 @@
     "imageAlt": "forza horizon 6 accounts",
     "seoAlias": "forza-horizon-6-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": true,
+    "isPopularGame": false,
     "synonymNames": [
       "Forza Horizon 6"
     ],
     "createdDate": "2026-05-11T08:57:03.2046477Z",
-    "popularGameSortOrder": 20,
+    "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
@@ -3653,6 +3653,31 @@
     "popularGameSortOrderV2": null
   },
   {
+    "menuGameTitle": "Grow a Garden 2",
+    "gameId": "430",
+    "category": "Account",
+    "title": "Accounts",
+    "gameName": "Grow a Garden 2",
+    "gameGroup": null,
+    "legacyUrlId": null,
+    "imageAlt": "grow a garden 2 accounts for sale",
+    "seoAlias": "grow-a-garden-2-accounts-for-sale",
+    "isSingleOfferGame": false,
+    "isPopularGame": false,
+    "synonymNames": [
+      "Grow a Garden 2",
+      "GaG2",
+      "庭を成長させる2",
+      "Roblox"
+    ],
+    "createdDate": "2026-06-09T13:27:01.7047207Z",
+    "popularGameSortOrder": null,
+    "filterGroups": [],
+    "isHighRisk": false,
+    "isPopularGameV2": false,
+    "popularGameSortOrderV2": null
+  },
+  {
     "menuGameTitle": "Destiny 2",
     "gameId": "44",
     "category": "Account",
@@ -3777,11 +3802,11 @@
       "レインボーシージ"
     ],
     "createdDate": "2021-07-01T06:40:33.115092Z",
-    "popularGameSortOrder": 14,
+    "popularGameSortOrder": 13,
     "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 8
+    "popularGameSortOrderV2": 11
   },
   {
     "menuGameTitle": "Clash Royale",
@@ -3907,8 +3932,8 @@
     "popularGameSortOrder": 36,
     "filterGroups": [],
     "isHighRisk": false,
-    "isPopularGameV2": false,
-    "popularGameSortOrderV2": null
+    "isPopularGameV2": true,
+    "popularGameSortOrderV2": 30
   },
   {
     "menuGameTitle": "Call of Duty Mobile",
@@ -3961,7 +3986,7 @@
     "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 31
+    "popularGameSortOrderV2": 25
   },
   {
     "menuGameTitle": "Origin",
@@ -4084,7 +4109,7 @@
     "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 11
+    "popularGameSortOrderV2": 12
   },
   {
     "menuGameTitle": "Raid: Shadow Legends",
@@ -4109,8 +4134,8 @@
     "popularGameSortOrder": null,
     "filterGroups": [],
     "isHighRisk": false,
-    "isPopularGameV2": true,
-    "popularGameSortOrderV2": 23
+    "isPopularGameV2": false,
+    "popularGameSortOrderV2": null
   },
   {
     "menuGameTitle": "Lords Mobile",
