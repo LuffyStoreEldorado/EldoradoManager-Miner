@@ -18,7 +18,6 @@
     ],
     "createdDate": "2021-07-01T06:40:33.115435Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -44,10 +43,9 @@
     ],
     "createdDate": "2021-07-01T06:40:33.1152239Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
-    "isPopularGameV2": true,
-    "popularGameSortOrderV2": 28
+    "isPopularGameV2": false,
+    "popularGameSortOrderV2": null
   },
   {
     "menuGameTitle": "Old School RuneScape",
@@ -67,11 +65,10 @@
       "old school rs"
     ],
     "createdDate": "2021-07-01T06:40:33.1152207Z",
-    "popularGameSortOrder": 23,
-    "filterGroups": [],
+    "popularGameSortOrder": 28,
     "isHighRisk": false,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 20
+    "popularGameSortOrderV2": 23
   },
   {
     "menuGameTitle": "Xbox",
@@ -91,7 +88,6 @@
     ],
     "createdDate": "2021-11-23T12:18:40.588143Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -119,7 +115,6 @@
     ],
     "createdDate": "2021-11-23T12:23:05.1015377Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -144,7 +139,6 @@
     ],
     "createdDate": "2021-12-14T15:48:01.3088623Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -167,7 +161,6 @@
     ],
     "createdDate": "2021-12-14T15:54:45.0671179Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": true,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -192,7 +185,6 @@
     ],
     "createdDate": "2021-07-01T06:40:33.1152186Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -215,7 +207,6 @@
     ],
     "createdDate": "2022-03-15T10:17:04.1356741Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -238,7 +229,6 @@
     ],
     "createdDate": "2022-06-08T12:54:08.7616775Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -263,7 +253,6 @@
     ],
     "createdDate": "2022-08-16T10:32:30.7614858Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -290,7 +279,6 @@
     ],
     "createdDate": "2022-09-12T07:13:25.4549918Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -315,7 +303,6 @@
     ],
     "createdDate": "2023-01-10T14:50:33.9270464Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -338,7 +325,6 @@
     ],
     "createdDate": "2023-08-24T06:40:24.6204394Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -364,7 +350,6 @@
     ],
     "createdDate": "2023-03-24T14:07:12.8598337Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -389,7 +374,6 @@
     ],
     "createdDate": "2023-03-27T11:24:07.5880153Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -414,7 +398,6 @@
     ],
     "createdDate": "2023-04-24T12:14:36.8251721Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -439,7 +422,6 @@
     ],
     "createdDate": "2023-04-24T12:48:13.3665794Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -468,7 +450,6 @@
     ],
     "createdDate": "2023-04-24T12:51:32.3788047Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -495,7 +476,6 @@
     ],
     "createdDate": "2023-04-24T13:33:20.9958666Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -521,7 +501,6 @@
     ],
     "createdDate": "2023-04-26T10:34:22.627043Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -544,7 +523,6 @@
     ],
     "createdDate": "2023-04-26T10:37:32.9824944Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -568,7 +546,6 @@
     ],
     "createdDate": "2021-07-01T06:40:33.1152161Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -595,7 +572,6 @@
     ],
     "createdDate": "2023-09-18T12:29:53.1882993Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -622,7 +598,6 @@
     ],
     "createdDate": "2023-10-16T09:03:50.0240815Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -647,7 +622,6 @@
     ],
     "createdDate": "2023-10-26T13:58:52.3407857Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -671,7 +645,6 @@
     ],
     "createdDate": "2023-10-26T14:08:58.6750653Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -695,7 +668,6 @@
     ],
     "createdDate": "2023-10-26T14:16:08.5244375Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -723,7 +695,6 @@
     ],
     "createdDate": "2023-10-26T14:22:29.3837589Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -749,7 +720,6 @@
     ],
     "createdDate": "2023-10-26T14:24:33.6002021Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -774,7 +744,6 @@
     ],
     "createdDate": "2021-07-01T06:40:33.1151738Z",
     "popularGameSortOrder": 2,
-    "filterGroups": [],
     "isHighRisk": true,
     "isPopularGameV2": true,
     "popularGameSortOrderV2": 2
@@ -798,7 +767,6 @@
     ],
     "createdDate": "2023-12-14T13:32:34.2547285Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -820,7 +788,6 @@
     ],
     "createdDate": "2024-01-04T10:13:24.9723301Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -844,11 +811,10 @@
       "レジェンドオブリーグ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151712Z",
-    "popularGameSortOrder": 21,
-    "filterGroups": [],
+    "popularGameSortOrder": 22,
     "isHighRisk": false,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 22
+    "popularGameSortOrderV2": 24
   },
   {
     "menuGameTitle": "Throne and Liberty",
@@ -871,7 +837,6 @@
     ],
     "createdDate": "2024-02-05T08:24:58.6642679Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -898,7 +863,6 @@
     ],
     "createdDate": "2024-02-12T09:48:25.6064161Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -925,7 +889,6 @@
     ],
     "createdDate": "2024-02-12T09:54:15.6748437Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -950,7 +913,6 @@
     ],
     "createdDate": "2024-02-12T10:54:09.749561Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -977,7 +939,6 @@
     ],
     "createdDate": "2024-02-12T10:57:53.5356539Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -1001,7 +962,6 @@
     ],
     "createdDate": "2021-07-01T06:40:33.1151687Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -1031,7 +991,6 @@
     ],
     "createdDate": "2024-02-12T12:01:21.5458343Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -1057,7 +1016,6 @@
     ],
     "createdDate": "2024-02-12T12:16:05.3164517Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -1087,7 +1045,6 @@
     ],
     "createdDate": "2024-02-12T12:20:30.1665775Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -1115,7 +1072,6 @@
     ],
     "createdDate": "2024-02-12T12:24:09.4969115Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -1137,7 +1093,6 @@
     ],
     "createdDate": "2024-04-03T07:08:35.6061338Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -1162,7 +1117,6 @@
     ],
     "createdDate": "2021-07-01T06:40:33.1151678Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -1187,7 +1141,6 @@
     ],
     "createdDate": "2024-05-08T12:56:20.8148695Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -1215,7 +1168,6 @@
     ],
     "createdDate": "2024-06-25T11:13:57.7125156Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -1239,7 +1191,6 @@
     ],
     "createdDate": "2021-07-01T06:40:33.1151645Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -1265,8 +1216,7 @@
       "CS GO"
     ],
     "createdDate": "2021-07-01T06:40:33.1150134Z",
-    "popularGameSortOrder": 34,
-    "filterGroups": [],
+    "popularGameSortOrder": 33,
     "isHighRisk": false,
     "isPopularGameV2": true,
     "popularGameSortOrderV2": 26
@@ -1290,7 +1240,6 @@
     ],
     "createdDate": "2024-07-30T07:23:57.7160592Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -1314,7 +1263,6 @@
     ],
     "createdDate": "2025-02-28T08:09:20.4549894Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -1339,7 +1287,6 @@
     ],
     "createdDate": "2026-04-20T08:49:23.4770868Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -1362,7 +1309,6 @@
     ],
     "createdDate": "2025-12-29T11:15:04.526782Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -1390,7 +1336,6 @@
     ],
     "createdDate": "2021-07-01T06:40:33.115137Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -1413,7 +1358,6 @@
     ],
     "createdDate": "2024-10-09T08:10:06.7002122Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -1429,18 +1373,17 @@
     "imageAlt": "discord accounts",
     "seoAlias": "discord-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": true,
+    "isPopularGame": false,
     "synonymNames": [
       "Discord",
       "DC",
       "ディスコード"
     ],
     "createdDate": "2025-05-20T06:42:45.9371342Z",
-    "popularGameSortOrder": 31,
-    "filterGroups": [],
+    "popularGameSortOrder": null,
     "isHighRisk": true,
-    "isPopularGameV2": true,
-    "popularGameSortOrderV2": 29
+    "isPopularGameV2": false,
+    "popularGameSortOrderV2": null
   },
   {
     "menuGameTitle": "Fisch",
@@ -1460,7 +1403,6 @@
     ],
     "createdDate": "2024-12-05T09:34:54.4675932Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -1484,7 +1426,6 @@
     ],
     "createdDate": "2021-07-01T06:40:33.1151358Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -1509,7 +1450,6 @@
     ],
     "createdDate": "2024-12-04T09:23:00.6012718Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -1532,7 +1472,6 @@
     ],
     "createdDate": "2024-12-16T10:12:24.3280897Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -1557,7 +1496,6 @@
     ],
     "createdDate": "2024-12-17T08:46:09.1904801Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -1580,7 +1518,6 @@
     ],
     "createdDate": "2024-12-17T08:47:00.6843151Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -1603,7 +1540,6 @@
     ],
     "createdDate": "2025-01-14T09:10:39.0865304Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -1630,7 +1566,6 @@
     ],
     "createdDate": "2025-01-21T08:51:00.8135304Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -1653,7 +1588,6 @@
     ],
     "createdDate": "2025-08-11T07:13:45.3913957Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -1677,7 +1611,6 @@
     ],
     "createdDate": "2025-12-04T10:46:40.2356363Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -1701,7 +1634,6 @@
     ],
     "createdDate": "2021-07-01T06:40:33.1151286Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -1727,7 +1659,6 @@
     ],
     "createdDate": "2025-04-24T09:13:17.2241756Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -1750,7 +1681,6 @@
     ],
     "createdDate": "2025-04-29T08:58:56.0305031Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -1774,7 +1704,6 @@
     ],
     "createdDate": "2025-05-20T06:36:21.7379727Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -1801,7 +1730,6 @@
     ],
     "createdDate": "2025-05-05T11:14:56.0950436Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -1825,7 +1753,6 @@
     ],
     "createdDate": "2025-05-05T11:34:03.6313977Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -1855,7 +1782,6 @@
     ],
     "createdDate": "2025-05-05T11:38:25.5172626Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -1885,11 +1811,10 @@
       "GTA 5 Legacy"
     ],
     "createdDate": "2021-07-01T06:40:33.1151231Z",
-    "popularGameSortOrder": 8,
-    "filterGroups": [],
+    "popularGameSortOrder": 4,
     "isHighRisk": false,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 5
+    "popularGameSortOrderV2": 4
   },
   {
     "menuGameTitle": "Girls Frontline 2: Exilium",
@@ -1911,7 +1836,6 @@
     ],
     "createdDate": "2025-05-06T10:03:00.9359506Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -1935,7 +1859,6 @@
     ],
     "createdDate": "2025-05-08T09:21:11.6794947Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": true,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -1960,7 +1883,6 @@
     ],
     "createdDate": "2025-05-08T09:39:17.6864308Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": true,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -1982,7 +1904,6 @@
     ],
     "createdDate": "2025-05-12T09:48:36.4168615Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": true,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2006,7 +1927,6 @@
     ],
     "createdDate": "2025-06-12T09:49:17.4155013Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2030,7 +1950,6 @@
     ],
     "createdDate": "2025-07-08T11:14:38.3816126Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2055,7 +1974,6 @@
     ],
     "createdDate": "2025-07-24T08:55:45.8798609Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2077,7 +1995,6 @@
     ],
     "createdDate": "2025-08-05T09:51:25.8812561Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2101,7 +2018,6 @@
     ],
     "createdDate": "2025-11-19T07:51:56.7500791Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2125,7 +2041,6 @@
     ],
     "createdDate": "2025-08-07T07:31:19.8205355Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2152,7 +2067,6 @@
     ],
     "createdDate": "2021-07-01T06:40:33.1151205Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2174,7 +2088,6 @@
     ],
     "createdDate": "2025-08-21T08:56:55.9651253Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2199,7 +2112,6 @@
     ],
     "createdDate": "2025-11-25T11:12:58.2383128Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2223,7 +2135,6 @@
     ],
     "createdDate": "2025-12-16T06:41:51.4907278Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2248,7 +2159,6 @@
     ],
     "createdDate": "2025-10-03T06:51:23.230478Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2273,7 +2183,6 @@
     ],
     "createdDate": "2025-09-29T09:40:07.3370508Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2296,7 +2205,6 @@
     ],
     "createdDate": "2025-09-29T09:44:41.5673553Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2322,7 +2230,6 @@
     ],
     "createdDate": "2021-07-01T06:40:33.1151175Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2346,7 +2253,6 @@
     ],
     "createdDate": "2021-07-01T06:40:33.1151164Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2371,7 +2277,6 @@
     ],
     "createdDate": "2025-10-28T08:23:01.3365108Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2396,7 +2301,6 @@
     ],
     "createdDate": "2025-10-28T08:29:45.3923481Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2419,7 +2323,6 @@
     ],
     "createdDate": "2025-10-29T08:59:16.4355169Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2442,11 +2345,10 @@
       "ヴァロ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151106Z",
-    "popularGameSortOrder": 9,
-    "filterGroups": [],
+    "popularGameSortOrder": 8,
     "isHighRisk": true,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 6
+    "popularGameSortOrderV2": 7
   },
   {
     "menuGameTitle": "Arena Breakout: Infinite",
@@ -2468,7 +2370,6 @@
     ],
     "createdDate": "2025-11-06T10:33:44.4877307Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2492,7 +2393,6 @@
     ],
     "createdDate": "2025-11-05T08:31:42.5022014Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2517,7 +2417,6 @@
     ],
     "createdDate": "2025-11-19T08:40:57.542445Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2541,7 +2440,6 @@
     ],
     "createdDate": "2025-11-26T09:16:23.9667147Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2564,7 +2462,6 @@
     ],
     "createdDate": "2025-11-26T09:22:16.7695999Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2588,7 +2485,6 @@
     ],
     "createdDate": "2025-12-01T09:24:03.2068955Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2612,7 +2508,6 @@
     ],
     "createdDate": "2021-07-01T06:40:33.1151097Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2635,7 +2530,6 @@
     ],
     "createdDate": "2025-12-04T10:25:52.4509577Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2660,7 +2554,6 @@
     ],
     "createdDate": "2025-12-04T10:31:12.3866873Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2685,7 +2578,6 @@
     ],
     "createdDate": "2025-12-11T10:51:02.5364576Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2707,7 +2599,6 @@
     ],
     "createdDate": "2025-12-17T13:32:16.2692082Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2730,7 +2621,6 @@
     ],
     "createdDate": "2025-12-17T13:36:45.2166324Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2752,7 +2642,6 @@
     ],
     "createdDate": "2025-12-17T13:47:34.506365Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2775,7 +2664,6 @@
     ],
     "createdDate": "2025-12-29T10:25:50.6784281Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2798,7 +2686,6 @@
     ],
     "createdDate": "2025-12-29T09:03:33.7041001Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2822,7 +2709,6 @@
     ],
     "createdDate": "2021-07-01T06:40:33.1151089Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2844,7 +2730,6 @@
     ],
     "createdDate": "2025-12-29T09:10:08.2235349Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2867,7 +2752,6 @@
     ],
     "createdDate": "2025-12-29T09:51:48.9318761Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2890,7 +2774,6 @@
     ],
     "createdDate": "2025-12-29T10:12:05.7645077Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2913,7 +2796,6 @@
     ],
     "createdDate": "2025-12-29T10:47:45.0585907Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2936,7 +2818,6 @@
     ],
     "createdDate": "2025-12-29T11:03:26.1639552Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2964,7 +2845,6 @@
     ],
     "createdDate": "2026-05-06T06:24:00.8618583Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -2989,7 +2869,6 @@
     ],
     "createdDate": "2026-01-13T10:46:11.4798869Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -3024,11 +2903,10 @@
       "bo7"
     ],
     "createdDate": "2021-07-01T06:40:33.1151072Z",
-    "popularGameSortOrder": 33,
-    "filterGroups": [],
+    "popularGameSortOrder": 36,
     "isHighRisk": false,
-    "isPopularGameV2": false,
-    "popularGameSortOrderV2": null
+    "isPopularGameV2": true,
+    "popularGameSortOrderV2": 30
   },
   {
     "menuGameTitle": "Bleach: Soul Resonance",
@@ -3049,7 +2927,6 @@
     ],
     "createdDate": "2026-01-12T11:19:33.6046259Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -3073,7 +2950,6 @@
     ],
     "createdDate": "2026-01-19T09:59:33.1335884Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -3096,7 +2972,6 @@
     ],
     "createdDate": "2021-07-01T06:40:33.1151065Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -3120,7 +2995,6 @@
     ],
     "createdDate": "2026-01-20T07:04:19.2167339Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -3142,7 +3016,6 @@
     ],
     "createdDate": "2026-01-26T09:11:08.7630576Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -3166,7 +3039,6 @@
     ],
     "createdDate": "2026-02-03T06:46:58.9255603Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -3188,7 +3060,6 @@
     ],
     "createdDate": "2021-07-01T06:40:33.1151055Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -3211,7 +3082,6 @@
     ],
     "createdDate": "2026-02-10T07:11:27.8750617Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -3235,7 +3105,6 @@
     ],
     "createdDate": "2026-03-23T07:15:17.3378128Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -3258,7 +3127,6 @@
     ],
     "createdDate": "2026-03-03T09:40:18.4054331Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -3281,7 +3149,6 @@
     ],
     "createdDate": "2026-03-05T07:24:22.4910168Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": true,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -3306,7 +3173,6 @@
     ],
     "createdDate": "2026-04-29T09:10:08.9958394Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -3332,7 +3198,6 @@
     ],
     "createdDate": "2021-07-01T06:40:33.1151004Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -3357,7 +3222,6 @@
     ],
     "createdDate": "2026-03-19T09:34:38.1828376Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -3382,7 +3246,6 @@
     ],
     "createdDate": "2026-04-29T09:04:08.6540582Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -3407,7 +3270,6 @@
     ],
     "createdDate": "2026-04-23T09:26:04.3551936Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -3430,7 +3292,6 @@
     ],
     "createdDate": "2024-05-13T11:47:30.9204422Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -3454,7 +3315,6 @@
     ],
     "createdDate": "2026-05-06T06:42:03.4427984Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -3479,7 +3339,6 @@
     ],
     "createdDate": "2026-05-11T06:48:24.1855236Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -3501,7 +3360,6 @@
     ],
     "createdDate": "2026-05-11T08:57:03.2046477Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -3532,7 +3390,6 @@
     ],
     "createdDate": "2021-07-01T06:40:33.1150975Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -3555,7 +3412,6 @@
     ],
     "createdDate": "2026-05-27T07:50:57.1030272Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -3578,7 +3434,6 @@
     ],
     "createdDate": "2026-05-27T07:53:31.7099117Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -3602,7 +3457,6 @@
     ],
     "createdDate": "2026-05-27T07:55:45.4580091Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -3624,7 +3478,6 @@
     ],
     "createdDate": "2026-05-27T07:58:36.663107Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -3647,7 +3500,6 @@
     ],
     "createdDate": "2021-07-01T06:40:33.1150972Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -3672,7 +3524,6 @@
     ],
     "createdDate": "2026-06-09T13:27:01.7047207Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -3697,7 +3548,6 @@
     ],
     "createdDate": "2021-07-01T06:40:33.1150961Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -3723,7 +3573,6 @@
     ],
     "createdDate": "2021-07-01T06:40:33.1150946Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -3748,7 +3597,6 @@
     ],
     "createdDate": "2021-07-01T06:40:33.1150941Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -3772,7 +3620,6 @@
     ],
     "createdDate": "2021-07-01T06:40:33.1150931Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -3802,11 +3649,10 @@
       "レインボーシージ"
     ],
     "createdDate": "2021-07-01T06:40:33.115092Z",
-    "popularGameSortOrder": 13,
-    "filterGroups": [],
+    "popularGameSortOrder": 11,
     "isHighRisk": false,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 11
+    "popularGameSortOrderV2": 10
   },
   {
     "menuGameTitle": "Clash Royale",
@@ -3827,7 +3673,6 @@
     ],
     "createdDate": "2021-07-01T06:40:33.115087Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -3853,7 +3698,6 @@
     ],
     "createdDate": "2021-07-01T06:40:33.1150866Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -3879,7 +3723,6 @@
     ],
     "createdDate": "2021-07-01T06:40:33.1150848Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -3903,7 +3746,6 @@
     ],
     "createdDate": "2021-07-01T06:40:33.1150839Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -3929,11 +3771,10 @@
       "ポケモンゴウ"
     ],
     "createdDate": "2021-07-01T06:40:33.1150836Z",
-    "popularGameSortOrder": 36,
-    "filterGroups": [],
+    "popularGameSortOrder": 29,
     "isHighRisk": false,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 30
+    "popularGameSortOrderV2": 32
   },
   {
     "menuGameTitle": "Call of Duty Mobile",
@@ -3957,7 +3798,6 @@
     ],
     "createdDate": "2021-07-01T06:40:33.1150826Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -3982,11 +3822,10 @@
       "マイクラjava"
     ],
     "createdDate": "2021-07-01T06:40:33.1149805Z",
-    "popularGameSortOrder": 27,
-    "filterGroups": [],
+    "popularGameSortOrder": 25,
     "isHighRisk": false,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 25
+    "popularGameSortOrderV2": 29
   },
   {
     "menuGameTitle": "Origin",
@@ -4006,7 +3845,6 @@
     ],
     "createdDate": "2021-07-01T06:40:33.1150788Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -4031,7 +3869,6 @@
     ],
     "createdDate": "2021-07-01T06:40:33.1150785Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -4105,8 +3942,7 @@
       "+1 Speed Keyboard Escape"
     ],
     "createdDate": "2021-07-01T06:40:33.1149892Z",
-    "popularGameSortOrder": 16,
-    "filterGroups": [],
+    "popularGameSortOrder": 15,
     "isHighRisk": false,
     "isPopularGameV2": true,
     "popularGameSortOrderV2": 12
@@ -4122,7 +3958,7 @@
     "imageAlt": "raid shadow legends accounts",
     "seoAlias": "raid-shadow-legends-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": false,
+    "isPopularGame": true,
     "synonymNames": [
       "Raid: Shadow Legends",
       "レイドシャドウレジェンド",
@@ -4131,11 +3967,10 @@
       "レイドシャドウ"
     ],
     "createdDate": "2021-07-09T07:32:49.8089677Z",
-    "popularGameSortOrder": null,
-    "filterGroups": [],
+    "popularGameSortOrder": 32,
     "isHighRisk": false,
-    "isPopularGameV2": false,
-    "popularGameSortOrderV2": null
+    "isPopularGameV2": true,
+    "popularGameSortOrderV2": 38
   },
   {
     "menuGameTitle": "Lords Mobile",
@@ -4157,7 +3992,6 @@
     ],
     "createdDate": "2021-07-09T07:49:12.7075091Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -4179,7 +4013,6 @@
     ],
     "createdDate": "2021-07-09T07:52:17.2421329Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -4202,7 +4035,6 @@
     ],
     "createdDate": "2021-07-09T08:49:33.7714946Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -4226,7 +4058,6 @@
     ],
     "createdDate": "2021-07-09T09:40:37.7184771Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -4250,7 +4081,6 @@
     ],
     "createdDate": "2021-07-09T09:52:50.3685116Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -4273,7 +4103,6 @@
     ],
     "createdDate": "2021-07-01T06:40:33.1150592Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -4300,7 +4129,6 @@
     ],
     "createdDate": "2025-04-15T10:49:27.3060572Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -4325,7 +4153,6 @@
     ],
     "createdDate": "2021-09-22T12:37:09.155844Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
@@ -4347,7 +4174,6 @@
     ],
     "createdDate": "2023-07-11T07:46:24.1854486Z",
     "popularGameSortOrder": null,
-    "filterGroups": [],
     "isHighRisk": false,
     "isPopularGameV2": false,
     "popularGameSortOrderV2": null
