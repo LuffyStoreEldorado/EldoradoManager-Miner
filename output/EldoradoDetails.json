@@ -151,8 +151,8 @@
     "createdDate": "2021-07-01T06:40:33.1152239Z",
     "popularGameSortOrder": null,
     "isHighRisk": false,
-    "isPopularGameV2": true,
-    "popularGameSortOrderV2": 28,
+    "isPopularGameV2": false,
+    "popularGameSortOrderV2": null,
     "offerAttributes": [
       {
         "selectValues": [
@@ -683,10 +683,10 @@
       "old school rs"
     ],
     "createdDate": "2021-07-01T06:40:33.1152207Z",
-    "popularGameSortOrder": 23,
+    "popularGameSortOrder": 28,
     "isHighRisk": false,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 20,
+    "popularGameSortOrderV2": 23,
     "offerAttributes": [
       {
         "selectValues": [
@@ -6074,10 +6074,10 @@
       "レジェンドオブリーグ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151712Z",
-    "popularGameSortOrder": 21,
+    "popularGameSortOrder": 22,
     "isHighRisk": false,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 22,
+    "popularGameSortOrderV2": 24,
     "offerAttributes": [
       {
         "selectValues": [
@@ -8067,7 +8067,7 @@
       "CS GO"
     ],
     "createdDate": "2021-07-01T06:40:33.1150134Z",
-    "popularGameSortOrder": 34,
+    "popularGameSortOrder": 33,
     "isHighRisk": false,
     "isPopularGameV2": true,
     "popularGameSortOrderV2": 26,
@@ -8803,17 +8803,17 @@
     "imageAlt": "discord accounts",
     "seoAlias": "discord-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": true,
+    "isPopularGame": false,
     "synonymNames": [
       "Discord",
       "DC",
       "ディスコード"
     ],
     "createdDate": "2025-05-20T06:42:45.9371342Z",
-    "popularGameSortOrder": 31,
+    "popularGameSortOrder": null,
     "isHighRisk": true,
-    "isPopularGameV2": true,
-    "popularGameSortOrderV2": 29,
+    "isPopularGameV2": false,
+    "popularGameSortOrderV2": null,
     "offerAttributes": [],
     "attributeIdsCsv": null
   },
@@ -11112,10 +11112,10 @@
       "GTA 5 Legacy"
     ],
     "createdDate": "2021-07-01T06:40:33.1151231Z",
-    "popularGameSortOrder": 8,
+    "popularGameSortOrder": 4,
     "isHighRisk": false,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 5,
+    "popularGameSortOrderV2": 4,
     "offerAttributes": [],
     "attributeIdsCsv": null
   },
@@ -13835,10 +13835,10 @@
       "ヴァロ"
     ],
     "createdDate": "2021-07-01T06:40:33.1151106Z",
-    "popularGameSortOrder": 9,
+    "popularGameSortOrder": 8,
     "isHighRisk": true,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 6,
+    "popularGameSortOrderV2": 7,
     "offerAttributes": [
       {
         "selectValues": [
@@ -16557,10 +16557,10 @@
       "bo7"
     ],
     "createdDate": "2021-07-01T06:40:33.1151072Z",
-    "popularGameSortOrder": 33,
+    "popularGameSortOrder": 36,
     "isHighRisk": false,
-    "isPopularGameV2": false,
-    "popularGameSortOrderV2": null,
+    "isPopularGameV2": true,
+    "popularGameSortOrderV2": 30,
     "offerAttributes": [
       {
         "selectValues": [
@@ -19365,10 +19365,10 @@
       "レインボーシージ"
     ],
     "createdDate": "2021-07-01T06:40:33.115092Z",
-    "popularGameSortOrder": 13,
+    "popularGameSortOrder": 11,
     "isHighRisk": false,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 11,
+    "popularGameSortOrderV2": 10,
     "offerAttributes": [
       {
         "selectValues": [
@@ -20702,10 +20702,10 @@
       "ポケモンゴウ"
     ],
     "createdDate": "2021-07-01T06:40:33.1150836Z",
-    "popularGameSortOrder": 36,
+    "popularGameSortOrder": 29,
     "isHighRisk": false,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 30,
+    "popularGameSortOrderV2": 32,
     "offerAttributes": [
       {
         "selectValues": [
@@ -21363,10 +21363,10 @@
       "マイクラjava"
     ],
     "createdDate": "2021-07-01T06:40:33.1149805Z",
-    "popularGameSortOrder": 27,
+    "popularGameSortOrder": 25,
     "isHighRisk": false,
     "isPopularGameV2": true,
-    "popularGameSortOrderV2": 25,
+    "popularGameSortOrderV2": 29,
     "offerAttributes": [
       {
         "selectValues": [
@@ -21730,7 +21730,7 @@
       "+1 Speed Keyboard Escape"
     ],
     "createdDate": "2021-07-01T06:40:33.1149892Z",
-    "popularGameSortOrder": 16,
+    "popularGameSortOrder": 15,
     "isHighRisk": false,
     "isPopularGameV2": true,
     "popularGameSortOrderV2": 12,
@@ -22492,7 +22492,7 @@
     "imageAlt": "raid shadow legends accounts",
     "seoAlias": "raid-shadow-legends-accounts",
     "isSingleOfferGame": false,
-    "isPopularGame": false,
+    "isPopularGame": true,
     "synonymNames": [
       "Raid: Shadow Legends",
       "レイドシャドウレジェンド",
@@ -22501,10 +22501,10 @@
       "レイドシャドウ"
     ],
     "createdDate": "2021-07-09T07:32:49.8089677Z",
-    "popularGameSortOrder": null,
+    "popularGameSortOrder": 32,
     "isHighRisk": false,
-    "isPopularGameV2": false,
-    "popularGameSortOrderV2": null,
+    "isPopularGameV2": true,
+    "popularGameSortOrderV2": 38,
     "offerAttributes": [
       {
         "selectValues": [
